@@ -1,0 +1,235 @@
+[
+  {
+    "id": "g001",
+    "category": "simple_factual",
+    "question": "How many hours must my health plan cover for a hospital stay after a vaginal delivery versus a cesarean section?",
+    "ground_truth_answer": "At least 48 hours following a vaginal delivery, and at least 96 hours following a cesarean section. The attending provider may discharge the mother or newborn earlier only after consulting with the mother. If discharged early, benefits include a post-discharge follow-up visit within 48 hours of the discharge, when prescribed by the treating Provider. For childbirth admissions, Precertification is not needed for the first 48 hours for a vaginal delivery or 96 hours for a cesarean section.",
+    "ground_truth_page": 5,
+    "ground_truth_pages": [
+      5,
+      58,
+      93
+    ],
+    "ground_truth_source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": "g002",
+    "category": "simple_factual",
+    "question": "What is the copayment for a Tier 1 prescription drug at a retail pharmacy, in-network?",
+    "ground_truth_answer": "$10 Copayment per Prescription Drug after Deductible, in-network. Out-of-network Tier 1 prescription drugs are not covered.",
+    "ground_truth_page": 48,
+    "ground_truth_pages": [
+      48
+    ],
+    "ground_truth_source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": "g003",
+    "category": "cross_reference",
+    "question": "If I'm diagnosed with a maternal mental health condition after giving birth, how long can I continue receiving covered treatment?",
+    "ground_truth_answer": "Up to twelve (12) months from the diagnosis, or from the end of the pregnancy, whichever occurs later.",
+    "ground_truth_page": 55,
+    "ground_truth_pages": [
+      55
+    ],
+    "ground_truth_source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": "g004",
+    "category": "simple_factual",
+    "question": "What is the in-network coinsurance for durable medical equipment after the deductible?",
+    "ground_truth_answer": "50% Coinsurance after Deductible, in-network. Out-of-network is also 50% Coinsurance after Deductible, plus any charges in excess of the Maximum Allowed Amount.",
+    "ground_truth_page": 26,
+    "ground_truth_pages": [
+      26
+    ],
+    "ground_truth_source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": "g005",
+    "category": "near_duplicate_disambiguation",
+    "question": "What is the in-network coinsurance for a Skilled Nursing Facility stay, as opposed to a Hospital/Acute Care Facility stay?",
+    "ground_truth_answer": "Both are 15% Coinsurance after Deductible, in-network. Out-of-network, both are 50% Coinsurance after Deductible plus charges in excess of the maximum Anthem payment of $650 per day.",
+    "ground_truth_page": 30,
+    "ground_truth_pages": [
+      30
+    ],
+    "ground_truth_source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": "g006",
+    "category": "negation_conditional",
+    "question": "If I'm on military leave for 30 days or less, how quickly do I need to return to work to keep my reinstated health coverage?",
+    "ground_truth_answer": "The first full business day after completing military service, with a reasonable amount of travel time allowed. (Leaves of 31-180 days allow 14 days to return; longer leaves allow up to 90 days.)",
+    "ground_truth_page": 161,
+    "ground_truth_pages": [
+      161
+    ],
+    "ground_truth_source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": "g007",
+    "category": "paraphrased",
+    "question": "Can I complain to the state if I think my plan wrongly cancelled my coverage?",
+    "ground_truth_answer": "Yes, a Grievance specifically includes a written or oral expression of dissatisfaction to Anthem or to the Department of Managed Health Care (DMHC) by a Member who believes the Plan has been, or will be, improperly cancelled, rescinded, or not renewed.",
+    "ground_truth_page": 144,
+    "ground_truth_pages": [
+      144,
+      154
+    ],
+    "ground_truth_source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": "g008",
+    "category": "simple_factual",
+    "question": "What is my cost share for home hospice care, in-network?",
+    "ground_truth_answer": "No Copayment or Coinsurance after Deductible, in-network. Out-of-network is 50% Coinsurance after Deductible, plus any charges in excess of the Maximum Allowed Amount.",
+    "ground_truth_page": 29,
+    "ground_truth_pages": [
+      29
+    ],
+    "ground_truth_source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": "g009",
+    "category": "simple_factual",
+    "question": "Does my plan cover bariatric surgery, and are there any restrictions?",
+    "ground_truth_answer": "Yes, bariatric surgery is covered, but only when performed at a designated Hospital. In-network inpatient and outpatient facility services are 15% Coinsurance after Deductible; out-of-network is Not covered.",
+    "ground_truth_page": 24,
+    "ground_truth_pages": [
+      24,
+      102
+    ],
+    "ground_truth_source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": "g010",
+    "category": "paraphrased_indirect",
+    "question": "If I'm not sure about my doctor's diagnosis, can I get another doctor's opinion covered by my plan?",
+    "ground_truth_answer": "Yes, you can get a second medical opinion from another physician, covered according to the plan's normal benefits, limitations, and exclusions. Greater benefits apply if you choose an in-network provider for the second opinion.",
+    "ground_truth_page": 54,
+    "ground_truth_pages": [
+      54
+    ],
+    "ground_truth_source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": "g011",
+    "category": "cross_reference",
+    "question": "If I have a preventive care visit over a video call, is it still covered as preventive care?",
+    "ground_truth_answer": "Yes, if Preventive Care is provided during a Virtual Visit, it is still covered under the Preventive Care benefit, as required by law.",
+    "ground_truth_page": 43,
+    "ground_truth_pages": [
+      43
+    ],
+    "ground_truth_source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": "g012",
+    "category": "simple_factual",
+    "question": "Does the dental plan require pre-approval before getting orthodontic braces?",
+    "ground_truth_answer": "Yes, orthodontic care is specifically reviewed to make sure it's medically or dentally necessary, unlike most other dental services. A Pretreatment Estimate is also recommended before major dental work like braces.",
+    "ground_truth_page": 79,
+    "ground_truth_pages": [
+      79
+    ],
+    "ground_truth_source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": "g013",
+    "category": "unanswerable",
+    "question": "What is the exact dollar amount of my employer's contribution toward my monthly premium?",
+    "ground_truth_answer": "The exact dollar amount is not stated in this document. The Booklet does explain the mechanism: under the Agreement, your employer must pay the subscription charges (also called Premiums) for your coverage, and you should contact your employer directly for the specific dollar amount or any amount withheld from your salary.",
+    "ground_truth_page": 170,
+    "ground_truth_pages": [
+      169,
+      170
+    ],
+    "ground_truth_source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": "g014",
+    "category": "simple_factual",
+    "question": "What is the wait time to speak with a live customer service representative by phone?",
+    "ground_truth_answer": "Ten (10) minutes to reach a live person by phone during normal business hours, for questions to Anthem's Member Services on how to get care or solve a problem.",
+    "ground_truth_page": 11,
+    "ground_truth_pages": [
+      10,
+      11
+    ],
+    "ground_truth_source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": "g015",
+    "category": "multi_hop",
+    "question": "Applied Behavior Analysis is used to treat what kind of condition, and how is it defined in the document?",
+    "ground_truth_answer": "Applied Behavior Analysis means the design, implementation, and evaluation of systematic instructional and environmental modifications to promote positive social behaviors and reduce or ameliorate behaviors which interfere with learning and social interaction, it's part of the plan's Autism Spectrum Disorder / Intensive Behavioral Intervention services.",
+    "ground_truth_page": 66,
+    "ground_truth_pages": [
+      66
+    ],
+    "ground_truth_source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": "g016",
+    "category": "simple_factual",
+    "question": "Until what age can my dependent child stay covered under my plan?",
+    "ground_truth_answer": "To the end of the month in which the child attains age 26.",
+    "ground_truth_page": 21,
+    "ground_truth_pages": [
+      21
+    ],
+    "ground_truth_source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": "g017",
+    "category": "paraphrased",
+    "question": "If a medical treatment I already had causes me to become infertile as a side effect, will treatment to prevent that be covered?",
+    "ground_truth_answer": "Yes, services to prevent iatrogenic infertility are covered when Medically Necessary. Iatrogenic infertility means infertility caused directly or indirectly, as a possible side effect, by surgery, chemotherapy, radiation, or other covered medical treatment. This benefit covers fertility preservation services only, not testing or treatment of infertility itself. Separately, diagnostic tests to find the cause of infertility (such as diagnostic laparoscopy, endometrial biopsy, and semen analysis) and treatment of the underlying medical conditions causing infertility are covered, but assisted reproductive technologies (ART) such as IVF are not.",
+    "ground_truth_page": 86,
+    "ground_truth_pages": [
+      86,
+      93,
+      94
+    ],
+    "ground_truth_source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": "g018",
+    "category": "cross_reference",
+    "question": "Is surgery to fix a birth defect considered cosmetic, or is it covered differently?",
+    "ground_truth_answer": "It's covered differently, Reconstructive Surgery benefits include surgery to correct or repair abnormal structures caused by congenital defects, developmental abnormalities, trauma, infection, tumors, or disease, to improve function or create a normal appearance. This is distinct from the Cosmetic Services exclusion, which applies to surgery meant only to change or improve normal appearance.",
+    "ground_truth_page": 181,
+    "ground_truth_pages": [
+      103,
+      173,
+      181
+    ],
+    "ground_truth_source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": "g019",
+    "category": "negation_conditional",
+    "question": "If my dentist wants to do a root canal, do they need to submit anything to Anthem before starting, or can they just proceed?",
+    "ground_truth_answer": "The document recommends it, but doesn't frame it as strictly required or optional: for major dental care like crowns, root canals, dentures/bridges, oral surgery, or braces, it is best to go over a care or treatment plan with your dentist beforehand, including a Pretreatment Estimate, so you and your dentist know what it will cost and how much your benefits will cover before treatment begins.",
+    "ground_truth_page": 69,
+    "ground_truth_pages": [
+      69,
+      70
+    ],
+    "ground_truth_source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": "g020",
+    "category": "near_duplicate_disambiguation",
+    "question": "What's the difference between how my plan defines Reconstructive Surgery versus Cosmetic Services?",
+    "ground_truth_answer": "Reconstructive Surgery is covered and defined as surgery to correct or repair abnormal structures caused by congenital defects, developmental abnormalities, trauma, infection, tumors, or disease, to improve function or create a normal appearance. Cosmetic Services, by contrast, are excluded and defined as treatments meant only to preserve, change, or improve how someone looks, without a functional or corrective medical basis.",
+    "ground_truth_page": 181,
+    "ground_truth_pages": [
+      103,
+      173,
+      181
+    ],
+    "ground_truth_source_file": "Anthem_EOC.pdf"
+  }
+]

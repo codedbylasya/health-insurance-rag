@@ -1,0 +1,75 @@
+name: RAG Evaluation
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  evaluate:
+    runs-on: ubuntu-latest
+
+    # A Weaviate instance, spun up fresh for this run only, alongside the job.
+    # Matches what "weaviate.connect_to_local()" expects: reachable on localhost.
+    services:
+      weaviate:
+        image: semitechnologies/weaviate:1.25.0
+        ports:
+          - 8080:8080
+          - 50051:50051
+        env:
+          AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED: "true"
+          PERSISTENCE_DATA_PATH: "/var/lib/weaviate"
+          DEFAULT_VECTORIZER_MODULE: "none"
+          ENABLE_MODULES: ""
+          CLUSTER_HOSTNAME: "node1"
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Wait for Weaviate to be ready
+        run: |
+          for i in {1..30}; do
+            if curl -sf http://localhost:8080/v1/.well-known/ready > /dev/null; then
+              echo "Weaviate is ready"
+              exit 0
+            fi
+            echo "Waiting for Weaviate... ($i)"
+            sleep 2
+          done
+          echo "Weaviate did not become ready in time"
+          exit 1
+
+      - name: Ingest documents into Weaviate
+        run: python src/ingest_documents.py
+
+      - name: Run evaluation
+        env:
+          HF_PORTFOLIO_PROJECTS_KEY: ${{ secrets.HF_PORTFOLIO_PROJECTS_KEY }}
+          CO_PORTFOLIO_PROJECTS_KEY: ${{ secrets.CO_PORTFOLIO_PROJECTS_KEY }}
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+        run: python evals/run_eval.py
+
+      - name: Check evaluation results against thresholds
+        run: python evals/check_thresholds.py
+
+      - name: Upload eval results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: eval-results
+          path: |
+            evals/eval_results.csv
+            evals/pipeline_results.json

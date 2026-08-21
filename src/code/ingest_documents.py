@@ -1,12 +1,13 @@
 import json
+import os
 import numpy as np
 import weaviate
 from weaviate.classes.config import Property, DataType
 # 1. Load the text chunks file
-with open(r"C:\Projects\PortfolioProject\health_Doc_Summarizer\data\chunks.json", "r", encoding="utf-8") as f:
+with open(os.path.join(os.path.dirname(__file__),"..", "..", "data", "chunks.json"), "r", encoding="utf-8") as f:
     chunks_data = json.load(f)
 # 2. Load the mathematical vectors file
-embeddings = np.load(r"C:\Projects\PortfolioProject\health_Doc_Summarizer\data\embeddings.npy")
+embeddings = np.load(os.path.join(os.path.dirname(__file__), "..", "..", "data","embeddings.npy"))
 
 print(f"Step 1 Complete! Loaded {len(chunks_data)} text chunks and {len(embeddings)} vectors.")
 # 3. Define schema separately, for readability and reuse

@@ -1,5 +1,5 @@
 import modal
-
+import os
 image = modal.Image.debian_slim().apt_install("libgl1", "libglib2.0-0").pip_install("docling")
 embed_image = modal.Image.debian_slim().pip_install("sentence-transformers")
 
@@ -27,8 +27,8 @@ def process_document_in_cloud(file_bytes: bytes, filename: str) -> dict:
             "id": i,
             "text": chunk.text,
             "headings": chunk.meta.headings or [],
-            "page": pages[0] if pages else None,
-            "pages": pages,
+            "page": (pages[0] - 1) if pages else None,
+            "pages": [p - 1 for p in pages],
             "content_types": content_types,
             "source_file": filename,
         })
@@ -51,7 +51,7 @@ def main():
     import json
     import numpy as np
 
-    pdf_path = r"C:\Projects\PortfolioProject\health_Doc_Summarizer\data\Anthem_EOC.pdf"
+    pdf_path = os.path.join(os.path.dirname(__file__), "..", "..", "data", "Anthem_EOC.pdf")
     file_bytes = open(pdf_path, "rb").read()
 
     result = process_document_in_cloud.remote(file_bytes, "Anthem_EOC.pdf")
@@ -61,8 +61,8 @@ def main():
     embeddings = embed_chunks_in_cloud.remote(chunks_data)
     print(f"Embedded {len(chunks_data)} chunks")
 
-    chunks_path = r"C:\Projects\PortfolioProject\health_Doc_Summarizer\data\chunks.json"
-    embeddings_path = r"C:\Projects\PortfolioProject\health_Doc_Summarizer\data\embeddings.npy"
+    chunks_path = os.path.join(os.path.dirname(__file__), "..", "..", "data", "chunks.json")
+    embeddings_path = os.path.join(os.path.dirname(__file__), "..", "..", "data", "embeddings.npy")
 
     with open(chunks_path, "w", encoding="utf-8") as f:
         json.dump(chunks_data, f, indent=2)
