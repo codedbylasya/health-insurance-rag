@@ -40,6 +40,10 @@ def main():
     failed = False
     for metric, threshold in THRESHOLDS.items():
         score = averages[metric]
+        if pd.isna(score):
+            print(f"{metric:20s} NaN — no valid scores produced  [FAIL]")
+            failed = True
+            continue
         status = "PASS" if score >= threshold else "FAIL"
         if score < threshold:
             failed = True
