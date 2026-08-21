@@ -38,6 +38,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+          python -m spacy download en_core_web_sm
 
       - name: Wait for Weaviate to be ready
         run: |
@@ -53,17 +54,18 @@ jobs:
           exit 1
 
       - name: Ingest documents into Weaviate
-        run: python src/ingest_documents.py
+        run: python src/code/ingest_documents.py
 
       - name: Run evaluation
         env:
           HF_PORTFOLIO_PROJECTS_KEY: ${{ secrets.HF_PORTFOLIO_PROJECTS_KEY }}
           CO_PORTFOLIO_PROJECTS_KEY: ${{ secrets.CO_PORTFOLIO_PROJECTS_KEY }}
           NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
-        run: python evals/run_eval.py
+          GROQ_PORTFOLIO_PROJECTS_KEY: ${{ secrets.GROQ_PORTFOLIO_PROJECTS_KEY }}
+        run: python src/code/run_eval.py
 
       - name: Check evaluation results against thresholds
-        run: python evals/check_thresholds.py
+        run: python src/code/check_thresholds.py
 
       - name: Upload eval results
         if: always()
@@ -71,5 +73,6 @@ jobs:
         with:
           name: eval-results
           path: |
-            evals/eval_results.csv
-            evals/pipeline_results.json
+            data/eval_results.csv
+            data/pipeline_results.json
+            data/citation_correctness_results.json
