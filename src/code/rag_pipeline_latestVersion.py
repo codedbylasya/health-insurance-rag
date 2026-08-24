@@ -62,11 +62,6 @@ def run_rag_pipeline(working_question: str) -> dict:
             if obj.uuid not in seen_uuids:
                 seen_uuids.add(obj.uuid)
                 merged_objects.append(obj)
-        print(f"\n========== MERGED CANDIDATE POOL ({len(merged_objects)} chunks) ==========")
-        for i, obj in enumerate(merged_objects, start=1):
-            page_preview = obj.properties.get('pages', [])
-            text_preview = (obj.properties.get('text') or "")[:70].replace("\n", " ")
-            print(f"Rank {i:2d}  page {page_preview}  '{text_preview}'")
         # ============ RERANK THE MERGED POOL ============
         docs = [obj.properties.get('text') for obj in merged_objects]
         rerank_response = cohere_client.rerank(
@@ -84,10 +79,6 @@ def run_rag_pipeline(working_question: str) -> dict:
                 "pages": obj.properties.get('pages', []),   # full page range, not just first page
                 "source": obj.properties.get('source_file')
             })
-        print(f"\n========== RERANKED TOP {len(top_5_context)} (sent to LLM) ==========")
-        for i, item in enumerate(top_5_context, start=1):
-            text_preview = (item['text'] or "")[:80].replace("\n", " ")
-            print(f"Rank {i}  page {item['pages']}  score={item['score']:.4f}  '{text_preview}'")
 
     # ============ BUILD LLM CONTEXT ============
     llm_context_block = ""
