@@ -17,7 +17,7 @@ RERANK_MODEL = "rerank-v3.5"
 LLM_MODEL = "openai/gpt-oss-20b"
 CURRENT_PROMPT_VERSION = "v12_1"
 hf_client = InferenceClient(token=os.getenv("HF_PORTFOLIO_PROJECTS_KEY"))
-cohere_client = cohere.ClientV2(os.getenv("CO_PORTFOLIO_PROJECTS_KEY"))
+cohere_client = cohere.ClientV2(os.getenv("CO_PORTFOLIO_PROJECTS_KEY_V1"))
 groq_client = Groq(api_key=os.getenv("GROQ_PORTFOLIO_PROJECTS_KEY")) 
 def run_rag_pipeline(working_question: str) -> dict:
     """Run the RAG pipeline end-to-end for a single question.
