@@ -2,7 +2,7 @@ name: RAG Evaluation
 
 on:
   push:
-    branches: [main]
+    branches: [main, develop]
 
 jobs:
   evaluate:
