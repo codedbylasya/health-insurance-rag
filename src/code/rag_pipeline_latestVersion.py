@@ -7,8 +7,8 @@ import weaviate
 from huggingface_hub import InferenceClient, InferenceTimeoutError
 from huggingface_hub.errors import HfHubHTTPError
 from pii_guardrails import pii_guardrail
-from groq import Groq
-import groq
+#from groq import Groq
+#import groq
 
 load_dotenv()
 # ============ 1. INITIALIZATION ============
@@ -18,7 +18,7 @@ LLM_MODEL = "openai/gpt-oss-20b"
 CURRENT_PROMPT_VERSION = "v12_1"
 hf_client = InferenceClient(token=os.getenv("HF_PORTFOLIO_PROJECTS_KEY"))
 cohere_client = cohere.ClientV2(os.getenv("CO_PORTFOLIO_PROJECTS_KEY_V1"))
-groq_client = Groq(api_key=os.getenv("GROQ_PORTFOLIO_PROJECTS_KEY")) 
+#groq_client = Groq(api_key=os.getenv("GROQ_PORTFOLIO_PROJECTS_KEY")) 
 def run_rag_pipeline(working_question: str) -> dict:
     """Run the RAG pipeline end-to-end for a single question.
 
@@ -70,10 +70,10 @@ def run_rag_pipeline(working_question: str) -> dict:
             documents=docs,
             top_n=3
         )
-        top_5_context = []
+        top_context = []
         for r in rerank_response.results:
             obj = merged_objects[r.index]
-            top_5_context.append({
+            top_context.append({
                 "text": obj.properties.get('text'),
                 "score": r.relevance_score,
                 "pages": obj.properties.get('pages', []),   # full page range, not just first page
@@ -82,7 +82,7 @@ def run_rag_pipeline(working_question: str) -> dict:
 
     # ============ BUILD LLM CONTEXT ============
     llm_context_block = ""
-    for num, item in enumerate(top_5_context, start=1):
+    for num, item in enumerate(top_context, start=1):
         pages = item['pages']
         page_str = f"{pages[0]}-{pages[-1]}" if len(pages) > 1 else str(pages[0]) if pages else "unknown"
         llm_context_block += f"[Source: {item['source']}, Page {page_str}]\n"
@@ -105,25 +105,25 @@ def run_rag_pipeline(working_question: str) -> dict:
             model=LLM_MODEL,
             max_tokens=500,
             temperature=0,
-            reasoning_effort="low",
+            #reasoning_effort="low",
             messages=[{"role": "user", "content": final_prompt}]
         )
         answer = completion.choices[0].message.content
         answer_pii_check = pii_guardrail(user_question=None, generated_answer=answer)
         answer = answer_pii_check["redacted_answer"]
     
-    #except InferenceTimeoutError:
-        #error = "LLM request timed out"
-    #except HfHubHTTPError as e:
-        #if "429" in str(e):
-            #error = "Rate limit hit — please retry in a moment"
-        #else:
-            #error = f"HF API error: {str(e)}"
-    #except Exception as e:
-        #error = f"Unexpected error: {str(e)}"
+    except InferenceTimeoutError:
+        error = "LLM request timed out"
+    except HfHubHTTPError as e:
+        if "429" in str(e):
+            error = "Rate limit hit — please retry in a moment"
+        else:
+            error = f"HF API error: {str(e)}"
+    except Exception as e:
+        error = f"Unexpected error: {str(e)}"
     except groq.APITimeoutError:
         error = "LLM request timed out"
-    except groq.RateLimitError as e:
+    """except groq.RateLimitError as e:
         error = "Rate limit hit — please retry in a moment"
     except groq.APIConnectionError as e:
         error = f"Could not reach Groq's servers: {str(e)}"
@@ -131,11 +131,12 @@ def run_rag_pipeline(working_question: str) -> dict:
         error = f"Groq API error {e.status_code}: {str(e)}"
     except Exception as e:
         error = f"Unexpected error: {str(e)}"
+        """
     return {
         "question": user_question,
         "answer": answer,
         "error": error,
-        "context": top_5_context,
+        "context": top_context,
         "prompt": final_prompt,
     }
 
