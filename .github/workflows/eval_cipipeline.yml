@@ -59,7 +59,7 @@ jobs:
       - name: Run evaluation
         env:
           HF_PORTFOLIO_PROJECTS_KEY: ${{ secrets.HF_PORTFOLIO_PROJECTS_KEY }}
-          CO_PORTFOLIO_PROJECTS_KEY: ${{ secrets.CO_PORTFOLIO_PROJECTS_KEY_V1 }}
+          CO_PORTFOLIO_PROJECTS_KEY_V1: ${{ secrets.CO_PORTFOLIO_PROJECTS_KEY_V1 }}
           NV_PORTFOLIO_PROJECTS_KEY: ${{ secrets.NV_PORTFOLIO_PROJECTS_KEY }}
           GROQ_PORTFOLIO_PROJECTS_KEY: ${{ secrets.GROQ_PORTFOLIO_PROJECTS_KEY }}
         run: python src/code/run_eval.py
