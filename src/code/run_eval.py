@@ -25,7 +25,7 @@ def collect_pipeline_results(golden_dataset):
         outcome = run_rag_pipeline(row["question"])
         results.append(outcome)
         print(f"  Done. Answer: {outcome['answer'][:80] if outcome['answer'] else outcome['error']}")
-        time.sleep(10)
+        time.sleep(20)
     return results
 
 
