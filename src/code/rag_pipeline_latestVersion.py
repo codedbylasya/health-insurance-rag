@@ -100,8 +100,8 @@ def run_rag_pipeline(working_question: str) -> dict:
     answer = None
     error = None
     try:
-        #completion = hf_client.chat.completions.create(
-        completion = groq_client.chat.completions.create(
+        completion = hf_client.chat.completions.create(
+        #completion = groq_client.chat.completions.create(
             model=LLM_MODEL,
             max_tokens=500,
             temperature=0,
