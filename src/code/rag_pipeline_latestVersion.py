@@ -16,7 +16,7 @@ EMBED_MODEL = "BAAI/bge-large-en-v1.5"
 RERANK_MODEL = "rerank-v3.5"
 LLM_MODEL = "openai/gpt-oss-20b"
 CURRENT_PROMPT_VERSION = "v12_1"
-#hf_client = InferenceClient(token=os.getenv("HF_PORTFOLIO_PROJECTS_KEY"))
+hf_client = InferenceClient(token=os.getenv("HF_PORTFOLIO_PROJECTS_KEY"))
 cohere_client = cohere.ClientV2(os.getenv("CO_PORTFOLIO_PROJECTS_KEY_V1"))
 groq_client = Groq(api_key=os.getenv("GROQ_PORTFOLIO_PROJECTS_KEY")) 
 def run_rag_pipeline(working_question: str) -> dict:
@@ -112,7 +112,7 @@ def run_rag_pipeline(working_question: str) -> dict:
         answer_pii_check = pii_guardrail(user_question=None, generated_answer=answer)
         answer = answer_pii_check["redacted_answer"]
     
-    except InferenceTimeoutError:
+    """except InferenceTimeoutError:
         error = "LLM request timed out"
     except HfHubHTTPError as e:
         if "429" in str(e):
@@ -123,7 +123,8 @@ def run_rag_pipeline(working_question: str) -> dict:
         error = f"Unexpected error: {str(e)}"
     except groq.APITimeoutError:
         error = "LLM request timed out"
-    """except groq.RateLimitError as e:
+        """
+    except groq.RateLimitError as e:
         error = "Rate limit hit — please retry in a moment"
     except groq.APIConnectionError as e:
         error = f"Could not reach Groq's servers: {str(e)}"
@@ -131,7 +132,6 @@ def run_rag_pipeline(working_question: str) -> dict:
         error = f"Groq API error {e.status_code}: {str(e)}"
     except Exception as e:
         error = f"Unexpected error: {str(e)}"
-        """
     return {
         "question": user_question,
         "answer": answer,
