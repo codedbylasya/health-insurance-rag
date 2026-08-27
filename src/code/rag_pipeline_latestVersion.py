@@ -7,8 +7,8 @@ import weaviate
 from huggingface_hub import InferenceClient, InferenceTimeoutError
 from huggingface_hub.errors import HfHubHTTPError
 from pii_guardrails import pii_guardrail
-#from groq import Groq
-#import groq
+from groq import Groq
+import groq
 
 load_dotenv()
 # ============ 1. INITIALIZATION ============
@@ -16,9 +16,9 @@ EMBED_MODEL = "BAAI/bge-large-en-v1.5"
 RERANK_MODEL = "rerank-v3.5"
 LLM_MODEL = "openai/gpt-oss-20b"
 CURRENT_PROMPT_VERSION = "v12_1"
-hf_client = InferenceClient(token=os.getenv("HF_PORTFOLIO_PROJECTS_KEY"))
+#hf_client = InferenceClient(token=os.getenv("HF_PORTFOLIO_PROJECTS_KEY"))
 cohere_client = cohere.ClientV2(os.getenv("CO_PORTFOLIO_PROJECTS_KEY_V1"))
-#groq_client = Groq(api_key=os.getenv("GROQ_PORTFOLIO_PROJECTS_KEY")) 
+groq_client = Groq(api_key=os.getenv("GROQ_PORTFOLIO_PROJECTS_KEY")) 
 def run_rag_pipeline(working_question: str) -> dict:
     """Run the RAG pipeline end-to-end for a single question.
 
@@ -100,12 +100,12 @@ def run_rag_pipeline(working_question: str) -> dict:
     answer = None
     error = None
     try:
-        completion = hf_client.chat.completions.create(
-        #completion = groq_client.chat.completions.create(
+        #completion = hf_client.chat.completions.create(
+        completion = groq_client.chat.completions.create(
             model=LLM_MODEL,
             max_tokens=500,
             temperature=0,
-            #reasoning_effort="low",
+            reasoning_effort="low",
             messages=[{"role": "user", "content": final_prompt}]
         )
         answer = completion.choices[0].message.content
