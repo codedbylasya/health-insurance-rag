@@ -5,9 +5,9 @@
     "headings": [
       "Evidence of Coverage"
     ],
-    "page": 1,
+    "page": 0,
     "pages": [
-      1
+      0
     ],
     "content_types": [
       "text"
@@ -20,9 +20,9 @@
     "headings": [
       "A Preferred Provider Organization (PPO) Plan"
     ],
-    "page": 1,
+    "page": 0,
     "pages": [
-      1
+      0
     ],
     "content_types": [
       "text"
@@ -35,9 +35,9 @@
     "headings": [
       "Consolidated Appropriations Act of 2021 (CAA)"
     ],
-    "page": 2,
+    "page": 1,
     "pages": [
-      2
+      1
     ],
     "content_types": [
       "text"
@@ -50,9 +50,9 @@
     "headings": [
       "Surprise Billing Claims"
     ],
-    "page": 2,
+    "page": 1,
     "pages": [
-      2
+      1
     ],
     "content_types": [
       "list_item",
@@ -66,9 +66,9 @@
     "headings": [
       "No Surprises Act Requirements"
     ],
-    "page": 2,
+    "page": 1,
     "pages": [
-      2
+      1
     ],
     "content_types": [
       "list_item",
@@ -82,10 +82,10 @@
     "headings": [
       "Out-of-Network Services Provided at an In-Network Facility"
     ],
-    "page": 2,
+    "page": 1,
     "pages": [
-      2,
-      3
+      1,
+      2
     ],
     "content_types": [
       "list_item",
@@ -99,9 +99,9 @@
     "headings": [
       "Out-of-Network Air Ambulance Services"
     ],
-    "page": 3,
+    "page": 2,
     "pages": [
-      3
+      2
     ],
     "content_types": [
       "text"
@@ -114,9 +114,9 @@
     "headings": [
       "How Cost Shares Are Calculated"
     ],
-    "page": 3,
+    "page": 2,
     "pages": [
-      3
+      2
     ],
     "content_types": [
       "text"
@@ -129,9 +129,9 @@
     "headings": [
       "Appeals"
     ],
-    "page": 3,
+    "page": 2,
     "pages": [
-      3
+      2
     ],
     "content_types": [
       "text"
@@ -144,9 +144,9 @@
     "headings": [
       "Provider Directories"
     ],
-    "page": 3,
+    "page": 2,
     "pages": [
-      3
+      2
     ],
     "content_types": [
       "text"
@@ -159,10 +159,10 @@
     "headings": [
       "Transparency Requirements"
     ],
-    "page": 3,
+    "page": 2,
     "pages": [
-      3,
-      4
+      2,
+      3
     ],
     "content_types": [
       "list_item",
@@ -176,9 +176,9 @@
     "headings": [
       "Choice of Primary Care Physician"
     ],
-    "page": 5,
+    "page": 4,
     "pages": [
-      5
+      4
     ],
     "content_types": [
       "text"
@@ -191,9 +191,9 @@
     "headings": [
       "Access to Obstetrical and Gynecological (ObGyn) Care"
     ],
-    "page": 5,
+    "page": 4,
     "pages": [
-      5
+      4
     ],
     "content_types": [
       "text"
@@ -206,9 +206,9 @@
     "headings": [
       "Statement of Rights under the Newborns' and Mother's Health Protection Act"
     ],
-    "page": 6,
+    "page": 5,
     "pages": [
-      6
+      5
     ],
     "content_types": [
       "text"
@@ -221,9 +221,9 @@
     "headings": [
       "Statement of Rights under the Women's Cancer Rights Act of 1998"
     ],
-    "page": 6,
+    "page": 5,
     "pages": [
-      6
+      5
     ],
     "content_types": [
       "list_item",
@@ -237,9 +237,9 @@
     "headings": [
       "Coverage for a Child Due to a Qualified Medical Support Order ('QMCSO')"
     ],
-    "page": 6,
+    "page": 5,
     "pages": [
-      6
+      5
     ],
     "content_types": [
       "text"
@@ -252,10 +252,10 @@
     "headings": [
       "Mental Health Parity and Addiction Equity Act"
     ],
-    "page": 6,
+    "page": 5,
     "pages": [
-      6,
-      7
+      5,
+      6
     ],
     "content_types": [
       "text"
@@ -268,9 +268,9 @@
     "headings": [
       "Statement of ERISA Rights"
     ],
-    "page": 7,
+    "page": 6,
     "pages": [
-      7
+      6
     ],
     "content_types": [
       "list_item",
@@ -284,9 +284,9 @@
     "headings": [
       "Statement of ERISA Rights"
     ],
-    "page": 7,
+    "page": 6,
     "pages": [
-      7
+      6
     ],
     "content_types": [
       "text"
@@ -299,9 +299,9 @@
     "headings": [
       "Notices Required by State Law"
     ],
-    "page": 8,
+    "page": 7,
     "pages": [
-      8
+      7
     ],
     "content_types": [
       "list_item",
@@ -315,9 +315,9 @@
     "headings": [
       "Notice of Non-Discrimination"
     ],
-    "page": 8,
+    "page": 7,
     "pages": [
-      8
+      7
     ],
     "content_types": [
       "text"
@@ -330,9 +330,9 @@
     "headings": [
       "Confidential Communications of Medical Information"
     ],
-    "page": 8,
+    "page": 7,
     "pages": [
-      8
+      7
     ],
     "content_types": [
       "text"
@@ -345,9 +345,9 @@
     "headings": [
       "Telehealth Provider Visits"
     ],
-    "page": 9,
+    "page": 8,
     "pages": [
-      9
+      8
     ],
     "content_types": [
       "list_item",
@@ -361,9 +361,9 @@
     "headings": [
       "Community Assistance, Recovery, and Empowerment (CARE) Act"
     ],
-    "page": 9,
+    "page": 8,
     "pages": [
-      9
+      8
     ],
     "content_types": [
       "text"
@@ -376,9 +376,9 @@
     "headings": [
       "Notice of Reproductive Rights When Plan Exclusions Exist for Contraceptives, Abortion, and/or Sterilization"
     ],
-    "page": 9,
+    "page": 8,
     "pages": [
-      9
+      8
     ],
     "content_types": [
       "text"
@@ -391,9 +391,9 @@
     "headings": [
       "Abortion"
     ],
-    "page": 10,
+    "page": 9,
     "pages": [
-      10
+      9
     ],
     "content_types": [
       "text"
@@ -406,9 +406,9 @@
     "headings": [
       "Contraception"
     ],
-    "page": 10,
+    "page": 9,
     "pages": [
-      10
+      9
     ],
     "content_types": [
       "text"
@@ -421,9 +421,9 @@
     "headings": [
       "Mental Health and Substance Use Disorder (Chemical Dependency) Services"
     ],
-    "page": 10,
+    "page": 9,
     "pages": [
-      10
+      9
     ],
     "content_types": [
       "text"
@@ -436,9 +436,9 @@
     "headings": [
       "Timely Access to Care"
     ],
-    "page": 11,
+    "page": 10,
     "pages": [
-      11
+      10
     ],
     "content_types": [
       "text"
@@ -451,9 +451,9 @@
     "headings": [
       "For Medical care:"
     ],
-    "page": 11,
+    "page": 10,
     "pages": [
-      11
+      10
     ],
     "content_types": [
       "list_item"
@@ -466,9 +466,9 @@
     "headings": [
       "For Mental Health and Substance Use Disorder care:"
     ],
-    "page": 11,
+    "page": 10,
     "pages": [
-      11
+      10
     ],
     "content_types": [
       "list_item",
@@ -482,10 +482,10 @@
     "headings": [
       "For Vision care:"
     ],
-    "page": 11,
+    "page": 10,
     "pages": [
-      11,
-      12
+      10,
+      11
     ],
     "content_types": [
       "list_item"
@@ -498,9 +498,9 @@
     "headings": [
       "For Dental care:"
     ],
-    "page": 12,
+    "page": 11,
     "pages": [
-      12
+      11
     ],
     "content_types": [
       "list_item",
@@ -514,9 +514,9 @@
     "headings": [
       "For Medical, Vision and Dental care:"
     ],
-    "page": 12,
+    "page": 11,
     "pages": [
-      12
+      11
     ],
     "content_types": [
       "text"
@@ -529,9 +529,9 @@
     "headings": [
       "Welcome to Anthem!"
     ],
-    "page": 13,
+    "page": 12,
     "pages": [
-      13
+      12
     ],
     "content_types": [
       "text"
@@ -544,9 +544,9 @@
     "headings": [
       "Welcome to Anthem!"
     ],
-    "page": 13,
+    "page": 12,
     "pages": [
-      13
+      12
     ],
     "content_types": [
       "text"
@@ -559,9 +559,9 @@
     "headings": [
       "High-Deductible Health Plan for Use with Health Savings Accounts"
     ],
-    "page": 13,
+    "page": 12,
     "pages": [
-      13
+      12
     ],
     "content_types": [
       "text"
@@ -574,9 +574,9 @@
     "headings": [
       "How to Get Language Assistance"
     ],
-    "page": 14,
+    "page": 13,
     "pages": [
-      14
+      13
     ],
     "content_types": [
       "caption",
@@ -590,9 +590,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 15,
+    "page": 14,
     "pages": [
-      15
+      14
     ],
     "content_types": [
       "document_index"
@@ -605,9 +605,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 15,
+    "page": 14,
     "pages": [
-      15
+      14
     ],
     "content_types": [
       "document_index"
@@ -620,9 +620,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 15,
+    "page": 14,
     "pages": [
-      15
+      14
     ],
     "content_types": [
       "document_index"
@@ -635,9 +635,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 15,
+    "page": 14,
     "pages": [
-      15
+      14
     ],
     "content_types": [
       "document_index"
@@ -650,9 +650,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 15,
+    "page": 14,
     "pages": [
-      15
+      14
     ],
     "content_types": [
       "document_index"
@@ -665,9 +665,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 15,
+    "page": 14,
     "pages": [
-      15
+      14
     ],
     "content_types": [
       "document_index"
@@ -680,9 +680,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 15,
+    "page": 14,
     "pages": [
-      15
+      14
     ],
     "content_types": [
       "document_index"
@@ -695,9 +695,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 15,
+    "page": 14,
     "pages": [
-      15
+      14
     ],
     "content_types": [
       "document_index"
@@ -710,9 +710,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 15,
+    "page": 14,
     "pages": [
-      15
+      14
     ],
     "content_types": [
       "document_index"
@@ -725,9 +725,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 15,
+    "page": 14,
     "pages": [
-      15
+      14
     ],
     "content_types": [
       "document_index"
@@ -740,9 +740,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 15,
+    "page": 14,
     "pages": [
-      15
+      14
     ],
     "content_types": [
       "document_index"
@@ -755,9 +755,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 15,
+    "page": 14,
     "pages": [
-      15
+      14
     ],
     "content_types": [
       "document_index"
@@ -770,9 +770,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 15,
+    "page": 14,
     "pages": [
-      15
+      14
     ],
     "content_types": [
       "document_index"
@@ -785,9 +785,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 16,
+    "page": 15,
     "pages": [
-      16
+      15
     ],
     "content_types": [
       "document_index"
@@ -800,9 +800,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 16,
+    "page": 15,
     "pages": [
-      16
+      15
     ],
     "content_types": [
       "document_index"
@@ -815,9 +815,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 16,
+    "page": 15,
     "pages": [
-      16
+      15
     ],
     "content_types": [
       "document_index"
@@ -830,9 +830,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 16,
+    "page": 15,
     "pages": [
-      16
+      15
     ],
     "content_types": [
       "document_index"
@@ -845,9 +845,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 16,
+    "page": 15,
     "pages": [
-      16
+      15
     ],
     "content_types": [
       "document_index"
@@ -860,9 +860,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 16,
+    "page": 15,
     "pages": [
-      16
+      15
     ],
     "content_types": [
       "document_index"
@@ -875,9 +875,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 16,
+    "page": 15,
     "pages": [
-      16
+      15
     ],
     "content_types": [
       "document_index"
@@ -890,9 +890,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 16,
+    "page": 15,
     "pages": [
-      16
+      15
     ],
     "content_types": [
       "document_index"
@@ -905,9 +905,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 16,
+    "page": 15,
     "pages": [
-      16
+      15
     ],
     "content_types": [
       "document_index"
@@ -920,9 +920,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 16,
+    "page": 15,
     "pages": [
-      16
+      15
     ],
     "content_types": [
       "document_index"
@@ -935,9 +935,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 16,
+    "page": 15,
     "pages": [
-      16
+      15
     ],
     "content_types": [
       "document_index"
@@ -950,9 +950,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 16,
+    "page": 15,
     "pages": [
-      16
+      15
     ],
     "content_types": [
       "document_index"
@@ -965,9 +965,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 16,
+    "page": 15,
     "pages": [
-      16
+      15
     ],
     "content_types": [
       "document_index"
@@ -980,9 +980,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 16,
+    "page": 15,
     "pages": [
-      16
+      15
     ],
     "content_types": [
       "document_index"
@@ -995,9 +995,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 16,
+    "page": 15,
     "pages": [
-      16
+      15
     ],
     "content_types": [
       "document_index"
@@ -1010,9 +1010,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 16,
+    "page": 15,
     "pages": [
-      16
+      15
     ],
     "content_types": [
       "document_index"
@@ -1025,9 +1025,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 17,
+    "page": 16,
     "pages": [
-      17
+      16
     ],
     "content_types": [
       "document_index"
@@ -1040,9 +1040,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 17,
+    "page": 16,
     "pages": [
-      17
+      16
     ],
     "content_types": [
       "document_index"
@@ -1055,9 +1055,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 17,
+    "page": 16,
     "pages": [
-      17
+      16
     ],
     "content_types": [
       "document_index"
@@ -1070,9 +1070,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 17,
+    "page": 16,
     "pages": [
-      17
+      16
     ],
     "content_types": [
       "document_index"
@@ -1085,9 +1085,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 17,
+    "page": 16,
     "pages": [
-      17
+      16
     ],
     "content_types": [
       "document_index"
@@ -1100,9 +1100,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 17,
+    "page": 16,
     "pages": [
-      17
+      16
     ],
     "content_types": [
       "document_index"
@@ -1115,9 +1115,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 17,
+    "page": 16,
     "pages": [
-      17
+      16
     ],
     "content_types": [
       "document_index"
@@ -1130,9 +1130,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 17,
+    "page": 16,
     "pages": [
-      17
+      16
     ],
     "content_types": [
       "document_index"
@@ -1145,9 +1145,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 17,
+    "page": 16,
     "pages": [
-      17
+      16
     ],
     "content_types": [
       "document_index"
@@ -1160,9 +1160,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 17,
+    "page": 16,
     "pages": [
-      17
+      16
     ],
     "content_types": [
       "document_index"
@@ -1175,9 +1175,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 17,
+    "page": 16,
     "pages": [
-      17
+      16
     ],
     "content_types": [
       "document_index"
@@ -1190,9 +1190,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 17,
+    "page": 16,
     "pages": [
-      17
+      16
     ],
     "content_types": [
       "document_index"
@@ -1205,9 +1205,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 17,
+    "page": 16,
     "pages": [
-      17
+      16
     ],
     "content_types": [
       "document_index"
@@ -1220,9 +1220,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 17,
+    "page": 16,
     "pages": [
-      17
+      16
     ],
     "content_types": [
       "document_index"
@@ -1235,9 +1235,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 17,
+    "page": 16,
     "pages": [
-      17
+      16
     ],
     "content_types": [
       "document_index"
@@ -1250,9 +1250,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 17,
+    "page": 16,
     "pages": [
-      17
+      16
     ],
     "content_types": [
       "document_index"
@@ -1265,9 +1265,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 18,
+    "page": 17,
     "pages": [
-      18
+      17
     ],
     "content_types": [
       "document_index"
@@ -1280,9 +1280,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 18,
+    "page": 17,
     "pages": [
-      18
+      17
     ],
     "content_types": [
       "document_index"
@@ -1295,9 +1295,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 18,
+    "page": 17,
     "pages": [
-      18
+      17
     ],
     "content_types": [
       "document_index"
@@ -1310,9 +1310,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 18,
+    "page": 17,
     "pages": [
-      18
+      17
     ],
     "content_types": [
       "document_index"
@@ -1325,9 +1325,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 18,
+    "page": 17,
     "pages": [
-      18
+      17
     ],
     "content_types": [
       "document_index"
@@ -1340,9 +1340,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 18,
+    "page": 17,
     "pages": [
-      18
+      17
     ],
     "content_types": [
       "document_index"
@@ -1355,9 +1355,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 18,
+    "page": 17,
     "pages": [
-      18
+      17
     ],
     "content_types": [
       "document_index"
@@ -1370,9 +1370,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 18,
+    "page": 17,
     "pages": [
-      18
+      17
     ],
     "content_types": [
       "document_index"
@@ -1385,9 +1385,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 18,
+    "page": 17,
     "pages": [
-      18
+      17
     ],
     "content_types": [
       "document_index"
@@ -1400,9 +1400,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 18,
+    "page": 17,
     "pages": [
-      18
+      17
     ],
     "content_types": [
       "document_index"
@@ -1415,9 +1415,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 18,
+    "page": 17,
     "pages": [
-      18
+      17
     ],
     "content_types": [
       "document_index"
@@ -1430,9 +1430,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 18,
+    "page": 17,
     "pages": [
-      18
+      17
     ],
     "content_types": [
       "document_index"
@@ -1445,9 +1445,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 18,
+    "page": 17,
     "pages": [
-      18
+      17
     ],
     "content_types": [
       "document_index"
@@ -1460,9 +1460,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 18,
+    "page": 17,
     "pages": [
-      18
+      17
     ],
     "content_types": [
       "document_index"
@@ -1475,9 +1475,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 19,
+    "page": 18,
     "pages": [
-      19
+      18
     ],
     "content_types": [
       "document_index"
@@ -1490,9 +1490,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 19,
+    "page": 18,
     "pages": [
-      19
+      18
     ],
     "content_types": [
       "document_index"
@@ -1505,9 +1505,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 19,
+    "page": 18,
     "pages": [
-      19
+      18
     ],
     "content_types": [
       "document_index"
@@ -1520,9 +1520,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 19,
+    "page": 18,
     "pages": [
-      19
+      18
     ],
     "content_types": [
       "document_index"
@@ -1535,9 +1535,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 19,
+    "page": 18,
     "pages": [
-      19
+      18
     ],
     "content_types": [
       "document_index"
@@ -1550,9 +1550,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 19,
+    "page": 18,
     "pages": [
-      19
+      18
     ],
     "content_types": [
       "document_index"
@@ -1565,9 +1565,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 19,
+    "page": 18,
     "pages": [
-      19
+      18
     ],
     "content_types": [
       "document_index"
@@ -1580,9 +1580,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 19,
+    "page": 18,
     "pages": [
-      19
+      18
     ],
     "content_types": [
       "document_index"
@@ -1595,9 +1595,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 19,
+    "page": 18,
     "pages": [
-      19
+      18
     ],
     "content_types": [
       "document_index"
@@ -1610,9 +1610,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 19,
+    "page": 18,
     "pages": [
-      19
+      18
     ],
     "content_types": [
       "document_index"
@@ -1625,9 +1625,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 19,
+    "page": 18,
     "pages": [
-      19
+      18
     ],
     "content_types": [
       "document_index"
@@ -1640,9 +1640,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 19,
+    "page": 18,
     "pages": [
-      19
+      18
     ],
     "content_types": [
       "document_index"
@@ -1655,9 +1655,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 19,
+    "page": 18,
     "pages": [
-      19
+      18
     ],
     "content_types": [
       "document_index"
@@ -1670,9 +1670,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 19,
+    "page": 18,
     "pages": [
-      19
+      18
     ],
     "content_types": [
       "document_index"
@@ -1685,9 +1685,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 19,
+    "page": 18,
     "pages": [
-      19
+      18
     ],
     "content_types": [
       "document_index"
@@ -1700,9 +1700,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 20,
+    "page": 19,
     "pages": [
-      20
+      19
     ],
     "content_types": [
       "document_index"
@@ -1715,9 +1715,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 20,
+    "page": 19,
     "pages": [
-      20
+      19
     ],
     "content_types": [
       "document_index"
@@ -1730,9 +1730,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 20,
+    "page": 19,
     "pages": [
-      20
+      19
     ],
     "content_types": [
       "document_index"
@@ -1745,9 +1745,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 20,
+    "page": 19,
     "pages": [
-      20
+      19
     ],
     "content_types": [
       "document_index"
@@ -1760,9 +1760,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 20,
+    "page": 19,
     "pages": [
-      20
+      19
     ],
     "content_types": [
       "document_index"
@@ -1775,9 +1775,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 20,
+    "page": 19,
     "pages": [
-      20
+      19
     ],
     "content_types": [
       "document_index"
@@ -1790,9 +1790,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 20,
+    "page": 19,
     "pages": [
-      20
+      19
     ],
     "content_types": [
       "document_index"
@@ -1805,9 +1805,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 20,
+    "page": 19,
     "pages": [
-      20
+      19
     ],
     "content_types": [
       "document_index"
@@ -1820,9 +1820,9 @@
     "headings": [
       "Table of Contents"
     ],
-    "page": 20,
+    "page": 19,
     "pages": [
-      20
+      19
     ],
     "content_types": [
       "document_index"
@@ -1835,9 +1835,9 @@
     "headings": [
       "A PPO PLAN"
     ],
-    "page": 21,
+    "page": 20,
     "pages": [
-      21
+      20
     ],
     "content_types": [
       "text"
@@ -1850,9 +1850,9 @@
     "headings": [
       "A PPO PLAN"
     ],
-    "page": 21,
+    "page": 20,
     "pages": [
-      21
+      20
     ],
     "content_types": [
       "list_item",
@@ -1866,9 +1866,9 @@
     "headings": [
       "Benefit Period"
     ],
-    "page": 22,
+    "page": 21,
     "pages": [
-      22
+      21
     ],
     "content_types": [
       "text"
@@ -1881,9 +1881,9 @@
     "headings": [
       "Dependent Age Limit"
     ],
-    "page": 22,
+    "page": 21,
     "pages": [
-      22
+      21
     ],
     "content_types": [
       "table",
@@ -1897,9 +1897,9 @@
     "headings": [
       "Dependent Age Limit"
     ],
-    "page": 22,
+    "page": 21,
     "pages": [
-      22
+      21
     ],
     "content_types": [
       "text"
@@ -1912,10 +1912,10 @@
     "headings": [
       "Dependent Age Limit"
     ],
-    "page": 22,
+    "page": 21,
     "pages": [
-      22,
-      23
+      21,
+      22
     ],
     "content_types": [
       "text"
@@ -1928,9 +1928,9 @@
     "headings": [
       "Dependent Age Limit"
     ],
-    "page": 23,
+    "page": 22,
     "pages": [
-      23
+      22
     ],
     "content_types": [
       "table"
@@ -1943,9 +1943,9 @@
     "headings": [
       "Dependent Age Limit"
     ],
-    "page": 23,
+    "page": 22,
     "pages": [
-      23
+      22
     ],
     "content_types": [
       "list_item",
@@ -1959,9 +1959,9 @@
     "headings": [
       "Dependent Age Limit"
     ],
-    "page": 23,
+    "page": 22,
     "pages": [
-      23
+      22
     ],
     "content_types": [
       "text"
@@ -1974,9 +1974,9 @@
     "headings": [
       "Important Notice about Your Deductible and Out-of-Pocket Limit Accrual Balances"
     ],
-    "page": 24,
+    "page": 23,
     "pages": [
-      24
+      23
     ],
     "content_types": [
       "text"
@@ -1989,9 +1989,9 @@
     "headings": [
       "Important Notice about Your Cost Shares"
     ],
-    "page": 24,
+    "page": 23,
     "pages": [
-      24
+      23
     ],
     "content_types": [
       "table",
@@ -2005,9 +2005,9 @@
     "headings": [
       "Ambulance Services (Ground, Air and Water) Emergency Services"
     ],
-    "page": 24,
+    "page": 23,
     "pages": [
-      24
+      23
     ],
     "content_types": [
       "text"
@@ -2020,9 +2020,9 @@
     "headings": [
       "Ambulance Services (Ground, Air and Water) NonEmergency Services"
     ],
-    "page": 25,
+    "page": 24,
     "pages": [
-      25
+      24
     ],
     "content_types": [
       "text"
@@ -2035,9 +2035,9 @@
     "headings": [
       "Bariatric surgery is covered only when performed at a designated Hospital."
     ],
-    "page": 25,
+    "page": 24,
     "pages": [
-      25
+      24
     ],
     "content_types": [
       "table",
@@ -2051,9 +2051,9 @@
     "headings": [
       "Bariatric surgery is covered only when performed at a designated Hospital."
     ],
-    "page": 26,
+    "page": 25,
     "pages": [
-      26
+      25
     ],
     "content_types": [
       "table"
@@ -2066,9 +2066,9 @@
     "headings": [
       "Bariatric surgery is covered only when performed at a designated Hospital."
     ],
-    "page": 26,
+    "page": 25,
     "pages": [
-      26
+      25
     ],
     "content_types": [
       "table"
@@ -2081,9 +2081,9 @@
     "headings": [
       "Diabetes Equipment, Education, and Supplies"
     ],
-    "page": 27,
+    "page": 26,
     "pages": [
-      27
+      26
     ],
     "content_types": [
       "text"
@@ -2096,9 +2096,9 @@
     "headings": [
       "Out-of-Network"
     ],
-    "page": 27,
+    "page": 26,
     "pages": [
-      27
+      26
     ],
     "content_types": [
       "text"
@@ -2111,10 +2111,10 @@
     "headings": [
       "Diagnostic Services"
     ],
-    "page": 27,
+    "page": 26,
     "pages": [
-      27,
-      28
+      26,
+      27
     ],
     "content_types": [
       "list_item",
@@ -2129,9 +2129,9 @@
     "headings": [
       "Emergency Room"
     ],
-    "page": 28,
+    "page": 27,
     "pages": [
-      28
+      27
     ],
     "content_types": [
       "list_item",
@@ -2145,9 +2145,9 @@
     "headings": [
       "Emergency Room"
     ],
-    "page": 29,
+    "page": 28,
     "pages": [
-      29
+      28
     ],
     "content_types": [
       "table"
@@ -2160,10 +2160,10 @@
     "headings": [
       "Emergency Room"
     ],
-    "page": 29,
+    "page": 28,
     "pages": [
-      29,
-      30
+      28,
+      29
     ],
     "content_types": [
       "table",
@@ -2177,9 +2177,9 @@
     "headings": [
       "Human Organ and Tissue Transplant (Bone Marrow / Stem Cell) Services"
     ],
-    "page": 30,
+    "page": 29,
     "pages": [
-      30
+      29
     ],
     "content_types": [
       "text"
@@ -2189,6 +2189,21 @@
   {
     "id": 144,
     "text": "Inpatient Services, In-Network = . Inpatient Services, Out-of-Network = . Facility Room & Board Charge:, In-Network = . Facility Room & Board Charge:, Out-of-Network = . \uf0b7 Hospital / Acute Care Facility, In-Network = 15% Coinsurance after Deductible. \uf0b7 Hospital / Acute Care Facility, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $650 per. \uf0b7 Skilled Nursing Facility, In-Network = 15% Coinsurance after Deductible. \uf0b7 Skilled Nursing Facility, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $150 per day. \uf0b7 Rehabilitation, In-Network = 15% Coinsurance after Deductible. \uf0b7 Rehabilitation, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $150 per day. Skilled Nursing Facility / Rehabilitative Services (Includes Services in an Outpatient Day Rehabilitation Program) Benefit Maximum, In-Network = 100 days per Skilled Nursing Benefit Period In- and Out-of-Network combined. Skilled Nursing Facility / Rehabilitative Services (Includes Services in an Outpatient Day Rehabilitation Program) Benefit Maximum, Out-of-Network = 100 days per Skilled Nursing Benefit Period In- and Out-of-Network combined. \uf0b7 Mental Health / Substance Use Disorder Facility, In-Network = 15% Coinsurance after Deductible. \uf0b7 Mental Health / Substance Use Disorder Facility, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $650 per day. \uf0b7 Residential Treatment Center, In-Network = 15% Coinsurance after Deductible. \uf0b7 Residential Treatment Center, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $650 per day. \uf0b7 Ancillary Services, In-Network = 15% Coinsurance after Deductible. \uf0b7 Ancillary Services, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $650 per day",
+    "headings": [
+      "Human Organ and Tissue Transplant (Bone Marrow / Stem Cell) Services"
+    ],
+    "page": 30,
+    "pages": [
+      30
+    ],
+    "content_types": [
+      "table"
+    ],
+    "source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": 145,
+    "text": "Doctor Services when billed separately from the Facility for:, In-Network = . Doctor Services when billed separately from the Facility for:, Out-of-Network = . \uf0b7 General Medical Care / Evaluation and Management (E&M), In-Network = 15% Coinsurance after Deductible. \uf0b7 General Medical Care / Evaluation and Management (E&M), Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the Maximum Allowed Amount. \uf0b7 Surgery, In-Network = 15% Coinsurance after Deductible. \uf0b7 Surgery, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the Maximum Allowed Amount. \uf0b7 Maternity, In-Network = 15% Coinsurance after Deductible. \uf0b7 Maternity, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the Maximum Allowed Amount. \uf0b7 Mental Health / Substance Use Disorder Services, In-Network = 15% Coinsurance after Deductible. \uf0b7 Mental Health / Substance Use Disorder Services, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the Maximum Allowed Amount",
     "headings": [
       "Human Organ and Tissue Transplant (Bone Marrow / Stem Cell) Services"
     ],
@@ -2202,29 +2217,14 @@
     "source_file": "Anthem_EOC.pdf"
   },
   {
-    "id": 145,
-    "text": "Doctor Services when billed separately from the Facility for:, In-Network = . Doctor Services when billed separately from the Facility for:, Out-of-Network = . \uf0b7 General Medical Care / Evaluation and Management (E&M), In-Network = 15% Coinsurance after Deductible. \uf0b7 General Medical Care / Evaluation and Management (E&M), Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the Maximum Allowed Amount. \uf0b7 Surgery, In-Network = 15% Coinsurance after Deductible. \uf0b7 Surgery, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the Maximum Allowed Amount. \uf0b7 Maternity, In-Network = 15% Coinsurance after Deductible. \uf0b7 Maternity, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the Maximum Allowed Amount. \uf0b7 Mental Health / Substance Use Disorder Services, In-Network = 15% Coinsurance after Deductible. \uf0b7 Mental Health / Substance Use Disorder Services, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the Maximum Allowed Amount",
-    "headings": [
-      "Human Organ and Tissue Transplant (Bone Marrow / Stem Cell) Services"
-    ],
-    "page": 32,
-    "pages": [
-      32
-    ],
-    "content_types": [
-      "table"
-    ],
-    "source_file": "Anthem_EOC.pdf"
-  },
-  {
     "id": 146,
     "text": "- \uf0b7 Maternity Visits\n-, 1 = Prenatal Office Visits. -, 2 = No Copayment, Deductible, or Coinsurance. -, 3 = 50% Coinsurance after Deductible plus any charges in excess of the Maximum Allowed Amount. -, 1 = Postpartum Office Visits. -, 2 = 15% Coinsurance after Deductible. -, 3 = 50% Coinsurance after Deductible plus any charges in excess of the Maximum Allowed Amount\nIf you obtain services other than Prenatal or Postpartum Office Visits (e.g., postnatal office visits), please see that setting for your cost share.\n- \uf0b7 Inpatient Services (Delivery)\nSee 'Inpatient Services.'\nNewborn / Maternity Stays: If the newborn needs services other than routine nursery care or stays in the Hospital after the mother is discharged (sent home), benefits for the newborn will be treated as a separate admission.",
     "headings": [
       "Maternity and Reproductive Health Services"
     ],
-    "page": 32,
+    "page": 31,
     "pages": [
-      32
+      31
     ],
     "content_types": [
       "list_item",
@@ -2239,9 +2239,9 @@
     "headings": [
       "Benefits"
     ],
-    "page": 33,
+    "page": 32,
     "pages": [
-      33
+      32
     ],
     "content_types": [
       "list_item"
@@ -2254,9 +2254,9 @@
     "headings": [
       "Out-of-Network"
     ],
-    "page": 33,
+    "page": 32,
     "pages": [
-      33
+      32
     ],
     "content_types": [
       "text"
@@ -2269,9 +2269,9 @@
     "headings": [
       "Office and Home* Visits"
     ],
-    "page": 33,
+    "page": 32,
     "pages": [
-      33
+      32
     ],
     "content_types": [
       "list_item",
@@ -2285,9 +2285,9 @@
     "headings": [
       "Office and Home* Visits"
     ],
-    "page": 34,
+    "page": 33,
     "pages": [
-      34
+      33
     ],
     "content_types": [
       "table"
@@ -2300,9 +2300,9 @@
     "headings": [
       "Office and Home* Visits"
     ],
-    "page": 34,
+    "page": 33,
     "pages": [
-      34
+      33
     ],
     "content_types": [
       "table"
@@ -2315,9 +2315,9 @@
     "headings": [
       "Office and Home* Visits"
     ],
-    "page": 35,
+    "page": 34,
     "pages": [
-      35
+      34
     ],
     "content_types": [
       "table"
@@ -2330,10 +2330,10 @@
     "headings": [
       "Office and Home* Visits"
     ],
-    "page": 35,
+    "page": 34,
     "pages": [
-      35,
-      36
+      34,
+      35
     ],
     "content_types": [
       "table"
@@ -2346,9 +2346,9 @@
     "headings": [
       "Benefits"
     ],
-    "page": 37,
+    "page": 36,
     "pages": [
-      37
+      36
     ],
     "content_types": [
       "list_item"
@@ -2361,9 +2361,9 @@
     "headings": [
       "Out-of-Network"
     ],
-    "page": 37,
+    "page": 36,
     "pages": [
-      37
+      36
     ],
     "content_types": [
       "text"
@@ -2376,9 +2376,9 @@
     "headings": [
       "Outpatient Facility Services"
     ],
-    "page": 37,
+    "page": 36,
     "pages": [
-      37
+      36
     ],
     "content_types": [
       "table",
@@ -2392,6 +2392,21 @@
     "headings": [
       "Outpatient Facility Services"
     ],
+    "page": 37,
+    "pages": [
+      37
+    ],
+    "content_types": [
+      "table"
+    ],
+    "source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": 158,
+    "text": "\uf0b7 Allergy Shots / Injections (including allergy serum), In-Network = 15% Coinsurance after Deductible. \uf0b7 Allergy Shots / Injections (including allergy serum), Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. \uf0b7 Diagnostic Lab, In-Network = 15% Coinsurance after Deductible. \uf0b7 Diagnostic Lab, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. \uf0b7 Diagnostic X-ray, In-Network = 15% Coinsurance after Deductible. \uf0b7 Diagnostic X-ray, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. \uf0b7 Other Diagnostic Tests (EKG, EEG, etc.), In-Network = 15% Coinsurance after Deductible. \uf0b7 Other Diagnostic Tests (EKG, EEG, etc.), Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. \uf0b7 Advanced Diagnostic Imaging (including MRIs, CAT scans), In-Network = $100 Copayment per day then 15% Coinsurance after Deductible. \uf0b7 Advanced Diagnostic Imaging (including MRIs, CAT scans), Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. \uf0b7 Therapy:, In-Network = . \uf0b7 Therapy:, Out-of-Network = . - Chiropractic / Manipulation Therapy (Manipulation Therapy only: benefit maximum of 20 visits per Benefit Period, office and outpatient visits combined), In-Network = 50% Coinsurance after Deductible. - Chiropractic / Manipulation Therapy (Manipulation Therapy only: benefit maximum of 20 visits per Benefit Period, office and outpatient visits combined), Out-of-Network = Not covered. - Physical Therapy, In-Network = 15% Coinsurance after Deductible. - Physical Therapy, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission",
+    "headings": [
+      "Outpatient Facility Services"
+    ],
     "page": 38,
     "pages": [
       38
@@ -2402,8 +2417,8 @@
     "source_file": "Anthem_EOC.pdf"
   },
   {
-    "id": 158,
-    "text": "\uf0b7 Allergy Shots / Injections (including allergy serum), In-Network = 15% Coinsurance after Deductible. \uf0b7 Allergy Shots / Injections (including allergy serum), Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. \uf0b7 Diagnostic Lab, In-Network = 15% Coinsurance after Deductible. \uf0b7 Diagnostic Lab, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. \uf0b7 Diagnostic X-ray, In-Network = 15% Coinsurance after Deductible. \uf0b7 Diagnostic X-ray, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. \uf0b7 Other Diagnostic Tests (EKG, EEG, etc.), In-Network = 15% Coinsurance after Deductible. \uf0b7 Other Diagnostic Tests (EKG, EEG, etc.), Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. \uf0b7 Advanced Diagnostic Imaging (including MRIs, CAT scans), In-Network = $100 Copayment per day then 15% Coinsurance after Deductible. \uf0b7 Advanced Diagnostic Imaging (including MRIs, CAT scans), Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. \uf0b7 Therapy:, In-Network = . \uf0b7 Therapy:, Out-of-Network = . - Chiropractic / Manipulation Therapy (Manipulation Therapy only: benefit maximum of 20 visits per Benefit Period, office and outpatient visits combined), In-Network = 50% Coinsurance after Deductible. - Chiropractic / Manipulation Therapy (Manipulation Therapy only: benefit maximum of 20 visits per Benefit Period, office and outpatient visits combined), Out-of-Network = Not covered. - Physical Therapy, In-Network = 15% Coinsurance after Deductible. - Physical Therapy, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission",
+    "id": 159,
+    "text": "-, Benefits = Speech Therapy. -, In-Network = 15% Coinsurance after Deductible. -, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. -, Benefits = Occupational Therapy. -, In-Network = 15% Coinsurance after Deductible. -, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. -, Benefits = Radiation / Chemotherapy / Respiratory Therapy. -, In-Network = 15% Coinsurance after Deductible. -, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. -, Benefits = Dialysis. -, In-Network = 15% Coinsurance after Deductible. -, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. -, Benefits = Cardiac Rehabilitation. -, In-Network = 15% Coinsurance after Deductible. -, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. -, Benefits = Pulmonary Therapy. -, In-Network = 15% Coinsurance after Deductible. -, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. \uf0b7 Prescription Drugs, Benefits = Administered in an Outpatient Facility (other than allergy serum). \uf0b7 Prescription Drugs, In-Network = 15% Coinsurance to a maximum of $250 per Drug after Deductible. \uf0b7 Prescription Drugs, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission",
     "headings": [
       "Outpatient Facility Services"
     ],
@@ -2417,8 +2432,8 @@
     "source_file": "Anthem_EOC.pdf"
   },
   {
-    "id": 159,
-    "text": "-, Benefits = Speech Therapy. -, In-Network = 15% Coinsurance after Deductible. -, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. -, Benefits = Occupational Therapy. -, In-Network = 15% Coinsurance after Deductible. -, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. -, Benefits = Radiation / Chemotherapy / Respiratory Therapy. -, In-Network = 15% Coinsurance after Deductible. -, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. -, Benefits = Dialysis. -, In-Network = 15% Coinsurance after Deductible. -, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. -, Benefits = Cardiac Rehabilitation. -, In-Network = 15% Coinsurance after Deductible. -, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. -, Benefits = Pulmonary Therapy. -, In-Network = 15% Coinsurance after Deductible. -, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. \uf0b7 Prescription Drugs, Benefits = Administered in an Outpatient Facility (other than allergy serum). \uf0b7 Prescription Drugs, In-Network = 15% Coinsurance to a maximum of $250 per Drug after Deductible. \uf0b7 Prescription Drugs, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission",
+    "id": 160,
+    "text": "\nOutpatient Facility Services - Site of Service Ambulatory Surgery and Radiology Centers, In-Network = . Outpatient Facility Services - Site of Service Ambulatory Surgery and Radiology Centers, Out-of-Network = . \uf0b7 Ambulatory Surgery Center - Facility Surgery, In-Network = $50 Copayment per visit then 15% Coinsurance after Deductible. \uf0b7 Ambulatory Surgery Center - Facility Surgery, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. \uf0b7 Ambulatory Surgery Center - Surgery Lab, In-Network = No Copayment or Coinsurance after Deductible. \uf0b7 Ambulatory Surgery Center - Surgery Lab, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. \uf0b7 Ambulatory Surgery Center - Surgery X-ray, In-Network = No Copayment or Coinsurance after Deductible. \uf0b7 Ambulatory Surgery Center - Surgery X-ray, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. \uf0b7 Ambulatory Surgery Center - Ancillary Services, In-Network = No Copayment or Coinsurance after Deductible. \uf0b7 Ambulatory Surgery Center - Ancillary Services, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. \uf0b7 Doctor Charges (including anesthesiologist, pathologist, radiologist, surgery, surgical assistant), In-Network = 15% Coinsurance after Deductible. \uf0b7 Doctor Charges (including anesthesiologist, pathologist, radiologist, surgery, surgical assistant), Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the Maximum Allowed Amount. \uf0b7 Radiology Center - Diagnostic X-ray, In-Network = 15% Coinsurance after Deductible. \uf0b7 Radiology Center - Diagnostic X-ray, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. \uf0b7 Radiology Center - Advanced Diagnostic Imaging (including MRIs, CAT scans), In-Network = 15% Coinsurance after Deductible. \uf0b7 Radiology Center - Advanced Diagnostic Imaging (including MRIs,",
     "headings": [
       "Outpatient Facility Services"
     ],
@@ -2432,29 +2447,14 @@
     "source_file": "Anthem_EOC.pdf"
   },
   {
-    "id": 160,
-    "text": "\nOutpatient Facility Services - Site of Service Ambulatory Surgery and Radiology Centers, In-Network = . Outpatient Facility Services - Site of Service Ambulatory Surgery and Radiology Centers, Out-of-Network = . \uf0b7 Ambulatory Surgery Center - Facility Surgery, In-Network = $50 Copayment per visit then 15% Coinsurance after Deductible. \uf0b7 Ambulatory Surgery Center - Facility Surgery, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. \uf0b7 Ambulatory Surgery Center - Surgery Lab, In-Network = No Copayment or Coinsurance after Deductible. \uf0b7 Ambulatory Surgery Center - Surgery Lab, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. \uf0b7 Ambulatory Surgery Center - Surgery X-ray, In-Network = No Copayment or Coinsurance after Deductible. \uf0b7 Ambulatory Surgery Center - Surgery X-ray, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. \uf0b7 Ambulatory Surgery Center - Ancillary Services, In-Network = No Copayment or Coinsurance after Deductible. \uf0b7 Ambulatory Surgery Center - Ancillary Services, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. \uf0b7 Doctor Charges (including anesthesiologist, pathologist, radiologist, surgery, surgical assistant), In-Network = 15% Coinsurance after Deductible. \uf0b7 Doctor Charges (including anesthesiologist, pathologist, radiologist, surgery, surgical assistant), Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the Maximum Allowed Amount. \uf0b7 Radiology Center - Diagnostic X-ray, In-Network = 15% Coinsurance after Deductible. \uf0b7 Radiology Center - Diagnostic X-ray, Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission. \uf0b7 Radiology Center - Advanced Diagnostic Imaging (including MRIs, CAT scans), In-Network = 15% Coinsurance after Deductible. \uf0b7 Radiology Center - Advanced Diagnostic Imaging (including MRIs,",
-    "headings": [
-      "Outpatient Facility Services"
-    ],
-    "page": 41,
-    "pages": [
-      41
-    ],
-    "content_types": [
-      "table"
-    ],
-    "source_file": "Anthem_EOC.pdf"
-  },
-  {
     "id": 161,
     "text": " CAT scans), Out-of-Network = 50% Coinsurance after Deductible plus any charges in excess of the maximum Anthem payment of $380 per admission",
     "headings": [
       "Outpatient Facility Services"
     ],
-    "page": 41,
+    "page": 40,
     "pages": [
-      41
+      40
     ],
     "content_types": [
       "table"
@@ -2467,9 +2467,9 @@
     "headings": [
       "Outpatient Facility Services"
     ],
-    "page": 42,
+    "page": 41,
     "pages": [
-      42
+      41
     ],
     "content_types": [
       "table"
@@ -2482,9 +2482,9 @@
     "headings": [
       "Outpatient Facility Services"
     ],
-    "page": 42,
+    "page": 41,
     "pages": [
-      42
+      41
     ],
     "content_types": [
       "table"
@@ -2497,9 +2497,9 @@
     "headings": [
       "Outpatient Facility Services"
     ],
-    "page": 43,
+    "page": 42,
     "pages": [
-      43
+      42
     ],
     "content_types": [
       "table"
@@ -2512,9 +2512,9 @@
     "headings": [
       "Outpatient Facility Services"
     ],
-    "page": 43,
+    "page": 42,
     "pages": [
-      43
+      42
     ],
     "content_types": [
       "table"
@@ -2527,9 +2527,9 @@
     "headings": [
       "Outpatient Facility Services"
     ],
-    "page": 44,
+    "page": 43,
     "pages": [
-      44
+      43
     ],
     "content_types": [
       "table"
@@ -2542,9 +2542,9 @@
     "headings": [
       "Outpatient Facility Services"
     ],
-    "page": 44,
+    "page": 43,
     "pages": [
-      44
+      43
     ],
     "content_types": [
       "table"
@@ -2557,9 +2557,9 @@
     "headings": [
       "Vision Services For Members Up To Age 19"
     ],
-    "page": 45,
+    "page": 44,
     "pages": [
-      45
+      44
     ],
     "content_types": [
       "list_item",
@@ -2574,9 +2574,9 @@
     "headings": [
       "Vision Services For Members Up To Age 19"
     ],
-    "page": 46,
+    "page": 45,
     "pages": [
-      46
+      45
     ],
     "content_types": [
       "table"
@@ -2589,10 +2589,10 @@
     "headings": [
       "Vision Services For Members Up To Age 19"
     ],
-    "page": 46,
+    "page": 45,
     "pages": [
-      46,
-      47
+      45,
+      46
     ],
     "content_types": [
       "table"
@@ -2605,9 +2605,9 @@
     "headings": [
       "Human Organ and Tissue Transplant (Bone Marrow / Stem Cell), Cellular and Gene Therapy Services"
     ],
-    "page": 47,
+    "page": 46,
     "pages": [
-      47
+      46
     ],
     "content_types": [
       "text"
@@ -2620,9 +2620,9 @@
     "headings": [
       "The requirements described below do not apply to the following:"
     ],
-    "page": 47,
+    "page": 46,
     "pages": [
-      47
+      46
     ],
     "content_types": [
       "list_item",
@@ -2637,9 +2637,9 @@
     "headings": [
       "The requirements described below do not apply to the following:"
     ],
-    "page": 48,
+    "page": 47,
     "pages": [
-      48
+      47
     ],
     "content_types": [
       "table"
@@ -2652,10 +2652,10 @@
     "headings": [
       "Prescription Drug Retail Pharmacy and Home Delivery (Mail Order) Benefits"
     ],
-    "page": 48,
+    "page": 47,
     "pages": [
-      48,
-      49
+      47,
+      48
     ],
     "content_types": [
       "table",
@@ -2669,9 +2669,9 @@
     "headings": [
       "Prescription Drug Retail Pharmacy and Home Delivery (Mail Order) Benefits"
     ],
-    "page": 49,
+    "page": 48,
     "pages": [
-      49
+      48
     ],
     "content_types": [
       "text"
@@ -2684,9 +2684,9 @@
     "headings": [
       "Level 1 Retail Pharmacy Copayments / Coinsurance"
     ],
-    "page": 49,
+    "page": 48,
     "pages": [
-      49
+      48
     ],
     "content_types": [
       "table"
@@ -2699,9 +2699,9 @@
     "headings": [
       "Level 1 Retail Pharmacy Copayments / Coinsurance"
     ],
-    "page": 50,
+    "page": 49,
     "pages": [
-      50
+      49
     ],
     "content_types": [
       "table"
@@ -2714,9 +2714,9 @@
     "headings": [
       "Level 1 Retail Pharmacy Copayments / Coinsurance"
     ],
-    "page": 50,
+    "page": 49,
     "pages": [
-      50
+      49
     ],
     "content_types": [
       "table"
@@ -2729,9 +2729,9 @@
     "headings": [
       "Specialty Drug Copayments / Coinsurance"
     ],
-    "page": 51,
+    "page": 50,
     "pages": [
-      51
+      50
     ],
     "content_types": [
       "text"
@@ -2744,9 +2744,9 @@
     "headings": [
       "Orally Administered Anti-Cancer Medications"
     ],
-    "page": 51,
+    "page": 50,
     "pages": [
-      51
+      50
     ],
     "content_types": [
       "list_item",
@@ -2760,9 +2760,9 @@
     "headings": [
       "Certain Diabetic and Asthmatic Supplies"
     ],
-    "page": 51,
+    "page": 50,
     "pages": [
-      51
+      50
     ],
     "content_types": [
       "text"
@@ -2775,9 +2775,9 @@
     "headings": [
       "Schedule II Controlled Substances"
     ],
-    "page": 51,
+    "page": 50,
     "pages": [
-      51
+      50
     ],
     "content_types": [
       "text"
@@ -2790,9 +2790,9 @@
     "headings": [
       "Prescription Drug after Deductible"
     ],
-    "page": 51,
+    "page": 50,
     "pages": [
-      51
+      50
     ],
     "content_types": [
       "text"
@@ -2805,9 +2805,9 @@
     "headings": [
       "Introduction"
     ],
-    "page": 52,
+    "page": 51,
     "pages": [
-      52
+      51
     ],
     "content_types": [
       "text"
@@ -2820,9 +2820,9 @@
     "headings": [
       "Choice of Hospital, Skilled Nursing Facility, Attending Physician and Other Providers of Care"
     ],
-    "page": 52,
+    "page": 51,
     "pages": [
-      52
+      51
     ],
     "content_types": [
       "text"
@@ -2835,9 +2835,9 @@
     "headings": [
       "In-Network Services"
     ],
-    "page": 52,
+    "page": 51,
     "pages": [
-      52
+      51
     ],
     "content_types": [
       "text"
@@ -2850,9 +2850,9 @@
     "headings": [
       "How Your Plan Works"
     ],
-    "page": 53,
+    "page": 52,
     "pages": [
-      53
+      52
     ],
     "content_types": [
       "list_item",
@@ -2866,9 +2866,9 @@
     "headings": [
       "After Hours Care"
     ],
-    "page": 53,
+    "page": 52,
     "pages": [
-      53
+      52
     ],
     "content_types": [
       "text"
@@ -2881,10 +2881,10 @@
     "headings": [
       "Out-of-Network Services"
     ],
-    "page": 53,
+    "page": 52,
     "pages": [
-      53,
-      54
+      52,
+      53
     ],
     "content_types": [
       "list_item",
@@ -2898,9 +2898,9 @@
     "headings": [
       "Choosing a Primary Care Physician or a Primary Care Provider (PCP)"
     ],
-    "page": 54,
+    "page": 53,
     "pages": [
-      54
+      53
     ],
     "content_types": [
       "text"
@@ -2913,9 +2913,9 @@
     "headings": [
       "Surprise Billing Claims"
     ],
-    "page": 54,
+    "page": 53,
     "pages": [
-      54
+      53
     ],
     "content_types": [
       "text"
@@ -2928,9 +2928,9 @@
     "headings": [
       "Connect with Us Using Our Mobile App"
     ],
-    "page": 54,
+    "page": 53,
     "pages": [
-      54
+      53
     ],
     "content_types": [
       "text"
@@ -2943,9 +2943,9 @@
     "headings": [
       "How to Find a Provider in the Network"
     ],
-    "page": 55,
+    "page": 54,
     "pages": [
-      55
+      54
     ],
     "content_types": [
       "list_item",
@@ -2959,9 +2959,9 @@
     "headings": [
       "Second Opinions"
     ],
-    "page": 55,
+    "page": 54,
     "pages": [
-      55
+      54
     ],
     "content_types": [
       "text"
@@ -2974,9 +2974,9 @@
     "headings": [
       "Triage or Screening Services"
     ],
-    "page": 55,
+    "page": 54,
     "pages": [
-      55
+      54
     ],
     "content_types": [
       "text"
@@ -2989,10 +2989,10 @@
     "headings": [
       "Transition Assistance for New Members"
     ],
-    "page": 55,
+    "page": 54,
     "pages": [
-      55,
-      56
+      54,
+      55
     ],
     "content_types": [
       "list_item",
@@ -3006,9 +3006,9 @@
     "headings": [
       "Transition Assistance for New Members"
     ],
-    "page": 56,
+    "page": 55,
     "pages": [
-      56
+      55
     ],
     "content_types": [
       "list_item",
@@ -3022,9 +3022,9 @@
     "headings": [
       "Transition Assistance for New Members"
     ],
-    "page": 56,
+    "page": 55,
     "pages": [
-      56
+      55
     ],
     "content_types": [
       "text"
@@ -3037,9 +3037,9 @@
     "headings": [
       "Continuation of Care after Termination of Provider"
     ],
-    "page": 56,
+    "page": 55,
     "pages": [
-      56
+      55
     ],
     "content_types": [
       "list_item",
@@ -3053,9 +3053,9 @@
     "headings": [
       "Continuation of Care after Termination of Provider"
     ],
-    "page": 57,
+    "page": 56,
     "pages": [
-      57
+      56
     ],
     "content_types": [
       "list_item"
@@ -3068,9 +3068,9 @@
     "headings": [
       "Continuation of Care after Termination of Provider"
     ],
-    "page": 57,
+    "page": 56,
     "pages": [
-      57
+      56
     ],
     "content_types": [
       "list_item",
@@ -3084,9 +3084,9 @@
     "headings": [
       "Your Cost Shares"
     ],
-    "page": 57,
+    "page": 56,
     "pages": [
-      57
+      56
     ],
     "content_types": [
       "text"
@@ -3099,9 +3099,9 @@
     "headings": [
       "Crediting Prior Plan Coverage"
     ],
-    "page": 58,
+    "page": 57,
     "pages": [
-      58
+      57
     ],
     "content_types": [
       "text"
@@ -3114,9 +3114,9 @@
     "headings": [
       "This Section Does Not Apply To You If:"
     ],
-    "page": 58,
+    "page": 57,
     "pages": [
-      58
+      57
     ],
     "content_types": [
       "list_item"
@@ -3129,9 +3129,9 @@
     "headings": [
       "The BlueCard Program"
     ],
-    "page": 58,
+    "page": 57,
     "pages": [
-      58
+      57
     ],
     "content_types": [
       "text"
@@ -3144,9 +3144,9 @@
     "headings": [
       "Identification Card"
     ],
-    "page": 58,
+    "page": 57,
     "pages": [
-      58
+      57
     ],
     "content_types": [
       "text"
@@ -3159,9 +3159,9 @@
     "headings": [
       "Getting Approval for Benefits"
     ],
-    "page": 59,
+    "page": 58,
     "pages": [
-      59
+      58
     ],
     "content_types": [
       "text"
@@ -3174,9 +3174,9 @@
     "headings": [
       "Reviewing Where Services Are Provided"
     ],
-    "page": 59,
+    "page": 58,
     "pages": [
-      59
+      58
     ],
     "content_types": [
       "list_item",
@@ -3187,6 +3187,23 @@
   {
     "id": 209,
     "text": "- \uf0b7 Pre-service Review A review of a service, treatment or admission for a benefit coverage determination which is done before the service or treatment begins or admission date.\n- -Precertification - A required Pre-service Review for a benefit coverage determination for a service or treatment. Certain services require Precertification in order for you to get benefits. The benefit coverage review will include a review to decide whether the service meets the definition of Medical Necessity or is Experimental / Investigational as those terms are defined in this Booklet.\nFor admissions following Emergency Care, you, your authorized representative or Doctor must tell us of the admission as soon as possible.\nFor childbirth admissions, Precertification is not needed for the first 48 hours for a vaginal delivery or 96 hours for a cesarean section. Admissions longer than 48/96 hours require Precertification.\nFor inpatient Hospital stays for mastectomy surgery, including the length of Hospital stays associated with mastectomy, Precertification is not needed.\n- \uf0b7 Continued Stay / Concurrent Review A Utilization Review of a service, treatment or admission for a benefit coverage determination which must be done during an ongoing stay in a Facility or course of treatment.\n- -Both Pre-service and Continued Stay / Concurrent Reviews may be considered urgent when, in the view of the treating Provider or any Doctor with knowledge of your medical condition, without such care or treatment, your life or health or your ability to regain maximum function could be seriously threatened or you could be subjected to severe pain that cannot be adequately managed without such care or treatment. Urgent reviews are conducted under a shorter timeframe than standard reviews.\n- \uf0b7 Post-service Review A review of a service, treatment or admission for a benefit coverage determination that is conducted after the service has been provided. Post-service reviews are performed when a service, treatment or admission did not need a Precertification, or when a needed Precertification was not obtained. Post-service reviews are done for a service, treatment or admission in which we have a related clinical coverage guideline and are typically initiated by us.\nServices for which Precertification is required (i.e., services that need to be reviewed by us to determine whether they are Medically Necessary) include, but are not limited to, the following:",
+    "headings": [
+      "Types of Reviews"
+    ],
+    "page": 58,
+    "pages": [
+      58,
+      59
+    ],
+    "content_types": [
+      "list_item",
+      "text"
+    ],
+    "source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": 210,
+    "text": "- \uf0b7 All inpatient Hospital admissions;\n- \uf0b7 Inpatient Facility treatment for Mental Health and Substance Use Disorder services and residential treatment (including detoxification and rehabilitation);\n- \uf0b7 Skilled Nursing Facility stays;\n- \uf0b7 Human Organ and Tissue Transplants (Bone Marrow / Stem Cell), Cellular and Gene Therapy Services and similar procedures;\n- \uf0b7 Bariatric surgical procedures;\n- \uf0b7 All Infusion Therapy (in any setting) inclusive of Specialty Drugs and related services (for each Course of Therapy) in any setting, including, but not limited to: Physician's office, infusion center, outpatient Hospital or clinic, or your home or other residential setting;\n- \uf0b7 Home Health Care;\n- \uf0b7 Genetic testing;\n- \uf0b7 Specific outpatient services, including diagnostic treatment and other services;\n- \uf0b7 Specific surgical procedures, wherever performed, as specified by us;\n- \uf0b7 All interventional spine pain, elective hip, knee, and shoulder arthroscopic/open sports medicine, as well as outpatient spine surgery procedures;\n- \uf0b7 Specific diagnostic procedures, including advanced imaging procedures, wherever performed;\n- \uf0b7 Air ambulance services for non-Emergency Hospital to Hospital transfers;\n- \uf0b7 Specific medical supplies and equipment;\n- \uf0b7 Certain non-Emergency ground ambulance services;\n- \uf0b7 Manipulation therapy. A specified number of additional visits may be authorized. While there is no limit on the number of covered visits for Medically Necessary manipulation therapy, additional visits require Precertification;\n- \uf0b7 Behavioral health treatment for autism spectrum disorders;\n- \uf0b7 Gender affirming services, including related behavioral health treatment and gender affirming travel expense, as specified under the 'Gender Affirming Services' provision of 'What's Covered.' A Physician must diagnose you with Gender Dysphoria;\n- \uf0b7 Partial Hospitalization, Intensive Outpatient Programs, transcranial magnetic stimulation (TMS);\n- \uf0b7 Second opinion;\n- \uf0b7 Certain Prescription Drugs under the section 'Prescription Drugs Administered by a Medical Provider; and\n- \uf0b7 Other specific procedures, wherever performed, as specified by us.\nFor a list of current procedures requiring Precertification, please call the toll-free number for Member Services printed on your Identification Card.",
     "headings": [
       "Types of Reviews"
     ],
@@ -3202,31 +3219,14 @@
     "source_file": "Anthem_EOC.pdf"
   },
   {
-    "id": 210,
-    "text": "- \uf0b7 All inpatient Hospital admissions;\n- \uf0b7 Inpatient Facility treatment for Mental Health and Substance Use Disorder services and residential treatment (including detoxification and rehabilitation);\n- \uf0b7 Skilled Nursing Facility stays;\n- \uf0b7 Human Organ and Tissue Transplants (Bone Marrow / Stem Cell), Cellular and Gene Therapy Services and similar procedures;\n- \uf0b7 Bariatric surgical procedures;\n- \uf0b7 All Infusion Therapy (in any setting) inclusive of Specialty Drugs and related services (for each Course of Therapy) in any setting, including, but not limited to: Physician's office, infusion center, outpatient Hospital or clinic, or your home or other residential setting;\n- \uf0b7 Home Health Care;\n- \uf0b7 Genetic testing;\n- \uf0b7 Specific outpatient services, including diagnostic treatment and other services;\n- \uf0b7 Specific surgical procedures, wherever performed, as specified by us;\n- \uf0b7 All interventional spine pain, elective hip, knee, and shoulder arthroscopic/open sports medicine, as well as outpatient spine surgery procedures;\n- \uf0b7 Specific diagnostic procedures, including advanced imaging procedures, wherever performed;\n- \uf0b7 Air ambulance services for non-Emergency Hospital to Hospital transfers;\n- \uf0b7 Specific medical supplies and equipment;\n- \uf0b7 Certain non-Emergency ground ambulance services;\n- \uf0b7 Manipulation therapy. A specified number of additional visits may be authorized. While there is no limit on the number of covered visits for Medically Necessary manipulation therapy, additional visits require Precertification;\n- \uf0b7 Behavioral health treatment for autism spectrum disorders;\n- \uf0b7 Gender affirming services, including related behavioral health treatment and gender affirming travel expense, as specified under the 'Gender Affirming Services' provision of 'What's Covered.' A Physician must diagnose you with Gender Dysphoria;\n- \uf0b7 Partial Hospitalization, Intensive Outpatient Programs, transcranial magnetic stimulation (TMS);\n- \uf0b7 Second opinion;\n- \uf0b7 Certain Prescription Drugs under the section 'Prescription Drugs Administered by a Medical Provider; and\n- \uf0b7 Other specific procedures, wherever performed, as specified by us.\nFor a list of current procedures requiring Precertification, please call the toll-free number for Member Services printed on your Identification Card.",
-    "headings": [
-      "Types of Reviews"
-    ],
-    "page": 60,
-    "pages": [
-      60,
-      61
-    ],
-    "content_types": [
-      "list_item",
-      "text"
-    ],
-    "source_file": "Anthem_EOC.pdf"
-  },
-  {
     "id": 211,
     "text": "Typically, In-Network Providers know which services need Precertification and will get any Precertification when needed. Your Primary Care Physician and other In-Network Providers have been given detailed information about these procedures and are responsible for meeting these requirements. Generally, the ordering Provider, Facility or attending Doctor ('requesting Provider') will get in touch with us to ask for a Precertification. However, you may request a Precertification or you may choose an authorized representative to act on your behalf for a specific request. The authorized representative can be anyone who is 18 years of age or older. The table below outlines who is responsible for Precertification and under what circumstances.",
     "headings": [
       "Who is Responsible for Precertification?"
     ],
-    "page": 61,
+    "page": 60,
     "pages": [
-      61
+      60
     ],
     "content_types": [
       "text"
@@ -3239,9 +3239,9 @@
     "headings": [
       "Who is Responsible for Precertification?"
     ],
-    "page": 61,
+    "page": 60,
     "pages": [
-      61
+      60
     ],
     "content_types": [
       "table"
@@ -3254,10 +3254,10 @@
     "headings": [
       "How Decisions are Made"
     ],
-    "page": 61,
+    "page": 60,
     "pages": [
-      61,
-      62
+      60,
+      61
     ],
     "content_types": [
       "text"
@@ -3270,9 +3270,9 @@
     "headings": [
       "Decision and Notice Requirements"
     ],
-    "page": 62,
+    "page": 61,
     "pages": [
-      62
+      61
     ],
     "content_types": [
       "table",
@@ -3286,9 +3286,9 @@
     "headings": [
       "Decision and Notice Requirements"
     ],
-    "page": 62,
+    "page": 61,
     "pages": [
-      62
+      61
     ],
     "content_types": [
       "list_item"
@@ -3301,10 +3301,10 @@
     "headings": [
       "Important Information"
     ],
-    "page": 62,
+    "page": 61,
     "pages": [
-      62,
-      63
+      61,
+      62
     ],
     "content_types": [
       "text"
@@ -3317,9 +3317,9 @@
     "headings": [
       "Health Plan Individual Case Management"
     ],
-    "page": 63,
+    "page": 62,
     "pages": [
-      63
+      62
     ],
     "content_types": [
       "text"
@@ -3332,9 +3332,9 @@
     "headings": [
       "What's Covered"
     ],
-    "page": 64,
+    "page": 63,
     "pages": [
-      64
+      63
     ],
     "content_types": [
       "text"
@@ -3347,9 +3347,9 @@
     "headings": [
       "Acupuncture"
     ],
-    "page": 64,
+    "page": 63,
     "pages": [
-      64
+      63
     ],
     "content_types": [
       "text"
@@ -3362,9 +3362,9 @@
     "headings": [
       "Allergy Services"
     ],
-    "page": 64,
+    "page": 63,
     "pages": [
-      64
+      63
     ],
     "content_types": [
       "text"
@@ -3377,10 +3377,10 @@
     "headings": [
       "Ambulance Services"
     ],
-    "page": 64,
+    "page": 63,
     "pages": [
-      64,
-      65
+      63,
+      64
     ],
     "content_types": [
       "list_item",
@@ -3394,9 +3394,9 @@
     "headings": [
       "Ambulance Services"
     ],
-    "page": 65,
+    "page": 64,
     "pages": [
-      65
+      64
     ],
     "content_types": [
       "list_item",
@@ -3410,9 +3410,9 @@
     "headings": [
       "Important Notes on Air Ambulance Benefits"
     ],
-    "page": 65,
+    "page": 64,
     "pages": [
-      65
+      64
     ],
     "content_types": [
       "text"
@@ -3425,9 +3425,9 @@
     "headings": [
       "Hospital to Hospital Transport"
     ],
-    "page": 66,
+    "page": 65,
     "pages": [
-      66
+      65
     ],
     "content_types": [
       "text"
@@ -3440,9 +3440,9 @@
     "headings": [
       "Autism Spectrum Disorders Services"
     ],
-    "page": 66,
+    "page": 65,
     "pages": [
-      66
+      65
     ],
     "content_types": [
       "text"
@@ -3455,10 +3455,10 @@
     "headings": [
       "Behavioral Health Treatment"
     ],
-    "page": 66,
+    "page": 65,
     "pages": [
-      66,
-      67
+      65,
+      66
     ],
     "content_types": [
       "list_item",
@@ -3472,9 +3472,9 @@
     "headings": [
       "Behavioral Health Treatment"
     ],
-    "page": 67,
+    "page": 66,
     "pages": [
-      67
+      66
     ],
     "content_types": [
       "list_item",
@@ -3488,9 +3488,9 @@
     "headings": [
       "Behavioral Health Treatment"
     ],
-    "page": 67,
+    "page": 66,
     "pages": [
-      67
+      66
     ],
     "content_types": [
       "list_item"
@@ -3503,9 +3503,9 @@
     "headings": [
       "Qualified Autism Service Provider is either of the following:"
     ],
-    "page": 68,
+    "page": 67,
     "pages": [
-      68
+      67
     ],
     "content_types": [
       "list_item",
@@ -3519,9 +3519,9 @@
     "headings": [
       "Behavioral Health Services"
     ],
-    "page": 68,
+    "page": 67,
     "pages": [
-      68
+      67
     ],
     "content_types": [
       "text"
@@ -3534,9 +3534,9 @@
     "headings": [
       "Biomarker Testing Services"
     ],
-    "page": 68,
+    "page": 67,
     "pages": [
-      68
+      67
     ],
     "content_types": [
       "list_item",
@@ -3550,9 +3550,9 @@
     "headings": [
       "Cardiac Rehabilitation"
     ],
-    "page": 68,
+    "page": 67,
     "pages": [
-      68
+      67
     ],
     "content_types": [
       "text"
@@ -3565,9 +3565,9 @@
     "headings": [
       "Cellular and Gene Therapy Services"
     ],
-    "page": 68,
+    "page": 67,
     "pages": [
-      68
+      67
     ],
     "content_types": [
       "text"
@@ -3580,9 +3580,9 @@
     "headings": [
       "Chemotherapy"
     ],
-    "page": 69,
+    "page": 68,
     "pages": [
-      69
+      68
     ],
     "content_types": [
       "text"
@@ -3595,9 +3595,9 @@
     "headings": [
       "Chiropractor Services"
     ],
-    "page": 69,
+    "page": 68,
     "pages": [
-      69
+      68
     ],
     "content_types": [
       "text"
@@ -3610,9 +3610,9 @@
     "headings": [
       "Clinical Trials"
     ],
-    "page": 69,
+    "page": 68,
     "pages": [
-      69
+      68
     ],
     "content_types": [
       "list_item",
@@ -3626,9 +3626,9 @@
     "headings": [
       "Clinical Trials"
     ],
-    "page": 70,
+    "page": 69,
     "pages": [
-      70
+      69
     ],
     "content_types": [
       "list_item",
@@ -3642,9 +3642,9 @@
     "headings": [
       "Clinical Trials"
     ],
-    "page": 70,
+    "page": 69,
     "pages": [
-      70
+      69
     ],
     "content_types": [
       "list_item"
@@ -3657,9 +3657,9 @@
     "headings": [
       "Your Dental Benefits"
     ],
-    "page": 70,
+    "page": 69,
     "pages": [
-      70
+      69
     ],
     "content_types": [
       "text"
@@ -3672,10 +3672,10 @@
     "headings": [
       "Pretreatment Estimate"
     ],
-    "page": 70,
+    "page": 69,
     "pages": [
-      70,
-      71
+      69,
+      70
     ],
     "content_types": [
       "text"
@@ -3688,9 +3688,9 @@
     "headings": [
       "Dental Providers"
     ],
-    "page": 71,
+    "page": 70,
     "pages": [
-      71
+      70
     ],
     "content_types": [
       "text"
@@ -3703,9 +3703,9 @@
     "headings": [
       "Dental Services For Members Up To Age 19"
     ],
-    "page": 71,
+    "page": 70,
     "pages": [
-      71
+      70
     ],
     "content_types": [
       "text"
@@ -3718,9 +3718,9 @@
     "headings": [
       "Oral Exams"
     ],
-    "page": 71,
+    "page": 70,
     "pages": [
-      71
+      70
     ],
     "content_types": [
       "list_item"
@@ -3733,10 +3733,10 @@
     "headings": [
       "Radiographs (X-rays)"
     ],
-    "page": 71,
+    "page": 70,
     "pages": [
-      71,
-      72
+      70,
+      71
     ],
     "content_types": [
       "list_item"
@@ -3749,9 +3749,9 @@
     "headings": [
       "Radiographic and Photographic Image Captures"
     ],
-    "page": 72,
+    "page": 71,
     "pages": [
-      72
+      71
     ],
     "content_types": [
       "list_item"
@@ -3764,9 +3764,9 @@
     "headings": [
       "Pulp vitality tests"
     ],
-    "page": 72,
+    "page": 71,
     "pages": [
-      72
+      71
     ],
     "content_types": [
       "text"
@@ -3779,9 +3779,9 @@
     "headings": [
       "Nutritional Counseling"
     ],
-    "page": 72,
+    "page": 71,
     "pages": [
-      72
+      71
     ],
     "content_types": [
       "text"
@@ -3794,9 +3794,9 @@
     "headings": [
       "Oral Hygiene Instructions"
     ],
-    "page": 72,
+    "page": 71,
     "pages": [
-      72
+      71
     ],
     "content_types": [
       "text"
@@ -3809,10 +3809,10 @@
     "headings": [
       "Sealant Repair(s)"
     ],
-    "page": 72,
+    "page": 71,
     "pages": [
-      72,
-      73
+      71,
+      72
     ],
     "content_types": [
       "text"
@@ -3825,9 +3825,9 @@
     "headings": [
       "Space Maintainers (fixed and removable) . Frequencies include:"
     ],
-    "page": 73,
+    "page": 72,
     "pages": [
-      73
+      72
     ],
     "content_types": [
       "list_item",
@@ -3841,9 +3841,9 @@
     "headings": [
       "Basic Services"
     ],
-    "page": 73,
+    "page": 72,
     "pages": [
-      73
+      72
     ],
     "content_types": [
       "text"
@@ -3856,10 +3856,10 @@
     "headings": [
       "Basic Extractions"
     ],
-    "page": 73,
+    "page": 72,
     "pages": [
-      73,
-      74
+      72,
+      73
     ],
     "content_types": [
       "list_item",
@@ -3873,9 +3873,9 @@
     "headings": [
       "Prefabricated Crowns."
     ],
-    "page": 74,
+    "page": 73,
     "pages": [
-      74
+      73
     ],
     "content_types": [
       "list_item",
@@ -3889,9 +3889,9 @@
     "headings": [
       "Miscellaneous Services."
     ],
-    "page": 74,
+    "page": 73,
     "pages": [
-      74
+      73
     ],
     "content_types": [
       "list_item"
@@ -3904,9 +3904,9 @@
     "headings": [
       "Endodontic Services"
     ],
-    "page": 74,
+    "page": 73,
     "pages": [
-      74
+      73
     ],
     "content_types": [
       "list_item",
@@ -3920,9 +3920,9 @@
     "headings": [
       "Internal Root Repair of Perforation Defects"
     ],
-    "page": 75,
+    "page": 74,
     "pages": [
-      75
+      74
     ],
     "content_types": [
       "list_item",
@@ -3936,9 +3936,9 @@
     "headings": [
       "Periodontal Services"
     ],
-    "page": 75,
+    "page": 74,
     "pages": [
-      75
+      74
     ],
     "content_types": [
       "text"
@@ -3951,9 +3951,9 @@
     "headings": [
       "Full Mouth Debridement"
     ],
-    "page": 75,
+    "page": 74,
     "pages": [
-      75
+      74
     ],
     "content_types": [
       "list_item",
@@ -3967,10 +3967,10 @@
     "headings": [
       "Oral Surgery Services"
     ],
-    "page": 75,
+    "page": 74,
     "pages": [
-      75,
-      76
+      74,
+      75
     ],
     "content_types": [
       "list_item",
@@ -3984,9 +3984,9 @@
     "headings": [
       "Oral Surgery Services"
     ],
-    "page": 76,
+    "page": 75,
     "pages": [
-      76
+      75
     ],
     "content_types": [
       "text"
@@ -3999,9 +3999,9 @@
     "headings": [
       "Local Anesthesia."
     ],
-    "page": 76,
+    "page": 75,
     "pages": [
-      76
+      75
     ],
     "content_types": [
       "list_item",
@@ -4015,10 +4015,10 @@
     "headings": [
       "Major Restorative Services"
     ],
-    "page": 76,
+    "page": 75,
     "pages": [
-      76,
-      77
+      75,
+      76
     ],
     "content_types": [
       "list_item",
@@ -4032,9 +4032,9 @@
     "headings": [
       "Prosthodontic Services - Removable"
     ],
-    "page": 77,
+    "page": 76,
     "pages": [
-      77
+      76
     ],
     "content_types": [
       "list_item",
@@ -4048,9 +4048,9 @@
     "headings": [
       "Overdenture (complete and partial)."
     ],
-    "page": 77,
+    "page": 76,
     "pages": [
-      77
+      76
     ],
     "content_types": [
       "text"
@@ -4063,10 +4063,10 @@
     "headings": [
       "Prosthodontic Services - Fixed"
     ],
-    "page": 77,
+    "page": 76,
     "pages": [
-      77,
-      78
+      76,
+      77
     ],
     "content_types": [
       "list_item",
@@ -4080,9 +4080,9 @@
     "headings": [
       "Implant Services"
     ],
-    "page": 78,
+    "page": 77,
     "pages": [
-      78
+      77
     ],
     "content_types": [
       "text"
@@ -4095,9 +4095,9 @@
     "headings": [
       "Implant Supported Structures"
     ],
-    "page": 78,
+    "page": 77,
     "pages": [
-      78
+      77
     ],
     "content_types": [
       "list_item"
@@ -4110,9 +4110,9 @@
     "headings": [
       "Implant/Abutment Supported Prosthetics including:"
     ],
-    "page": 78,
+    "page": 77,
     "pages": [
-      78
+      77
     ],
     "content_types": [
       "list_item"
@@ -4125,9 +4125,9 @@
     "headings": [
       "Implant/Abutment Supported Prosthetics including:"
     ],
-    "page": 79,
+    "page": 78,
     "pages": [
-      79
+      78
     ],
     "content_types": [
       "list_item"
@@ -4140,10 +4140,10 @@
     "headings": [
       "Implant/Abutment Supported Prosthetics including:"
     ],
-    "page": 79,
+    "page": 78,
     "pages": [
-      79,
-      80
+      78,
+      79
     ],
     "content_types": [
       "list_item",
@@ -4157,9 +4157,9 @@
     "headings": [
       "Additional Maxillofacial Procedures - Includes the following Covered Services:"
     ],
-    "page": 80,
+    "page": 79,
     "pages": [
-      80
+      79
     ],
     "content_types": [
       "list_item",
@@ -4173,9 +4173,9 @@
     "headings": [
       "Medically Necessary Orthodontic Care"
     ],
-    "page": 80,
+    "page": 79,
     "pages": [
-      80
+      79
     ],
     "content_types": [
       "list_item",
@@ -4189,10 +4189,10 @@
     "headings": [
       "Orthodontic treatment may include the following:"
     ],
-    "page": 80,
+    "page": 79,
     "pages": [
-      80,
-      81
+      79,
+      80
     ],
     "content_types": [
       "list_item"
@@ -4205,9 +4205,9 @@
     "headings": [
       "How We Pay for Orthodontic Care"
     ],
-    "page": 81,
+    "page": 80,
     "pages": [
-      81
+      80
     ],
     "content_types": [
       "text"
@@ -4220,9 +4220,9 @@
     "headings": [
       "What Orthodontic Care Does NOT Include:"
     ],
-    "page": 81,
+    "page": 80,
     "pages": [
-      81
+      80
     ],
     "content_types": [
       "list_item",
@@ -4236,9 +4236,9 @@
     "headings": [
       "Dental Services (All Members / All Ages)"
     ],
-    "page": 81,
+    "page": 80,
     "pages": [
-      81
+      80
     ],
     "content_types": [
       "text"
@@ -4251,9 +4251,9 @@
     "headings": [
       "Preparing the Mouth for Medical Treatments"
     ],
-    "page": 81,
+    "page": 80,
     "pages": [
-      81
+      80
     ],
     "content_types": [
       "list_item",
@@ -4267,9 +4267,9 @@
     "headings": [
       "Treatment of Accidental Injury"
     ],
-    "page": 82,
+    "page": 81,
     "pages": [
-      82
+      81
     ],
     "content_types": [
       "list_item",
@@ -4283,10 +4283,10 @@
     "headings": [
       "Diabetes Equipment, Education, and Supplies"
     ],
-    "page": 82,
+    "page": 81,
     "pages": [
-      82,
-      83
+      81,
+      82
     ],
     "content_types": [
       "list_item",
@@ -4300,9 +4300,9 @@
     "headings": [
       "Diagnostic Services"
     ],
-    "page": 83,
+    "page": 82,
     "pages": [
-      83
+      82
     ],
     "content_types": [
       "text"
@@ -4315,9 +4315,9 @@
     "headings": [
       "Diagnostic Laboratory and Pathology Services"
     ],
-    "page": 83,
+    "page": 82,
     "pages": [
-      83
+      82
     ],
     "content_types": [
       "list_item"
@@ -4330,9 +4330,9 @@
     "headings": [
       "Diagnostic Imaging Services and Electronic Diagnostic Tests"
     ],
-    "page": 83,
+    "page": 82,
     "pages": [
-      83
+      82
     ],
     "content_types": [
       "list_item"
@@ -4345,9 +4345,9 @@
     "headings": [
       "Advanced Imaging Services"
     ],
-    "page": 83,
+    "page": 82,
     "pages": [
-      83
+      82
     ],
     "content_types": [
       "list_item",
@@ -4361,9 +4361,9 @@
     "headings": [
       "Dialysis"
     ],
-    "page": 83,
+    "page": 82,
     "pages": [
-      83
+      82
     ],
     "content_types": [
       "text"
@@ -4376,9 +4376,9 @@
     "headings": [
       "Durable Medical Equipment (DME), Medical Devices, and Supplies"
     ],
-    "page": 84,
+    "page": 83,
     "pages": [
-      84
+      83
     ],
     "content_types": [
       "text"
@@ -4391,9 +4391,9 @@
     "headings": [
       "Durable Medical Equipment and Medical Devices"
     ],
-    "page": 84,
+    "page": 83,
     "pages": [
-      84
+      83
     ],
     "content_types": [
       "list_item",
@@ -4407,9 +4407,9 @@
     "headings": [
       "Special Footwear"
     ],
-    "page": 84,
+    "page": 83,
     "pages": [
-      84
+      83
     ],
     "content_types": [
       "text"
@@ -4422,10 +4422,10 @@
     "headings": [
       "Orthotics"
     ],
-    "page": 84,
+    "page": 83,
     "pages": [
-      84,
-      85
+      83,
+      84
     ],
     "content_types": [
       "text"
@@ -4438,9 +4438,9 @@
     "headings": [
       "Prosthetics"
     ],
-    "page": 85,
+    "page": 84,
     "pages": [
-      85
+      84
     ],
     "content_types": [
       "list_item",
@@ -4454,9 +4454,9 @@
     "headings": [
       "Medical and Surgical Supplies"
     ],
-    "page": 85,
+    "page": 84,
     "pages": [
-      85
+      84
     ],
     "content_types": [
       "text"
@@ -4469,10 +4469,10 @@
     "headings": [
       "Ostomy and Urological Supplies"
     ],
-    "page": 85,
+    "page": 84,
     "pages": [
-      85,
-      86
+      84,
+      85
     ],
     "content_types": [
       "list_item",
@@ -4486,9 +4486,9 @@
     "headings": [
       "Blood and Blood Products"
     ],
-    "page": 86,
+    "page": 85,
     "pages": [
-      86
+      85
     ],
     "content_types": [
       "text"
@@ -4501,9 +4501,9 @@
     "headings": [
       "Diabetic Equipment and Supplies"
     ],
-    "page": 86,
+    "page": 85,
     "pages": [
-      86
+      85
     ],
     "content_types": [
       "text"
@@ -4516,9 +4516,9 @@
     "headings": [
       "Asthma Treatment Equipment and Supplies"
     ],
-    "page": 86,
+    "page": 85,
     "pages": [
-      86
+      85
     ],
     "content_types": [
       "text"
@@ -4531,9 +4531,9 @@
     "headings": [
       "Infusion Therapy Supplies"
     ],
-    "page": 86,
+    "page": 85,
     "pages": [
-      86
+      85
     ],
     "content_types": [
       "text"
@@ -4546,9 +4546,9 @@
     "headings": [
       "Emergency Care Services"
     ],
-    "page": 86,
+    "page": 85,
     "pages": [
-      86
+      85
     ],
     "content_types": [
       "text"
@@ -4561,9 +4561,9 @@
     "headings": [
       "Emergency Services"
     ],
-    "page": 86,
+    "page": 85,
     "pages": [
-      86
+      85
     ],
     "content_types": [
       "text"
@@ -4576,10 +4576,10 @@
     "headings": [
       "Emergency (Emergency Medical Condition)"
     ],
-    "page": 86,
+    "page": 85,
     "pages": [
-      86,
-      87
+      85,
+      86
     ],
     "content_types": [
       "list_item",
@@ -4593,9 +4593,9 @@
     "headings": [
       "Emergency Care"
     ],
-    "page": 87,
+    "page": 86,
     "pages": [
-      87
+      86
     ],
     "content_types": [
       "text"
@@ -4608,9 +4608,9 @@
     "headings": [
       "Emergency Care"
     ],
-    "page": 87,
+    "page": 86,
     "pages": [
-      87
+      86
     ],
     "content_types": [
       "text"
@@ -4623,9 +4623,9 @@
     "headings": [
       "Fertility Preservation Services"
     ],
-    "page": 87,
+    "page": 86,
     "pages": [
-      87
+      86
     ],
     "content_types": [
       "text"
@@ -4638,9 +4638,9 @@
     "headings": [
       "Gender Affirming Services"
     ],
-    "page": 88,
+    "page": 87,
     "pages": [
-      88
+      87
     ],
     "content_types": [
       "list_item",
@@ -4654,9 +4654,9 @@
     "headings": [
       "Gender Affirming Services"
     ],
-    "page": 88,
+    "page": 87,
     "pages": [
-      88
+      87
     ],
     "content_types": [
       "text"
@@ -4669,9 +4669,9 @@
     "headings": [
       "Habilitative Services"
     ],
-    "page": 88,
+    "page": 87,
     "pages": [
-      88
+      87
     ],
     "content_types": [
       "text"
@@ -4684,9 +4684,9 @@
     "headings": [
       "Home Health Care Services"
     ],
-    "page": 89,
+    "page": 88,
     "pages": [
-      89
+      88
     ],
     "content_types": [
       "list_item",
@@ -4700,9 +4700,9 @@
     "headings": [
       "Home Infusion Therapy"
     ],
-    "page": 89,
+    "page": 88,
     "pages": [
-      89
+      88
     ],
     "content_types": [
       "text"
@@ -4715,10 +4715,10 @@
     "headings": [
       "Hospice Care"
     ],
-    "page": 89,
+    "page": 88,
     "pages": [
-      89,
-      90
+      88,
+      89
     ],
     "content_types": [
       "list_item",
@@ -4732,9 +4732,9 @@
     "headings": [
       "Hospice Care"
     ],
-    "page": 90,
+    "page": 89,
     "pages": [
-      90
+      89
     ],
     "content_types": [
       "text"
@@ -4747,9 +4747,9 @@
     "headings": [
       "Human Organ and Tissue Transplant (Bone Marrow / Stem Cell), Cellular and Gene Therapy Services"
     ],
-    "page": 90,
+    "page": 89,
     "pages": [
-      90
+      89
     ],
     "content_types": [
       "text"
@@ -4762,9 +4762,9 @@
     "headings": [
       "Covered Procedure"
     ],
-    "page": 90,
+    "page": 89,
     "pages": [
-      90
+      89
     ],
     "content_types": [
       "list_item",
@@ -4778,9 +4778,9 @@
     "headings": [
       "Approved In-Network Provider"
     ],
-    "page": 91,
+    "page": 90,
     "pages": [
-      91
+      90
     ],
     "content_types": [
       "list_item",
@@ -4794,9 +4794,9 @@
     "headings": [
       "All Other Providers"
     ],
-    "page": 91,
+    "page": 90,
     "pages": [
-      91
+      90
     ],
     "content_types": [
       "text"
@@ -4809,9 +4809,9 @@
     "headings": [
       "Prior Approval and Precertification"
     ],
-    "page": 91,
+    "page": 90,
     "pages": [
-      91
+      90
     ],
     "content_types": [
       "text"
@@ -4824,9 +4824,9 @@
     "headings": [
       "Donor Benefits"
     ],
-    "page": 91,
+    "page": 90,
     "pages": [
-      91
+      90
     ],
     "content_types": [
       "list_item",
@@ -4840,9 +4840,9 @@
     "headings": [
       "Transportation and Lodging"
     ],
-    "page": 92,
+    "page": 91,
     "pages": [
-      92
+      91
     ],
     "content_types": [
       "list_item",
@@ -4856,9 +4856,9 @@
     "headings": [
       "Infertility Services"
     ],
-    "page": 92,
+    "page": 91,
     "pages": [
-      92
+      91
     ],
     "content_types": [
       "text"
@@ -4871,10 +4871,10 @@
     "headings": [
       "Inpatient Hospital Care"
     ],
-    "page": 92,
+    "page": 91,
     "pages": [
-      92,
-      93
+      91,
+      92
     ],
     "content_types": [
       "list_item",
@@ -4888,9 +4888,9 @@
     "headings": [
       "Skilled Nursing Facility"
     ],
-    "page": 93,
+    "page": 92,
     "pages": [
-      93
+      92
     ],
     "content_types": [
       "list_item",
@@ -4904,10 +4904,10 @@
     "headings": [
       "Inpatient Professional Services"
     ],
-    "page": 93,
+    "page": 92,
     "pages": [
-      93,
-      94
+      92,
+      93
     ],
     "content_types": [
       "list_item",
@@ -4921,9 +4921,9 @@
     "headings": [
       "Maternity Services"
     ],
-    "page": 94,
+    "page": 93,
     "pages": [
-      94
+      93
     ],
     "content_types": [
       "list_item",
@@ -4937,9 +4937,9 @@
     "headings": [
       "Maternity Services"
     ],
-    "page": 94,
+    "page": 93,
     "pages": [
-      94
+      93
     ],
     "content_types": [
       "text"
@@ -4952,9 +4952,9 @@
     "headings": [
       "Abortion Services"
     ],
-    "page": 94,
+    "page": 93,
     "pages": [
-      94
+      93
     ],
     "content_types": [
       "text"
@@ -4967,10 +4967,10 @@
     "headings": [
       "Infertility Services"
     ],
-    "page": 94,
+    "page": 93,
     "pages": [
-      94,
-      95
+      93,
+      94
     ],
     "content_types": [
       "text"
@@ -4983,9 +4983,9 @@
     "headings": [
       "Family Planning Services"
     ],
-    "page": 95,
+    "page": 94,
     "pages": [
-      95
+      94
     ],
     "content_types": [
       "text"
@@ -4998,9 +4998,9 @@
     "headings": [
       "Family Planning Services"
     ],
-    "page": 95,
+    "page": 94,
     "pages": [
-      95
+      94
     ],
     "content_types": [
       "list_item"
@@ -5013,9 +5013,9 @@
     "headings": [
       "Family Planning Services"
     ],
-    "page": 95,
+    "page": 94,
     "pages": [
-      95
+      94
     ],
     "content_types": [
       "list_item"
@@ -5028,10 +5028,10 @@
     "headings": [
       "Mental Health and Substance Use Disorder (Chemical Dependency) Services"
     ],
-    "page": 95,
+    "page": 94,
     "pages": [
-      95,
-      96
+      94,
+      95
     ],
     "content_types": [
       "text"
@@ -5044,9 +5044,9 @@
     "headings": [
       "Mental Health and Substance Use Disorder (Chemical Dependency) Services"
     ],
-    "page": 96,
+    "page": 95,
     "pages": [
-      96
+      95
     ],
     "content_types": [
       "list_item"
@@ -5056,6 +5056,23 @@
   {
     "id": 329,
     "text": "- \uf0a7 Outpatient substance use disorder day treatment programs,\n- \uf0a7 Multidisciplinary treatment in an intensive outpatient psychiatric treatment program,\n- \uf0a7 Electroconvulsive therapy,\n- \uf0a7 Behavioral health treatment for autism spectrum disorders delivered at home,\n- \uf0a7 Ambulatory care services, including but not limited to physical therapy, occupational therapy, speech therapy and infusion therapy,\n- \uf0a7 Diagnostic laboratory services, diagnostic and therapeutic radiologic services, and other diagnostic and therapeutic services,\n- \uf0a7 Drug testing,\n- \uf0a7 Preventive health care services,\n- \uf0a7 Transcranial magnetic stimulation.\n- \uf0b7 Other Services including the following:\n- \uf0a7 Home health care service including but not limited to physical therapy, occupational therapy, and speech therapy,\n- \uf0a7 Intensive home-based treatment,\n- \uf0a7 Coordinated specialty care for the treatment of first episode psychosis,\n- \uf0a7 For Gender Dysphoria, all health care benefits identified in the most recent edition of the Standards of Care developed by the World Professional Association for Transgender Health\n- \uf0a7 Hospice care,\n- \uf0a7 Polysomnography.\n- \uf0b7 Behavioral health treatment for autism spectrum disorders . Inpatient services, office visits, and other outpatient items and services are covered under this section. See 'Autism Spectrum Disorders Services' in this section for a description of additional services that are covered.\nIf services for the Medically Necessary treatment of a Mental Health or Substance Use Disorder are not available In-Network within the geographic and timely access standards set by law or regulation, we will arrange coverage to ensure the delivery of these services, and any Medically Necessary follow-up care that, to the maximum extent possible, meet those geographic and timely access standards.  You will pay no more than the same cost sharing that you would pay for the same Covered Services received from an In-Network Provider.\nIf we fail to arrange services for the Medically Necessary treatment of a Mental Health or Substance Use Disorder, you may arrange to obtain care from any appropriately licensed Provider(s), regardless of whether the Provider is In-Network or Out-of-Network, so long as your first appointment with the Provider or admission to the Provider occurs no more than 90 calendar days after the date the request for covered Medically Necessary Mental Health or Substance Use Disorder services was initially submitted to us. If an appointment or admission to a Provider is not available within 90 calendar days of initially submitting a request, you may arrange an appointment or admission for the earliest possible date outside the 90-day window so long as the appointment or admission was confirmed within 90 days.",
+    "headings": [
+      "Mental Health and Substance Use Disorder (Chemical Dependency) Services"
+    ],
+    "page": 95,
+    "pages": [
+      95,
+      96
+    ],
+    "content_types": [
+      "list_item",
+      "text"
+    ],
+    "source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": 330,
+    "text": "If you receive services for the Medically Necessary treatment of a Mental Health or Substance Use Disorder from an Out-of-Network Provider, we will reimburse all claims from the Provider(s) for the Medically Necessary treatment of a Mental Health or Substance Use Disorder services delivered to you by the Provider(s). You will pay no more than the same cost sharing that you would pay for the same Covered Services received from an In-Network Provider.\nCoverage is also provided for Emergency services for treatment of Mental Health and Substance Use Disorder, including ambulance and ambulance transportation services (including those provided through the 911 Emergency response system and the 988 suicide and crisis lifeline) and Emergency Services received outside Anthem's Service Area. Cost sharing for Emergency Services received from Out-of-Network Providers will be the same as In-Network Providers. Precertification is not required for the Medically Necessary treatment of a Mental Health or Substance Use Disorder provided by a 988 center, mobile crisis team, or other Provider of behavioral health crisis services. However, Precertification may be required once you are stabilized.\nExamples of Providers from whom you can receive Covered Services include the following:\n- \uf0b7 Psychiatrist,\n- \uf0b7 Licensed clinical social worker (L.C.S.W.),\n- \uf0b7 Psychologist,\n- \uf0b7 Mental health clinical nurse specialist,\n- \uf0b7 Licensed professional counselor (L.P.C.),\n- \uf0b7 Licensed marriage and family therapist (L.M.F.T.),\n- \uf0b7 Qualified Autism Service Providers, Qualified Autism Service Professionals, and Qualified Autism Service Paraprofessionals. See the definitions of these in the 'Autism Spectrum Disorders Services' section,\n- \uf0b7 Registered psychological assistant, as described in the CA Business and Professions Code,\n- \uf0b7 Associate clinical social worker functioning pursuant to the CA Business and Professions Code,\n- \uf0b7 Psychology trainee or person supervised as set forth in the CA Business and Professions Code,\n- \uf0b7 Associate marriage and family therapist or marriage and family therapist trainee functioning pursuant to the CA Business and Professions Code,\n- \uf0b7 Associate professional clinical counselor or professional clinical counselor trainee functioning pursuant to the CA Business and Professions Code.",
     "headings": [
       "Mental Health and Substance Use Disorder (Chemical Dependency) Services"
     ],
@@ -5071,10 +5088,55 @@
     "source_file": "Anthem_EOC.pdf"
   },
   {
-    "id": 330,
-    "text": "If you receive services for the Medically Necessary treatment of a Mental Health or Substance Use Disorder from an Out-of-Network Provider, we will reimburse all claims from the Provider(s) for the Medically Necessary treatment of a Mental Health or Substance Use Disorder services delivered to you by the Provider(s). You will pay no more than the same cost sharing that you would pay for the same Covered Services received from an In-Network Provider.\nCoverage is also provided for Emergency services for treatment of Mental Health and Substance Use Disorder, including ambulance and ambulance transportation services (including those provided through the 911 Emergency response system and the 988 suicide and crisis lifeline) and Emergency Services received outside Anthem's Service Area. Cost sharing for Emergency Services received from Out-of-Network Providers will be the same as In-Network Providers. Precertification is not required for the Medically Necessary treatment of a Mental Health or Substance Use Disorder provided by a 988 center, mobile crisis team, or other Provider of behavioral health crisis services. However, Precertification may be required once you are stabilized.\nExamples of Providers from whom you can receive Covered Services include the following:\n- \uf0b7 Psychiatrist,\n- \uf0b7 Licensed clinical social worker (L.C.S.W.),\n- \uf0b7 Psychologist,\n- \uf0b7 Mental health clinical nurse specialist,\n- \uf0b7 Licensed professional counselor (L.P.C.),\n- \uf0b7 Licensed marriage and family therapist (L.M.F.T.),\n- \uf0b7 Qualified Autism Service Providers, Qualified Autism Service Professionals, and Qualified Autism Service Paraprofessionals. See the definitions of these in the 'Autism Spectrum Disorders Services' section,\n- \uf0b7 Registered psychological assistant, as described in the CA Business and Professions Code,\n- \uf0b7 Associate clinical social worker functioning pursuant to the CA Business and Professions Code,\n- \uf0b7 Psychology trainee or person supervised as set forth in the CA Business and Professions Code,\n- \uf0b7 Associate marriage and family therapist or marriage and family therapist trainee functioning pursuant to the CA Business and Professions Code,\n- \uf0b7 Associate professional clinical counselor or professional clinical counselor trainee functioning pursuant to the CA Business and Professions Code.",
+    "id": 331,
+    "text": "Please see 'Therapy Services' later in this section.",
     "headings": [
-      "Mental Health and Substance Use Disorder (Chemical Dependency) Services"
+      "Occupational Therapy"
+    ],
+    "page": 97,
+    "pages": [
+      97
+    ],
+    "content_types": [
+      "text"
+    ],
+    "source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": 332,
+    "text": "Covered Services include:\nOffice Visits for medical care (including second surgical opinions) to examine, diagnose, and treat an illness or injury.\nConsultations between your Primary Care Physician and a Specialist, when approved by Anthem.\nHome Visits for medical care to examine, diagnose, and treat an illness or injury. Please note that Doctor and Primary Care Provider visits in the home are different than the 'Home Health Care Services' benefit described earlier in this Booklet.\nRetail Health Clinic Care for limited basic health care services to Members on a 'walk-in' basis. These clinics are normally found in major Pharmacies or retail stores. Health care services are typically given by Physician's Assistants or Nurse Practitioners. Services are limited to routine care and treatment of common illnesses for adults and children.\nWalk-In Doctor's Office for services limited to routine care and treatment of common illnesses for adults and children. You do not have to be an existing patient or have an appointment to use a walk-in Doctor's office.\nUrgent Care as described in 'Urgent Care Services' later in this section.\nVirtual Visits as described under the 'Virtual Visits (Telehealth / Telemedicine Visits)' section.\nPrescription Drugs Administered in the Office",
+    "headings": [
+      "Office and Home Visits"
+    ],
+    "page": 97,
+    "pages": [
+      97
+    ],
+    "content_types": [
+      "text"
+    ],
+    "source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": 333,
+    "text": "Please see 'Durable Medical Equipment (DME), Medical Devices, and Supplies' earlier in this section.",
+    "headings": [
+      "Orthotics"
+    ],
+    "page": 97,
+    "pages": [
+      97
+    ],
+    "content_types": [
+      "text"
+    ],
+    "source_file": "Anthem_EOC.pdf"
+  },
+  {
+    "id": 334,
+    "text": "Your Plan includes Covered Services in an:\n- \uf0b7 Outpatient Hospital,\n- \uf0b7 Mental Health / Substance Use Disorder Facility, or\n- \uf0b7 Ambulatory Surgery Center,\n- \uf0b7 Other Facilities approved by us.\nBenefits include Facility and related (ancillary) charges, when proper, such as:\n- \uf0b7 Surgical rooms and equipment,\n- \uf0b7 Prescription Drugs, including Specialty Drugs dispensed through the Facility,\n- \uf0b7 Outpatient professional services,\n- \uf0b7 Anesthesia and anesthesia supplies and services given by the Hospital or other Facility,\n- \uf0b7 Diagnostic services,\n- \uf0b7 Medical and surgical dressings and supplies, casts, and splints,\n- \uf0b7 Therapy services.",
+    "headings": [
+      "Outpatient Facility Services"
     ],
     "page": 97,
     "pages": [
@@ -5088,76 +5150,14 @@
     "source_file": "Anthem_EOC.pdf"
   },
   {
-    "id": 331,
-    "text": "Please see 'Therapy Services' later in this section.",
-    "headings": [
-      "Occupational Therapy"
-    ],
-    "page": 98,
-    "pages": [
-      98
-    ],
-    "content_types": [
-      "text"
-    ],
-    "source_file": "Anthem_EOC.pdf"
-  },
-  {
-    "id": 332,
-    "text": "Covered Services include:\nOffice Visits for medical care (including second surgical opinions) to examine, diagnose, and treat an illness or injury.\nConsultations between your Primary Care Physician and a Specialist, when approved by Anthem.\nHome Visits for medical care to examine, diagnose, and treat an illness or injury. Please note that Doctor and Primary Care Provider visits in the home are different than the 'Home Health Care Services' benefit described earlier in this Booklet.\nRetail Health Clinic Care for limited basic health care services to Members on a 'walk-in' basis. These clinics are normally found in major Pharmacies or retail stores. Health care services are typically given by Physician's Assistants or Nurse Practitioners. Services are limited to routine care and treatment of common illnesses for adults and children.\nWalk-In Doctor's Office for services limited to routine care and treatment of common illnesses for adults and children. You do not have to be an existing patient or have an appointment to use a walk-in Doctor's office.\nUrgent Care as described in 'Urgent Care Services' later in this section.\nVirtual Visits as described under the 'Virtual Visits (Telehealth / Telemedicine Visits)' section.\nPrescription Drugs Administered in the Office",
-    "headings": [
-      "Office and Home Visits"
-    ],
-    "page": 98,
-    "pages": [
-      98
-    ],
-    "content_types": [
-      "text"
-    ],
-    "source_file": "Anthem_EOC.pdf"
-  },
-  {
-    "id": 333,
-    "text": "Please see 'Durable Medical Equipment (DME), Medical Devices, and Supplies' earlier in this section.",
-    "headings": [
-      "Orthotics"
-    ],
-    "page": 98,
-    "pages": [
-      98
-    ],
-    "content_types": [
-      "text"
-    ],
-    "source_file": "Anthem_EOC.pdf"
-  },
-  {
-    "id": 334,
-    "text": "Your Plan includes Covered Services in an:\n- \uf0b7 Outpatient Hospital,\n- \uf0b7 Mental Health / Substance Use Disorder Facility, or\n- \uf0b7 Ambulatory Surgery Center,\n- \uf0b7 Other Facilities approved by us.\nBenefits include Facility and related (ancillary) charges, when proper, such as:\n- \uf0b7 Surgical rooms and equipment,\n- \uf0b7 Prescription Drugs, including Specialty Drugs dispensed through the Facility,\n- \uf0b7 Outpatient professional services,\n- \uf0b7 Anesthesia and anesthesia supplies and services given by the Hospital or other Facility,\n- \uf0b7 Diagnostic services,\n- \uf0b7 Medical and surgical dressings and supplies, casts, and splints,\n- \uf0b7 Therapy services.",
-    "headings": [
-      "Outpatient Facility Services"
-    ],
-    "page": 98,
-    "pages": [
-      98,
-      99
-    ],
-    "content_types": [
-      "list_item",
-      "text"
-    ],
-    "source_file": "Anthem_EOC.pdf"
-  },
-  {
     "id": 335,
     "text": "Benefits for the testing and treatment of phenylketonuria (PKU) are paid on the same basis as any other medical condition. Coverage for treatment of PKU shall include those formulas and special food products that are part of a diet prescribed by a licensed Physician and managed by a health care professional in consultation with a Physician who specializes in the treatment of metabolic disease and who participates in or is authorized by the Plan. The diet must be deemed Medically Necessary to avert the development of serious physical or mental disabilities or to promote normal development or function as a consequence of PKU.\nThe cost of the necessary formulas and special food products is covered only as it exceeds the cost of a normal diet. 'Formula' means an enteral product or products for use at home. The formula must be prescribed by a Physician or nurse practitioner, or ordered by a registered dietician upon referral by a health care Provider authorized to prescribe dietary treatments, and is Medically Necessary for the treatment of PKU. Formulas and special food products used in the treatment of PKU that are obtained from a Pharmacy are covered under your Plan's Prescription Drug benefits. Formulas and special food products that are not obtained from a Pharmacy are covered under this benefit.\n'Special food product' means a food product that is all of the following:\n1. Prescribed by a Physician or nurse practitioner for the treatment of PKU, and\n2. Consistent with the recommendations and best practices of qualified health professionals with expertise in the treatment and care of PKU, and\n3. Used in place of normal food products, such as grocery store foods, used by the general population.\nNote: It does not include a food that is naturally low in protein, but may include a food product that is specially formulated to have less than one gram of protein per serving.",
     "headings": [
       "Phenylketonuria (PKU)"
     ],
-    "page": 99,
+    "page": 98,
     "pages": [
-      99
+      98
     ],
     "content_types": [
       "list_item",
@@ -5171,9 +5171,9 @@
     "headings": [
       "Physical Therapy"
     ],
-    "page": 99,
+    "page": 98,
     "pages": [
-      99
+      98
     ],
     "content_types": [
       "text"
@@ -5186,10 +5186,10 @@
     "headings": [
       "Preventive Care"
     ],
-    "page": 99,
+    "page": 98,
     "pages": [
-      99,
-      100
+      98,
+      99
     ],
     "content_types": [
       "list_item",
@@ -5203,10 +5203,10 @@
     "headings": [
       "Preventive Care"
     ],
-    "page": 100,
+    "page": 99,
     "pages": [
-      100,
-      101
+      99,
+      100
     ],
     "content_types": [
       "text"
@@ -5219,9 +5219,9 @@
     "headings": [
       "Preventive Care"
     ],
-    "page": 101,
+    "page": 100,
     "pages": [
-      101
+      100
     ],
     "content_types": [
       "list_item",
@@ -5235,10 +5235,10 @@
     "headings": [
       "Well Baby and Well Child Preventive Care"
     ],
-    "page": 101,
+    "page": 100,
     "pages": [
-      101,
-      102
+      100,
+      101
     ],
     "content_types": [
       "list_item"
@@ -5251,9 +5251,9 @@
     "headings": [
       "Adult Preventive Care"
     ],
-    "page": 102,
+    "page": 101,
     "pages": [
-      102
+      101
     ],
     "content_types": [
       "list_item"
@@ -5266,9 +5266,9 @@
     "headings": [
       "Preventive Care for Chronic Conditions (per IRS guidelines)"
     ],
-    "page": 102,
+    "page": 101,
     "pages": [
-      102
+      101
     ],
     "content_types": [
       "text"
@@ -5281,9 +5281,9 @@
     "headings": [
       "Prosthetics"
     ],
-    "page": 102,
+    "page": 101,
     "pages": [
-      102
+      101
     ],
     "content_types": [
       "text"
@@ -5296,9 +5296,9 @@
     "headings": [
       "Pulmonary Therapy"
     ],
-    "page": 102,
+    "page": 101,
     "pages": [
-      102
+      101
     ],
     "content_types": [
       "text"
@@ -5311,9 +5311,9 @@
     "headings": [
       "Radiation Therapy"
     ],
-    "page": 102,
+    "page": 101,
     "pages": [
-      102
+      101
     ],
     "content_types": [
       "text"
@@ -5326,9 +5326,9 @@
     "headings": [
       "Rehabilitative Services"
     ],
-    "page": 103,
+    "page": 102,
     "pages": [
-      103
+      102
     ],
     "content_types": [
       "text"
@@ -5341,9 +5341,9 @@
     "headings": [
       "Respiratory Therapy"
     ],
-    "page": 103,
+    "page": 102,
     "pages": [
-      103
+      102
     ],
     "content_types": [
       "text"
@@ -5356,9 +5356,9 @@
     "headings": [
       "Skilled Nursing Facility"
     ],
-    "page": 103,
+    "page": 102,
     "pages": [
-      103
+      102
     ],
     "content_types": [
       "text"
@@ -5371,9 +5371,9 @@
     "headings": [
       "Smoking Cessation"
     ],
-    "page": 103,
+    "page": 102,
     "pages": [
-      103
+      102
     ],
     "content_types": [
       "text"
@@ -5386,9 +5386,9 @@
     "headings": [
       "Speech Therapy"
     ],
-    "page": 103,
+    "page": 102,
     "pages": [
-      103
+      102
     ],
     "content_types": [
       "text"
@@ -5401,9 +5401,9 @@
     "headings": [
       "Surgery"
     ],
-    "page": 103,
+    "page": 102,
     "pages": [
-      103
+      102
     ],
     "content_types": [
       "list_item",
@@ -5417,10 +5417,10 @@
     "headings": [
       "Bariatric Surgery"
     ],
-    "page": 103,
+    "page": 102,
     "pages": [
-      103,
-      104
+      102,
+      103
     ],
     "content_types": [
       "list_item",
@@ -5434,9 +5434,9 @@
     "headings": [
       "Oral Surgery"
     ],
-    "page": 104,
+    "page": 103,
     "pages": [
-      104
+      103
     ],
     "content_types": [
       "list_item",
@@ -5450,9 +5450,9 @@
     "headings": [
       "Reconstructive Surgery"
     ],
-    "page": 104,
+    "page": 103,
     "pages": [
-      104
+      103
     ],
     "content_types": [
       "text"
@@ -5465,9 +5465,9 @@
     "headings": [
       "Mastectomy Notice"
     ],
-    "page": 105,
+    "page": 104,
     "pages": [
-      105
+      104
     ],
     "content_types": [
       "list_item",
@@ -5481,9 +5481,9 @@
     "headings": [
       "Temporomandibular Joint (TMJ) and Craniomandibular Joint Services"
     ],
-    "page": 105,
+    "page": 104,
     "pages": [
-      105
+      104
     ],
     "content_types": [
       "text"
@@ -5496,9 +5496,9 @@
     "headings": [
       "Physical Medicine Therapy Services"
     ],
-    "page": 105,
+    "page": 104,
     "pages": [
-      105
+      104
     ],
     "content_types": [
       "list_item",
@@ -5512,9 +5512,9 @@
     "headings": [
       "Other Therapy Services"
     ],
-    "page": 105,
+    "page": 104,
     "pages": [
-      105
+      104
     ],
     "content_types": [
       "list_item",
@@ -5528,9 +5528,9 @@
     "headings": [
       "Other Therapy Services"
     ],
-    "page": 106,
+    "page": 105,
     "pages": [
-      106
+      105
     ],
     "content_types": [
       "list_item"
@@ -5543,9 +5543,9 @@
     "headings": [
       "Transplant Services"
     ],
-    "page": 106,
+    "page": 105,
     "pages": [
-      106
+      105
     ],
     "content_types": [
       "text"
@@ -5558,9 +5558,9 @@
     "headings": [
       "Urgent Care Services"
     ],
-    "page": 106,
+    "page": 105,
     "pages": [
-      106
+      105
     ],
     "content_types": [
       "list_item",
@@ -5574,9 +5574,9 @@
     "headings": [
       "Virtual Visits (Telehealth / Telemedicine Visits)"
     ],
-    "page": 107,
+    "page": 106,
     "pages": [
-      107
+      106
     ],
     "content_types": [
       "list_item",
@@ -5590,9 +5590,9 @@
     "headings": [
       "Vision Services For Members Up To Age 19"
     ],
-    "page": 107,
+    "page": 106,
     "pages": [
-      107
+      106
     ],
     "content_types": [
       "text"
@@ -5605,9 +5605,9 @@
     "headings": [
       "Routine Eye Exam"
     ],
-    "page": 107,
+    "page": 106,
     "pages": [
-      107
+      106
     ],
     "content_types": [
       "text"
@@ -5620,9 +5620,9 @@
     "headings": [
       "Eyeglass Lenses"
     ],
-    "page": 107,
+    "page": 106,
     "pages": [
-      107
+      106
     ],
     "content_types": [
       "list_item",
@@ -5636,9 +5636,9 @@
     "headings": [
       "Frames"
     ],
-    "page": 108,
+    "page": 107,
     "pages": [
-      108
+      107
     ],
     "content_types": [
       "text"
@@ -5651,9 +5651,9 @@
     "headings": [
       "Contact Lenses"
     ],
-    "page": 108,
+    "page": 107,
     "pages": [
-      108
+      107
     ],
     "content_types": [
       "list_item",
@@ -5667,9 +5667,9 @@
     "headings": [
       "Low Vision"
     ],
-    "page": 108,
+    "page": 107,
     "pages": [
-      108
+      107
     ],
     "content_types": [
       "text"
@@ -5682,9 +5682,9 @@
     "headings": [
       "Vision Services For Members Age 19 and Older"
     ],
-    "page": 108,
+    "page": 107,
     "pages": [
-      108
+      107
     ],
     "content_types": [
       "text"
@@ -5697,9 +5697,9 @@
     "headings": [
       "Routine Eye Exam"
     ],
-    "page": 108,
+    "page": 107,
     "pages": [
-      108
+      107
     ],
     "content_types": [
       "text"
@@ -5712,10 +5712,10 @@
     "headings": [
       "Vision Services (All Members / All Ages)"
     ],
-    "page": 108,
+    "page": 107,
     "pages": [
-      108,
-      109
+      107,
+      108
     ],
     "content_types": [
       "text"
@@ -5728,9 +5728,9 @@
     "headings": [
       "Prescription Drugs Administered by a Medical Provider"
     ],
-    "page": 110,
+    "page": 109,
     "pages": [
-      110
+      109
     ],
     "content_types": [
       "text"
@@ -5743,9 +5743,9 @@
     "headings": [
       "Important Details About Prescription Drug Coverage"
     ],
-    "page": 110,
+    "page": 109,
     "pages": [
-      110
+      109
     ],
     "content_types": [
       "list_item",
@@ -5759,9 +5759,9 @@
     "headings": [
       "Covered Prescription Drugs"
     ],
-    "page": 110,
+    "page": 109,
     "pages": [
-      110
+      109
     ],
     "content_types": [
       "text"
@@ -5774,10 +5774,10 @@
     "headings": [
       "Precertification and Step Therapy Exceptions"
     ],
-    "page": 110,
+    "page": 109,
     "pages": [
-      110,
-      111
+      109,
+      110
     ],
     "content_types": [
       "list_item",
@@ -5791,10 +5791,10 @@
     "headings": [
       "Designated Pharmacy Provider"
     ],
-    "page": 111,
+    "page": 110,
     "pages": [
-      111,
-      112
+      110,
+      111
     ],
     "content_types": [
       "text"
@@ -5807,9 +5807,9 @@
     "headings": [
       "Therapeutic Equivalents"
     ],
-    "page": 112,
+    "page": 111,
     "pages": [
-      112
+      111
     ],
     "content_types": [
       "text"
@@ -5822,9 +5822,9 @@
     "headings": [
       "Prescription Drug Benefit at a Retail or Home Delivery (Mail Order) Pharmacy"
     ],
-    "page": 113,
+    "page": 112,
     "pages": [
-      113
+      112
     ],
     "content_types": [
       "text"
@@ -5837,9 +5837,9 @@
     "headings": [
       "Prescription Drug Benefits"
     ],
-    "page": 113,
+    "page": 112,
     "pages": [
-      113
+      112
     ],
     "content_types": [
       "text"
@@ -5852,10 +5852,10 @@
     "headings": [
       "Prior Authorization and Step Therapy Exceptions"
     ],
-    "page": 113,
+    "page": 112,
     "pages": [
-      113,
-      114
+      112,
+      113
     ],
     "content_types": [
       "list_item",
@@ -5869,9 +5869,9 @@
     "headings": [
       "Prior Authorization and Step Therapy Exceptions"
     ],
-    "page": 114,
+    "page": 113,
     "pages": [
-      114
+      113
     ],
     "content_types": [
       "list_item",
@@ -5885,9 +5885,9 @@
     "headings": [
       "Prior Authorization and Step Therapy Exceptions"
     ],
-    "page": 114,
+    "page": 113,
     "pages": [
-      114
+      113
     ],
     "content_types": [
       "list_item",
@@ -5901,9 +5901,9 @@
     "headings": [
       "Prior Authorization and Step Therapy Exceptions"
     ],
-    "page": 115,
+    "page": 114,
     "pages": [
-      115
+      114
     ],
     "content_types": [
       "text"
@@ -5916,9 +5916,9 @@
     "headings": [
       "Covered Prescription Drugs"
     ],
-    "page": 115,
+    "page": 114,
     "pages": [
-      115
+      114
     ],
     "content_types": [
       "list_item",
@@ -5932,10 +5932,10 @@
     "headings": [
       "Covered Prescription Drugs"
     ],
-    "page": 115,
+    "page": 114,
     "pages": [
-      115,
-      116
+      114,
+      115
     ],
     "content_types": [
       "list_item",
@@ -5949,9 +5949,9 @@
     "headings": [
       "Where You Can Get Prescription Drugs"
     ],
-    "page": 116,
+    "page": 115,
     "pages": [
-      116
+      115
     ],
     "content_types": [
       "text"
@@ -5964,9 +5964,9 @@
     "headings": [
       "In-Network Pharmacy"
     ],
-    "page": 116,
+    "page": 115,
     "pages": [
-      116
+      115
     ],
     "content_types": [
       "text"
@@ -5979,9 +5979,9 @@
     "headings": [
       "In-Network Pharmacy"
     ],
-    "page": 116,
+    "page": 115,
     "pages": [
-      116
+      115
     ],
     "content_types": [
       "text"
@@ -5994,10 +5994,10 @@
     "headings": [
       "In-Network Pharmacy"
     ],
-    "page": 116,
+    "page": 115,
     "pages": [
-      116,
-      117
+      115,
+      116
     ],
     "content_types": [
       "text"
@@ -6010,9 +6010,9 @@
     "headings": [
       "Maintenance Pharmacy"
     ],
-    "page": 117,
+    "page": 116,
     "pages": [
-      117
+      116
     ],
     "content_types": [
       "text"
@@ -6025,9 +6025,9 @@
     "headings": [
       "Specialty Pharmacy"
     ],
-    "page": 117,
+    "page": 116,
     "pages": [
-      117
+      116
     ],
     "content_types": [
       "text"
@@ -6040,9 +6040,9 @@
     "headings": [
       "Exceptions to the specialty pharmacy program."
     ],
-    "page": 117,
+    "page": 116,
     "pages": [
-      117
+      116
     ],
     "content_types": [
       "list_item",
@@ -6056,10 +6056,10 @@
     "headings": [
       "How to obtain an exception to the specialty pharmacy program."
     ],
-    "page": 117,
+    "page": 116,
     "pages": [
-      117,
-      118
+      116,
+      117
     ],
     "content_types": [
       "text"
@@ -6072,9 +6072,9 @@
     "headings": [
       "Home Delivery Pharmacy"
     ],
-    "page": 118,
+    "page": 117,
     "pages": [
-      118
+      117
     ],
     "content_types": [
       "text"
@@ -6087,9 +6087,9 @@
     "headings": [
       "Out-of-Network Pharmacy"
     ],
-    "page": 118,
+    "page": 117,
     "pages": [
-      118
+      117
     ],
     "content_types": [
       "text"
@@ -6102,10 +6102,10 @@
     "headings": [
       "Tiers"
     ],
-    "page": 118,
+    "page": 117,
     "pages": [
-      118,
-      119
+      117,
+      118
     ],
     "content_types": [
       "list_item",
@@ -6119,9 +6119,9 @@
     "headings": [
       "Prescription Drug List (Anthem Select Drug List)"
     ],
-    "page": 119,
+    "page": 118,
     "pages": [
-      119
+      118
     ],
     "content_types": [
       "text"
@@ -6134,9 +6134,9 @@
     "headings": [
       "Exception Request for a Quantity, Dose or Frequency Limitation, Step Therapy, or a Drug not on the Prescription Drug List"
     ],
-    "page": 119,
+    "page": 118,
     "pages": [
-      119
+      118
     ],
     "content_types": [
       "text"
@@ -6149,9 +6149,9 @@
     "headings": [
       "Exception Request for a Quantity, Dose or Frequency Limitation, Step Therapy, or a Drug not on the Prescription Drug List"
     ],
-    "page": 120,
+    "page": 119,
     "pages": [
-      120
+      119
     ],
     "content_types": [
       "text"
@@ -6164,9 +6164,9 @@
     "headings": [
       "PreventiveRx Benefit"
     ],
-    "page": 120,
+    "page": 119,
     "pages": [
-      120
+      119
     ],
     "content_types": [
       "text"
@@ -6179,9 +6179,9 @@
     "headings": [
       "Day Supply and Refill Limits"
     ],
-    "page": 120,
+    "page": 119,
     "pages": [
-      120
+      119
     ],
     "content_types": [
       "text"
@@ -6194,9 +6194,9 @@
     "headings": [
       "Therapeutic Equivalents"
     ],
-    "page": 120,
+    "page": 119,
     "pages": [
-      120
+      119
     ],
     "content_types": [
       "text"
@@ -6209,10 +6209,10 @@
     "headings": [
       "Split Fill Dispensing Program"
     ],
-    "page": 120,
+    "page": 119,
     "pages": [
-      120,
-      121
+      119,
+      120
     ],
     "content_types": [
       "text"
@@ -6225,9 +6225,9 @@
     "headings": [
       "Drug Cost Share Assistance Programs"
     ],
-    "page": 121,
+    "page": 120,
     "pages": [
-      121
+      120
     ],
     "content_types": [
       "text"
@@ -6240,9 +6240,9 @@
     "headings": [
       "Special Programs"
     ],
-    "page": 121,
+    "page": 120,
     "pages": [
-      121
+      120
     ],
     "content_types": [
       "text"
@@ -6255,9 +6255,9 @@
     "headings": [
       "Rebate Impact on Prescription Drugs You get at Retail or Home Delivery Pharmacies"
     ],
-    "page": 121,
+    "page": 120,
     "pages": [
-      121
+      120
     ],
     "content_types": [
       "text"
@@ -6270,9 +6270,9 @@
     "headings": [
       "What's Not Covered"
     ],
-    "page": 122,
+    "page": 121,
     "pages": [
-      122
+      121
     ],
     "content_types": [
       "text"
@@ -6285,9 +6285,9 @@
     "headings": [
       "1. Administrative Charges"
     ],
-    "page": 122,
+    "page": 121,
     "pages": [
-      122
+      121
     ],
     "content_types": [
       "list_item",
@@ -6301,10 +6301,10 @@
     "headings": [
       "1. Administrative Charges"
     ],
-    "page": 122,
+    "page": 121,
     "pages": [
-      122,
-      123
+      121,
+      122
     ],
     "content_types": [
       "list_item",
@@ -6318,9 +6318,9 @@
     "headings": [
       "1. Administrative Charges"
     ],
-    "page": 123,
+    "page": 122,
     "pages": [
-      123
+      122
     ],
     "content_types": [
       "list_item"
@@ -6333,9 +6333,9 @@
     "headings": [
       "1. Administrative Charges"
     ],
-    "page": 124,
+    "page": 123,
     "pages": [
-      124
+      123
     ],
     "content_types": [
       "list_item"
@@ -6348,10 +6348,10 @@
     "headings": [
       "1. Administrative Charges"
     ],
-    "page": 124,
+    "page": 123,
     "pages": [
-      124,
-      125
+      123,
+      124
     ],
     "content_types": [
       "list_item",
@@ -6365,9 +6365,9 @@
     "headings": [
       "1. Administrative Charges"
     ],
-    "page": 125,
+    "page": 124,
     "pages": [
-      125
+      124
     ],
     "content_types": [
       "list_item"
@@ -6380,9 +6380,9 @@
     "headings": [
       "36. Home Health Care"
     ],
-    "page": 126,
+    "page": 125,
     "pages": [
-      126
+      125
     ],
     "content_types": [
       "list_item",
@@ -6396,9 +6396,9 @@
     "headings": [
       "44. Medical Equipment, Devices, and Supplies"
     ],
-    "page": 126,
+    "page": 125,
     "pages": [
-      126
+      125
     ],
     "content_types": [
       "list_item",
@@ -6412,9 +6412,9 @@
     "headings": [
       "44. Medical Equipment, Devices, and Supplies"
     ],
-    "page": 127,
+    "page": 126,
     "pages": [
-      127
+      126
     ],
     "content_types": [
       "list_item"
@@ -6427,9 +6427,9 @@
     "headings": [
       "52. Personal Care, Convenience and Mobile/Wearable Devices"
     ],
-    "page": 127,
+    "page": 126,
     "pages": [
-      127
+      126
     ],
     "content_types": [
       "list_item"
@@ -6442,10 +6442,10 @@
     "headings": [
       "52. Personal Care, Convenience and Mobile/Wearable Devices"
     ],
-    "page": 127,
+    "page": 126,
     "pages": [
-      127,
-      128
+      126,
+      127
     ],
     "content_types": [
       "list_item",
@@ -6459,9 +6459,9 @@
     "headings": [
       "52. Personal Care, Convenience and Mobile/Wearable Devices"
     ],
-    "page": 128,
+    "page": 127,
     "pages": [
-      128
+      127
     ],
     "content_types": [
       "list_item"
@@ -6474,10 +6474,10 @@
     "headings": [
       "66. Vision Services"
     ],
-    "page": 128,
+    "page": 127,
     "pages": [
-      128,
-      129
+      127,
+      128
     ],
     "content_types": [
       "list_item",
@@ -6491,9 +6491,9 @@
     "headings": [
       "What's Not Covered Under Your Prescription Drug Retail or Home Delivery (Mail Order) Pharmacy Benefit"
     ],
-    "page": 129,
+    "page": 128,
     "pages": [
-      129
+      128
     ],
     "content_types": [
       "list_item",
@@ -6507,9 +6507,9 @@
     "headings": [
       "What's Not Covered Under Your Prescription Drug Retail or Home Delivery (Mail Order) Pharmacy Benefit"
     ],
-    "page": 129,
+    "page": 128,
     "pages": [
-      129
+      128
     ],
     "content_types": [
       "list_item"
@@ -6522,9 +6522,9 @@
     "headings": [
       "What's Not Covered Under Your Prescription Drug Retail or Home Delivery (Mail Order) Pharmacy Benefit"
     ],
-    "page": 130,
+    "page": 129,
     "pages": [
-      130
+      129
     ],
     "content_types": [
       "list_item"
@@ -6537,10 +6537,10 @@
     "headings": [
       "What's Not Covered Under Your Prescription Drug Retail or Home Delivery (Mail Order) Pharmacy Benefit"
     ],
-    "page": 130,
+    "page": 129,
     "pages": [
-      130,
-      131
+      129,
+      130
     ],
     "content_types": [
       "list_item",
@@ -6554,9 +6554,9 @@
     "headings": [
       "What's Not Covered Under Your Prescription Drug Retail or Home Delivery (Mail Order) Pharmacy Benefit"
     ],
-    "page": 131,
+    "page": 130,
     "pages": [
-      131
+      130
     ],
     "content_types": [
       "list_item",
@@ -6570,9 +6570,9 @@
     "headings": [
       "Claims Payment"
     ],
-    "page": 132,
+    "page": 131,
     "pages": [
-      132
+      131
     ],
     "content_types": [
       "text"
@@ -6585,9 +6585,9 @@
     "headings": [
       "General"
     ],
-    "page": 132,
+    "page": 131,
     "pages": [
-      132
+      131
     ],
     "content_types": [
       "text"
@@ -6600,10 +6600,10 @@
     "headings": [
       "General"
     ],
-    "page": 132,
+    "page": 131,
     "pages": [
-      132,
-      133
+      131,
+      132
     ],
     "content_types": [
       "list_item",
@@ -6617,9 +6617,9 @@
     "headings": [
       "General"
     ],
-    "page": 133,
+    "page": 132,
     "pages": [
-      133
+      132
     ],
     "content_types": [
       "text"
@@ -6632,9 +6632,9 @@
     "headings": [
       "Provider Network Status"
     ],
-    "page": 133,
+    "page": 132,
     "pages": [
-      133
+      132
     ],
     "content_types": [
       "text"
@@ -6647,10 +6647,10 @@
     "headings": [
       "Provider Network Status"
     ],
-    "page": 133,
+    "page": 132,
     "pages": [
-      133,
-      134
+      132,
+      133
     ],
     "content_types": [
       "text"
@@ -6663,9 +6663,9 @@
     "headings": [
       "Provider Network Status"
     ],
-    "page": 134,
+    "page": 133,
     "pages": [
-      134
+      133
     ],
     "content_types": [
       "text"
@@ -6678,10 +6678,10 @@
     "headings": [
       "Member Cost Share"
     ],
-    "page": 134,
+    "page": 133,
     "pages": [
-      134,
-      135
+      133,
+      134
     ],
     "content_types": [
       "text"
@@ -6694,9 +6694,9 @@
     "headings": [
       "Member Cost Share"
     ],
-    "page": 135,
+    "page": 134,
     "pages": [
-      135
+      134
     ],
     "content_types": [
       "text"
@@ -6709,9 +6709,9 @@
     "headings": [
       "Member Cost Share"
     ],
-    "page": 135,
+    "page": 134,
     "pages": [
-      135
+      134
     ],
     "content_types": [
       "list_item"
@@ -6724,10 +6724,10 @@
     "headings": [
       "Authorized Referrals"
     ],
-    "page": 135,
+    "page": 134,
     "pages": [
-      135,
-      136
+      134,
+      135
     ],
     "content_types": [
       "text"
@@ -6740,9 +6740,9 @@
     "headings": [
       "Federal/State Taxes/Surcharges/Fees"
     ],
-    "page": 136,
+    "page": 135,
     "pages": [
-      136
+      135
     ],
     "content_types": [
       "text"
@@ -6755,9 +6755,9 @@
     "headings": [
       "Claims Review"
     ],
-    "page": 136,
+    "page": 135,
     "pages": [
-      136
+      135
     ],
     "content_types": [
       "text"
@@ -6770,10 +6770,10 @@
     "headings": [
       "Notice of Claim & Proof of Loss"
     ],
-    "page": 136,
+    "page": 135,
     "pages": [
-      136,
-      137
+      135,
+      136
     ],
     "content_types": [
       "list_item",
@@ -6787,9 +6787,9 @@
     "headings": [
       "Member's Cooperation"
     ],
-    "page": 137,
+    "page": 136,
     "pages": [
-      137
+      136
     ],
     "content_types": [
       "text"
@@ -6802,9 +6802,9 @@
     "headings": [
       "Payment of Benefits"
     ],
-    "page": 137,
+    "page": 136,
     "pages": [
-      137
+      136
     ],
     "content_types": [
       "text"
@@ -6817,10 +6817,10 @@
     "headings": [
       "Payment of Benefits"
     ],
-    "page": 137,
+    "page": 136,
     "pages": [
-      137,
-      138
+      136,
+      137
     ],
     "content_types": [
       "text"
@@ -6833,9 +6833,9 @@
     "headings": [
       "Overview"
     ],
-    "page": 138,
+    "page": 137,
     "pages": [
-      138
+      137
     ],
     "content_types": [
       "text"
@@ -6848,9 +6848,9 @@
     "headings": [
       "Inter-Plan Arrangements Eligibility - Claim Types"
     ],
-    "page": 138,
+    "page": 137,
     "pages": [
-      138
+      137
     ],
     "content_types": [
       "text"
@@ -6863,9 +6863,9 @@
     "headings": [
       "A. BlueCard \u00ae  Program"
     ],
-    "page": 138,
+    "page": 137,
     "pages": [
-      138
+      137
     ],
     "content_types": [
       "list_item",
@@ -6879,9 +6879,9 @@
     "headings": [
       "BlueCard \u00ae Program"
     ],
-    "page": 138,
+    "page": 137,
     "pages": [
-      138
+      137
     ],
     "content_types": [
       "text"
@@ -6894,9 +6894,9 @@
     "headings": [
       "C. Inter-Plan Programs: Federal/State Taxes/Surcharges/Fees"
     ],
-    "page": 139,
+    "page": 138,
     "pages": [
-      139
+      138
     ],
     "content_types": [
       "text"
@@ -6909,9 +6909,9 @@
     "headings": [
       "1. Allowed Amounts and Member Liability Calculation"
     ],
-    "page": 139,
+    "page": 138,
     "pages": [
-      139
+      138
     ],
     "content_types": [
       "text"
@@ -6924,9 +6924,9 @@
     "headings": [
       "2. Exceptions"
     ],
-    "page": 139,
+    "page": 138,
     "pages": [
-      139
+      138
     ],
     "content_types": [
       "text"
@@ -6939,10 +6939,10 @@
     "headings": [
       "E. Blue Cross Blue Shield Global Core \u00ae  Program"
     ],
-    "page": 139,
+    "page": 138,
     "pages": [
-      139,
-      140
+      138,
+      139
     ],
     "content_types": [
       "list_item",
@@ -6956,9 +6956,9 @@
     "headings": [
       "Coordination of Benefits When Members Are Covered Under More Than One Plan"
     ],
-    "page": 141,
+    "page": 140,
     "pages": [
-      141
+      140
     ],
     "content_types": [
       "text"
@@ -6971,9 +6971,9 @@
     "headings": [
       "DEFINITIONS"
     ],
-    "page": 141,
+    "page": 140,
     "pages": [
-      141
+      140
     ],
     "content_types": [
       "list_item",
@@ -6987,10 +6987,10 @@
     "headings": [
       "Other Plan is any of the following:"
     ],
-    "page": 141,
+    "page": 140,
     "pages": [
-      141,
-      142
+      140,
+      141
     ],
     "content_types": [
       "list_item",
@@ -7004,9 +7004,9 @@
     "headings": [
       "EFFECT ON BENEFITS"
     ],
-    "page": 142,
+    "page": 141,
     "pages": [
-      142
+      141
     ],
     "content_types": [
       "list_item"
@@ -7019,9 +7019,9 @@
     "headings": [
       "ORDER OF BENEFITS DETERMINATION"
     ],
-    "page": 142,
+    "page": 141,
     "pages": [
-      142
+      141
     ],
     "content_types": [
       "list_item",
@@ -7035,10 +7035,10 @@
     "headings": [
       "ORDER OF BENEFITS DETERMINATION"
     ],
-    "page": 142,
+    "page": 141,
     "pages": [
-      142,
-      143
+      141,
+      142
     ],
     "content_types": [
       "list_item",
@@ -7052,9 +7052,9 @@
     "headings": [
       "OUR RIGHTS UNDER THIS PROVISION"
     ],
-    "page": 143,
+    "page": 142,
     "pages": [
-      143
+      142
     ],
     "content_types": [
       "text"
@@ -7067,9 +7067,9 @@
     "headings": [
       "Third Party Liability and Reimbursement"
     ],
-    "page": 144,
+    "page": 143,
     "pages": [
-      144
+      143
     ],
     "content_types": [
       "list_item",
@@ -7083,9 +7083,9 @@
     "headings": [
       "Third Party Liability and Reimbursement"
     ],
-    "page": 144,
+    "page": 143,
     "pages": [
-      144
+      143
     ],
     "content_types": [
       "text"
@@ -7098,9 +7098,9 @@
     "headings": [
       "Grievance and External Review Procedures"
     ],
-    "page": 145,
+    "page": 144,
     "pages": [
-      145
+      144
     ],
     "content_types": [
       "text"
@@ -7113,9 +7113,9 @@
     "headings": [
       "For medical and Prescription Drug or Pharmacy Issues:"
     ],
-    "page": 145,
+    "page": 144,
     "pages": [
-      145
+      144
     ],
     "content_types": [
       "text"
@@ -7128,9 +7128,9 @@
     "headings": [
       "For 'Dental Services For Members Up To Age 19' Issues:"
     ],
-    "page": 145,
+    "page": 144,
     "pages": [
-      145
+      144
     ],
     "content_types": [
       "text"
@@ -7143,10 +7143,10 @@
     "headings": [
       "For 'Vision Services For Members Up To Age 19' or 'Vision Services For Members Age 19 and Older' Issues:"
     ],
-    "page": 145,
+    "page": 144,
     "pages": [
-      145,
-      146
+      144,
+      145
     ],
     "content_types": [
       "list_item",
@@ -7160,9 +7160,9 @@
     "headings": [
       "For 'Vision Services For Members Up To Age 19' or 'Vision Services For Members Age 19 and Older' Issues:"
     ],
-    "page": 146,
+    "page": 145,
     "pages": [
-      146
+      145
     ],
     "content_types": [
       "text"
@@ -7175,10 +7175,10 @@
     "headings": [
       "Independent Medical Review Based Upon the Denial of Experimental or Investigational Treatment"
     ],
-    "page": 146,
+    "page": 145,
     "pages": [
-      146,
-      147
+      145,
+      146
     ],
     "content_types": [
       "list_item",
@@ -7192,9 +7192,9 @@
     "headings": [
       "Independent Medical Review Based Upon the Denial of Experimental or Investigational Treatment"
     ],
-    "page": 147,
+    "page": 146,
     "pages": [
-      147
+      146
     ],
     "content_types": [
       "list_item"
@@ -7207,10 +7207,10 @@
     "headings": [
       "Independent Medical Review of Grievances Involving A Disputed Health Care Service"
     ],
-    "page": 147,
+    "page": 146,
     "pages": [
-      147,
-      148
+      146,
+      147
     ],
     "content_types": [
       "list_item",
@@ -7224,9 +7224,9 @@
     "headings": [
       "Independent Medical Review of Grievances Involving A Disputed Health Care Service"
     ],
-    "page": 148,
+    "page": 147,
     "pages": [
-      148
+      147
     ],
     "content_types": [
       "text"
@@ -7239,9 +7239,9 @@
     "headings": [
       "Department of Managed Health Care"
     ],
-    "page": 148,
+    "page": 147,
     "pages": [
-      148
+      147
     ],
     "content_types": [
       "text"
@@ -7254,9 +7254,9 @@
     "headings": [
       "Questions About Your Prescription Drug Coverage"
     ],
-    "page": 148,
+    "page": 147,
     "pages": [
-      148
+      147
     ],
     "content_types": [
       "text"
@@ -7269,9 +7269,9 @@
     "headings": [
       "Prescription Drug List Exceptions"
     ],
-    "page": 148,
+    "page": 147,
     "pages": [
-      148
+      147
     ],
     "content_types": [
       "text"
@@ -7284,10 +7284,10 @@
     "headings": [
       "Binding Arbitration"
     ],
-    "page": 148,
+    "page": 147,
     "pages": [
-      148,
-      149
+      147,
+      148
     ],
     "content_types": [
       "text"
@@ -7300,9 +7300,9 @@
     "headings": [
       "Binding Arbitration"
     ],
-    "page": 149,
+    "page": 148,
     "pages": [
-      149
+      148
     ],
     "content_types": [
       "text"
@@ -7315,9 +7315,9 @@
     "headings": [
       "Eligibility and Enrollment - Adding Members"
     ],
-    "page": 150,
+    "page": 149,
     "pages": [
-      150
+      149
     ],
     "content_types": [
       "text"
@@ -7330,9 +7330,9 @@
     "headings": [
       "Subscriber's Eligibility"
     ],
-    "page": 150,
+    "page": 149,
     "pages": [
-      150
+      149
     ],
     "content_types": [
       "list_item",
@@ -7346,10 +7346,10 @@
     "headings": [
       "Dependents"
     ],
-    "page": 150,
+    "page": 149,
     "pages": [
-      150,
-      151
+      149,
+      150
     ],
     "content_types": [
       "list_item",
@@ -7363,9 +7363,9 @@
     "headings": [
       "Dependents"
     ],
-    "page": 151,
+    "page": 150,
     "pages": [
-      151
+      150
     ],
     "content_types": [
       "list_item",
@@ -7379,9 +7379,9 @@
     "headings": [
       "Types of Coverage"
     ],
-    "page": 151,
+    "page": 150,
     "pages": [
-      151
+      150
     ],
     "content_types": [
       "list_item",
@@ -7395,9 +7395,9 @@
     "headings": [
       "Initial Enrollment"
     ],
-    "page": 152,
+    "page": 151,
     "pages": [
-      152
+      151
     ],
     "content_types": [
       "text"
@@ -7410,9 +7410,9 @@
     "headings": [
       "Open Enrollment"
     ],
-    "page": 152,
+    "page": 151,
     "pages": [
-      152
+      151
     ],
     "content_types": [
       "text"
@@ -7425,9 +7425,9 @@
     "headings": [
       "Special Enrollment Periods"
     ],
-    "page": 152,
+    "page": 151,
     "pages": [
-      152
+      151
     ],
     "content_types": [
       "list_item",
@@ -7441,10 +7441,10 @@
     "headings": [
       "Important Notes about Special Enrollment"
     ],
-    "page": 152,
+    "page": 151,
     "pages": [
-      152,
-      153
+      151,
+      152
     ],
     "content_types": [
       "list_item",
@@ -7458,9 +7458,9 @@
     "headings": [
       "Late Enrollees"
     ],
-    "page": 153,
+    "page": 152,
     "pages": [
-      153
+      152
     ],
     "content_types": [
       "text"
@@ -7473,9 +7473,9 @@
     "headings": [
       "Members Covered Under the Group's Prior Plan"
     ],
-    "page": 153,
+    "page": 152,
     "pages": [
-      153
+      152
     ],
     "content_types": [
       "text"
@@ -7488,9 +7488,9 @@
     "headings": [
       "Updating Coverage and/or Removing Dependents"
     ],
-    "page": 153,
+    "page": 152,
     "pages": [
-      153
+      152
     ],
     "content_types": [
       "list_item",
@@ -7504,9 +7504,9 @@
     "headings": [
       "Nondiscrimination"
     ],
-    "page": 153,
+    "page": 152,
     "pages": [
-      153
+      152
     ],
     "content_types": [
       "text"
@@ -7519,9 +7519,9 @@
     "headings": [
       "Statements and Forms"
     ],
-    "page": 153,
+    "page": 152,
     "pages": [
-      153
+      152
     ],
     "content_types": [
       "text"
@@ -7534,9 +7534,9 @@
     "headings": [
       "Termination"
     ],
-    "page": 154,
+    "page": 153,
     "pages": [
-      154
+      153
     ],
     "content_types": [
       "list_item",
@@ -7550,9 +7550,9 @@
     "headings": [
       "Termination"
     ],
-    "page": 154,
+    "page": 153,
     "pages": [
-      154
+      153
     ],
     "content_types": [
       "list_item",
@@ -7566,9 +7566,9 @@
     "headings": [
       "Termination and Continuation of Coverage"
     ],
-    "page": 155,
+    "page": 154,
     "pages": [
-      155
+      154
     ],
     "content_types": [
       "list_item",
@@ -7582,9 +7582,9 @@
     "headings": [
       "Improper cancellation, rescission, or non-renewal (Grievance)"
     ],
-    "page": 155,
+    "page": 154,
     "pages": [
-      155
+      154
     ],
     "content_types": [
       "text"
@@ -7597,9 +7597,9 @@
     "headings": [
       "Removal of Members"
     ],
-    "page": 155,
+    "page": 154,
     "pages": [
-      155
+      154
     ],
     "content_types": [
       "text"
@@ -7612,9 +7612,9 @@
     "headings": [
       "Continuation of Coverage Under Federal Law (COBRA)"
     ],
-    "page": 155,
+    "page": 154,
     "pages": [
-      155
+      154
     ],
     "content_types": [
       "text"
@@ -7627,10 +7627,10 @@
     "headings": [
       "Qualifying events for Continuation Coverage under Federal Law (COBRA)"
     ],
-    "page": 155,
+    "page": 154,
     "pages": [
-      155,
-      156
+      154,
+      155
     ],
     "content_types": [
       "table",
@@ -7644,9 +7644,9 @@
     "headings": [
       "If Your Group Offers Retirement Coverage"
     ],
-    "page": 156,
+    "page": 155,
     "pages": [
-      156
+      155
     ],
     "content_types": [
       "text"
@@ -7659,9 +7659,9 @@
     "headings": [
       "Second qualifying event"
     ],
-    "page": 156,
+    "page": 155,
     "pages": [
-      156
+      155
     ],
     "content_types": [
       "text"
@@ -7674,9 +7674,9 @@
     "headings": [
       "Notification Requirements"
     ],
-    "page": 156,
+    "page": 155,
     "pages": [
-      156
+      155
     ],
     "content_types": [
       "text"
@@ -7689,9 +7689,9 @@
     "headings": [
       "You Must Give Notice of Some Qualifying Events"
     ],
-    "page": 157,
+    "page": 156,
     "pages": [
-      157
+      156
     ],
     "content_types": [
       "text"
@@ -7704,9 +7704,9 @@
     "headings": [
       "Electing COBRA Continuation Coverage"
     ],
-    "page": 157,
+    "page": 156,
     "pages": [
-      157
+      156
     ],
     "content_types": [
       "text"
@@ -7719,9 +7719,9 @@
     "headings": [
       "Disability extension of 18-month period of continuation coverage"
     ],
-    "page": 157,
+    "page": 156,
     "pages": [
-      157
+      156
     ],
     "content_types": [
       "text"
@@ -7734,9 +7734,9 @@
     "headings": [
       "Trade Adjustment Act Eligible Individual"
     ],
-    "page": 157,
+    "page": 156,
     "pages": [
-      157
+      156
     ],
     "content_types": [
       "text"
@@ -7749,9 +7749,9 @@
     "headings": [
       "When COBRA Coverage Ends"
     ],
-    "page": 157,
+    "page": 156,
     "pages": [
-      157
+      156
     ],
     "content_types": [
       "list_item",
@@ -7765,10 +7765,10 @@
     "headings": [
       "Other Coverage Options Besides COBRA Continuation Coverage"
     ],
-    "page": 157,
+    "page": 156,
     "pages": [
-      157,
-      158
+      156,
+      157
     ],
     "content_types": [
       "text"
@@ -7781,9 +7781,9 @@
     "headings": [
       "If You Have Questions"
     ],
-    "page": 158,
+    "page": 157,
     "pages": [
-      158
+      157
     ],
     "content_types": [
       "text"
@@ -7796,9 +7796,9 @@
     "headings": [
       "Continuation of Coverage Cal-COBRA"
     ],
-    "page": 158,
+    "page": 157,
     "pages": [
-      158
+      157
     ],
     "content_types": [
       "text"
@@ -7811,9 +7811,9 @@
     "headings": [
       "DEFINITIONS"
     ],
-    "page": 158,
+    "page": 157,
     "pages": [
-      158
+      157
     ],
     "content_types": [
       "text"
@@ -7826,9 +7826,9 @@
     "headings": [
       "A. For Subscriber and Dependents:"
     ],
-    "page": 158,
+    "page": 157,
     "pages": [
-      158
+      157
     ],
     "content_types": [
       "list_item"
@@ -7841,9 +7841,9 @@
     "headings": [
       "B. For Dependents:"
     ],
-    "page": 158,
+    "page": 157,
     "pages": [
-      158
+      157
     ],
     "content_types": [
       "list_item"
@@ -7856,9 +7856,9 @@
     "headings": [
       "ELIGIBILITY FOR CAL-COBRA CONTINUATION"
     ],
-    "page": 159,
+    "page": 158,
     "pages": [
-      159
+      158
     ],
     "content_types": [
       "text"
@@ -7871,9 +7871,9 @@
     "headings": [
       "TERMS OF CAL-COBRA CONTINUATION"
     ],
-    "page": 159,
+    "page": 158,
     "pages": [
-      159
+      158
     ],
     "content_types": [
       "list_item",
@@ -7887,10 +7887,10 @@
     "headings": [
       "TERMS OF CAL-COBRA CONTINUATION"
     ],
-    "page": 159,
+    "page": 158,
     "pages": [
-      159,
-      160
+      158,
+      159
     ],
     "content_types": [
       "list_item",
@@ -7904,9 +7904,9 @@
     "headings": [
       "TERMS OF CAL-COBRA CONTINUATION"
     ],
-    "page": 160,
+    "page": 159,
     "pages": [
-      160
+      159
     ],
     "content_types": [
       "text"
@@ -7919,10 +7919,10 @@
     "headings": [
       "The continuation will end on the earliest of:"
     ],
-    "page": 160,
+    "page": 159,
     "pages": [
-      160,
-      161
+      159,
+      160
     ],
     "content_types": [
       "list_item",
@@ -7936,9 +7936,9 @@
     "headings": [
       "Continuation of Coverage Due To Military Service"
     ],
-    "page": 161,
+    "page": 160,
     "pages": [
-      161
+      160
     ],
     "content_types": [
       "text"
@@ -7951,9 +7951,9 @@
     "headings": [
       "Maximum Period of Coverage During a Military Leave"
     ],
-    "page": 161,
+    "page": 160,
     "pages": [
-      161
+      160
     ],
     "content_types": [
       "list_item",
@@ -7967,9 +7967,9 @@
     "headings": [
       "Reinstatement of Coverage Following a Military Leave"
     ],
-    "page": 162,
+    "page": 161,
     "pages": [
-      162
+      161
     ],
     "content_types": [
       "list_item",
@@ -7983,9 +7983,9 @@
     "headings": [
       "Family and Medical Leave Act of 1993"
     ],
-    "page": 162,
+    "page": 161,
     "pages": [
-      162
+      161
     ],
     "content_types": [
       "text"
@@ -7998,9 +7998,9 @@
     "headings": [
       "Temporary Personal Leave of Absence"
     ],
-    "page": 162,
+    "page": 161,
     "pages": [
-      162
+      161
     ],
     "content_types": [
       "text"
@@ -8013,9 +8013,9 @@
     "headings": [
       "Temporary Medical Leave of Absence"
     ],
-    "page": 162,
+    "page": 161,
     "pages": [
-      162
+      161
     ],
     "content_types": [
       "text"
@@ -8028,10 +8028,10 @@
     "headings": [
       "Benefits After Termination Of Coverage"
     ],
-    "page": 162,
+    "page": 161,
     "pages": [
-      162,
-      163
+      161,
+      162
     ],
     "content_types": [
       "list_item",
@@ -8045,9 +8045,9 @@
     "headings": [
       "Assignment"
     ],
-    "page": 164,
+    "page": 163,
     "pages": [
-      164
+      163
     ],
     "content_types": [
       "text"
@@ -8060,9 +8060,9 @@
     "headings": [
       "Availability of Care"
     ],
-    "page": 164,
+    "page": 163,
     "pages": [
-      164
+      163
     ],
     "content_types": [
       "text"
@@ -8075,9 +8075,9 @@
     "headings": [
       "Care Coordination"
     ],
-    "page": 164,
+    "page": 163,
     "pages": [
-      164
+      163
     ],
     "content_types": [
       "text"
@@ -8090,9 +8090,9 @@
     "headings": [
       "Circumstances Beyond the Control of the Plan"
     ],
-    "page": 164,
+    "page": 163,
     "pages": [
-      164
+      163
     ],
     "content_types": [
       "text"
@@ -8105,9 +8105,9 @@
     "headings": [
       "Clerical Error"
     ],
-    "page": 164,
+    "page": 163,
     "pages": [
-      164
+      163
     ],
     "content_types": [
       "text"
@@ -8120,9 +8120,9 @@
     "headings": [
       "Confidentiality and Release of Information"
     ],
-    "page": 164,
+    "page": 163,
     "pages": [
-      164
+      163
     ],
     "content_types": [
       "text"
@@ -8135,9 +8135,9 @@
     "headings": [
       "General Provisions"
     ],
-    "page": 165,
+    "page": 164,
     "pages": [
-      165
+      164
     ],
     "content_types": [
       "text"
@@ -8150,9 +8150,9 @@
     "headings": [
       "Conformity with Law"
     ],
-    "page": 165,
+    "page": 164,
     "pages": [
-      165
+      164
     ],
     "content_types": [
       "text"
@@ -8165,9 +8165,9 @@
     "headings": [
       "Contract with Anthem"
     ],
-    "page": 165,
+    "page": 164,
     "pages": [
-      165
+      164
     ],
     "content_types": [
       "text"
@@ -8180,9 +8180,9 @@
     "headings": [
       "Entire Contract"
     ],
-    "page": 165,
+    "page": 164,
     "pages": [
-      165
+      164
     ],
     "content_types": [
       "text"
@@ -8195,9 +8195,9 @@
     "headings": [
       "Form or Content of Booklet"
     ],
-    "page": 165,
+    "page": 164,
     "pages": [
-      165
+      164
     ],
     "content_types": [
       "text"
@@ -8210,9 +8210,9 @@
     "headings": [
       "Governing Law"
     ],
-    "page": 165,
+    "page": 164,
     "pages": [
-      165
+      164
     ],
     "content_types": [
       "text"
@@ -8225,9 +8225,9 @@
     "headings": [
       "Government Programs"
     ],
-    "page": 165,
+    "page": 164,
     "pages": [
-      165
+      164
     ],
     "content_types": [
       "text"
@@ -8240,9 +8240,9 @@
     "headings": [
       "Legal Actions"
     ],
-    "page": 166,
+    "page": 165,
     "pages": [
-      166
+      165
     ],
     "content_types": [
       "text"
@@ -8255,9 +8255,9 @@
     "headings": [
       "Medical Policy and Technology Assessment"
     ],
-    "page": 166,
+    "page": 165,
     "pages": [
-      166
+      165
     ],
     "content_types": [
       "text"
@@ -8270,9 +8270,9 @@
     "headings": [
       "Medicare"
     ],
-    "page": 166,
+    "page": 165,
     "pages": [
-      166
+      165
     ],
     "content_types": [
       "text"
@@ -8285,9 +8285,9 @@
     "headings": [
       "Member Rights and Responsibilities"
     ],
-    "page": 166,
+    "page": 165,
     "pages": [
-      166
+      165
     ],
     "content_types": [
       "text"
@@ -8300,10 +8300,10 @@
     "headings": [
       "Modifications"
     ],
-    "page": 166,
+    "page": 165,
     "pages": [
-      166,
-      167
+      165,
+      166
     ],
     "content_types": [
       "text"
@@ -8316,9 +8316,9 @@
     "headings": [
       "Not Liable for Provider Acts or Omissions"
     ],
-    "page": 167,
+    "page": 166,
     "pages": [
-      167
+      166
     ],
     "content_types": [
       "text"
@@ -8331,9 +8331,9 @@
     "headings": [
       "Payment Innovation Programs"
     ],
-    "page": 167,
+    "page": 166,
     "pages": [
-      167
+      166
     ],
     "content_types": [
       "text"
@@ -8346,10 +8346,10 @@
     "headings": [
       "Payment to Providers and Provider Reimbursement"
     ],
-    "page": 167,
+    "page": 166,
     "pages": [
-      167,
-      168
+      166,
+      167
     ],
     "content_types": [
       "text"
@@ -8362,9 +8362,9 @@
     "headings": [
       "Plan Administrator - COBRA and ERISA"
     ],
-    "page": 168,
+    "page": 167,
     "pages": [
-      168
+      167
     ],
     "content_types": [
       "text"
@@ -8377,9 +8377,9 @@
     "headings": [
       "Policies, Procedures, and Pilot Programs"
     ],
-    "page": 168,
+    "page": 167,
     "pages": [
-      168
+      167
     ],
     "content_types": [
       "text"
@@ -8392,9 +8392,9 @@
     "headings": [
       "Program Incentives"
     ],
-    "page": 168,
+    "page": 167,
     "pages": [
-      168
+      167
     ],
     "content_types": [
       "text"
@@ -8407,9 +8407,9 @@
     "headings": [
       "Protection of Coverage"
     ],
-    "page": 168,
+    "page": 167,
     "pages": [
-      168
+      167
     ],
     "content_types": [
       "list_item",
@@ -8423,9 +8423,9 @@
     "headings": [
       "Public Policy Participation"
     ],
-    "page": 169,
+    "page": 168,
     "pages": [
-      169
+      168
     ],
     "content_types": [
       "text"
@@ -8438,9 +8438,9 @@
     "headings": [
       "Receipt of Information"
     ],
-    "page": 169,
+    "page": 168,
     "pages": [
-      169
+      168
     ],
     "content_types": [
       "text"
@@ -8453,9 +8453,9 @@
     "headings": [
       "Relationship of Parties (Group-Member-Anthem)"
     ],
-    "page": 169,
+    "page": 168,
     "pages": [
-      169
+      168
     ],
     "content_types": [
       "text"
@@ -8468,9 +8468,9 @@
     "headings": [
       "Relationship of Parties (Anthem and In-Network Providers)"
     ],
-    "page": 169,
+    "page": 168,
     "pages": [
-      169
+      168
     ],
     "content_types": [
       "text"
@@ -8483,9 +8483,9 @@
     "headings": [
       "Responsibility to Pay Providers"
     ],
-    "page": 170,
+    "page": 169,
     "pages": [
-      170
+      169
     ],
     "content_types": [
       "text"
@@ -8498,9 +8498,9 @@
     "headings": [
       "Right of Recovery and Adjustment"
     ],
-    "page": 170,
+    "page": 169,
     "pages": [
-      170
+      169
     ],
     "content_types": [
       "text"
@@ -8513,9 +8513,9 @@
     "headings": [
       "Termination of Providers"
     ],
-    "page": 170,
+    "page": 169,
     "pages": [
-      170
+      169
     ],
     "content_types": [
       "text"
@@ -8528,10 +8528,10 @@
     "headings": [
       "Terms of Coverage"
     ],
-    "page": 170,
+    "page": 169,
     "pages": [
-      170,
-      171
+      169,
+      170
     ],
     "content_types": [
       "list_item"
@@ -8544,9 +8544,9 @@
     "headings": [
       "Unauthorized Use of Identification Card"
     ],
-    "page": 171,
+    "page": 170,
     "pages": [
-      171
+      170
     ],
     "content_types": [
       "text"
@@ -8559,9 +8559,9 @@
     "headings": [
       "Value-Added Programs"
     ],
-    "page": 171,
+    "page": 170,
     "pages": [
-      171
+      170
     ],
     "content_types": [
       "text"
@@ -8574,9 +8574,9 @@
     "headings": [
       "Value of Covered Services"
     ],
-    "page": 171,
+    "page": 170,
     "pages": [
-      171
+      170
     ],
     "content_types": [
       "text"
@@ -8589,9 +8589,9 @@
     "headings": [
       "Voluntary Clinical Quality Programs"
     ],
-    "page": 171,
+    "page": 170,
     "pages": [
-      171
+      170
     ],
     "content_types": [
       "text"
@@ -8604,10 +8604,10 @@
     "headings": [
       "Voluntary Wellness Incentive Programs"
     ],
-    "page": 171,
+    "page": 170,
     "pages": [
-      171,
-      172
+      170,
+      171
     ],
     "content_types": [
       "text"
@@ -8620,9 +8620,9 @@
     "headings": [
       "Waiver"
     ],
-    "page": 172,
+    "page": 171,
     "pages": [
-      172
+      171
     ],
     "content_types": [
       "text"
@@ -8635,9 +8635,9 @@
     "headings": [
       "Workers' Compensation"
     ],
-    "page": 172,
+    "page": 171,
     "pages": [
-      172
+      171
     ],
     "content_types": [
       "text"
@@ -8650,9 +8650,9 @@
     "headings": [
       "Definitions"
     ],
-    "page": 173,
+    "page": 172,
     "pages": [
-      173
+      172
     ],
     "content_types": [
       "text"
@@ -8665,9 +8665,9 @@
     "headings": [
       "Accidental Injury"
     ],
-    "page": 173,
+    "page": 172,
     "pages": [
-      173
+      172
     ],
     "content_types": [
       "text"
@@ -8680,9 +8680,9 @@
     "headings": [
       "Ambulatory Surgery Center"
     ],
-    "page": 173,
+    "page": 172,
     "pages": [
-      173
+      172
     ],
     "content_types": [
       "text"
@@ -8695,9 +8695,9 @@
     "headings": [
       "Anthem Blue Cross (Anthem)"
     ],
-    "page": 173,
+    "page": 172,
     "pages": [
-      173
+      172
     ],
     "content_types": [
       "text"
@@ -8710,9 +8710,9 @@
     "headings": [
       "Approved In-Network Provider"
     ],
-    "page": 173,
+    "page": 172,
     "pages": [
-      173
+      172
     ],
     "content_types": [
       "text"
@@ -8725,9 +8725,9 @@
     "headings": [
       "Authorized Referral"
     ],
-    "page": 173,
+    "page": 172,
     "pages": [
-      173
+      172
     ],
     "content_types": [
       "list_item",
@@ -8741,9 +8741,9 @@
     "headings": [
       "Benefit Period"
     ],
-    "page": 173,
+    "page": 172,
     "pages": [
-      173
+      172
     ],
     "content_types": [
       "text"
@@ -8756,9 +8756,9 @@
     "headings": [
       "Benefit Period Maximum"
     ],
-    "page": 173,
+    "page": 172,
     "pages": [
-      173
+      172
     ],
     "content_types": [
       "text"
@@ -8771,9 +8771,9 @@
     "headings": [
       "Biosimilar/Biosimilars"
     ],
-    "page": 173,
+    "page": 172,
     "pages": [
-      173
+      172
     ],
     "content_types": [
       "text"
@@ -8786,9 +8786,9 @@
     "headings": [
       "Booklet"
     ],
-    "page": 174,
+    "page": 173,
     "pages": [
-      174
+      173
     ],
     "content_types": [
       "text"
@@ -8801,9 +8801,9 @@
     "headings": [
       "Brand Name Drugs (Brand Drugs)"
     ],
-    "page": 174,
+    "page": 173,
     "pages": [
-      174
+      173
     ],
     "content_types": [
       "text"
@@ -8816,9 +8816,9 @@
     "headings": [
       "Centers of Excellence (COE) Network"
     ],
-    "page": 174,
+    "page": 173,
     "pages": [
-      174
+      173
     ],
     "content_types": [
       "text"
@@ -8831,9 +8831,9 @@
     "headings": [
       "Coinsurance"
     ],
-    "page": 174,
+    "page": 173,
     "pages": [
-      174
+      173
     ],
     "content_types": [
       "text"
@@ -8846,9 +8846,9 @@
     "headings": [
       "Consolidated Appropriations Act of 2021"
     ],
-    "page": 174,
+    "page": 173,
     "pages": [
-      174
+      173
     ],
     "content_types": [
       "text"
@@ -8861,9 +8861,9 @@
     "headings": [
       "Controlled Substances"
     ],
-    "page": 174,
+    "page": 173,
     "pages": [
-      174
+      173
     ],
     "content_types": [
       "text"
@@ -8876,9 +8876,9 @@
     "headings": [
       "Copayment"
     ],
-    "page": 174,
+    "page": 173,
     "pages": [
-      174
+      173
     ],
     "content_types": [
       "text"
@@ -8891,9 +8891,9 @@
     "headings": [
       "Cosmetic Services"
     ],
-    "page": 174,
+    "page": 173,
     "pages": [
-      174
+      173
     ],
     "content_types": [
       "text"
@@ -8906,9 +8906,9 @@
     "headings": [
       "Covered Procedure"
     ],
-    "page": 174,
+    "page": 173,
     "pages": [
-      174
+      173
     ],
     "content_types": [
       "text"
@@ -8921,10 +8921,10 @@
     "headings": [
       "Covered Services"
     ],
-    "page": 174,
+    "page": 173,
     "pages": [
-      174,
-      175
+      173,
+      174
     ],
     "content_types": [
       "list_item",
@@ -8938,9 +8938,9 @@
     "headings": [
       "Custodial Care"
     ],
-    "page": 175,
+    "page": 174,
     "pages": [
-      175
+      174
     ],
     "content_types": [
       "list_item",
@@ -8954,9 +8954,9 @@
     "headings": [
       "Deductible"
     ],
-    "page": 175,
+    "page": 174,
     "pages": [
-      175
+      174
     ],
     "content_types": [
       "text"
@@ -8969,9 +8969,9 @@
     "headings": [
       "Dependent"
     ],
-    "page": 175,
+    "page": 174,
     "pages": [
-      175
+      174
     ],
     "content_types": [
       "text"
@@ -8984,9 +8984,9 @@
     "headings": [
       "Designated Pharmacy Provider"
     ],
-    "page": 175,
+    "page": 174,
     "pages": [
-      175
+      174
     ],
     "content_types": [
       "text"
@@ -8999,10 +8999,10 @@
     "headings": [
       "Diabetes Equipment and Supplies"
     ],
-    "page": 175,
+    "page": 174,
     "pages": [
-      175,
-      176
+      174,
+      175
     ],
     "content_types": [
       "list_item",
@@ -9016,9 +9016,9 @@
     "headings": [
       "Diabetes Outpatient Self-Management Training Program"
     ],
-    "page": 176,
+    "page": 175,
     "pages": [
-      176
+      175
     ],
     "content_types": [
       "text"
@@ -9031,9 +9031,9 @@
     "headings": [
       "Doctor"
     ],
-    "page": 176,
+    "page": 175,
     "pages": [
-      176
+      175
     ],
     "content_types": [
       "text"
@@ -9046,9 +9046,9 @@
     "headings": [
       "Domestic Partner (Domestic Partnership)"
     ],
-    "page": 176,
+    "page": 175,
     "pages": [
-      176
+      175
     ],
     "content_types": [
       "text"
@@ -9061,9 +9061,9 @@
     "headings": [
       "Effective Date"
     ],
-    "page": 176,
+    "page": 175,
     "pages": [
-      176
+      175
     ],
     "content_types": [
       "text"
@@ -9076,9 +9076,9 @@
     "headings": [
       "Emergency (Emergency Medical Condition)"
     ],
-    "page": 176,
+    "page": 175,
     "pages": [
-      176
+      175
     ],
     "content_types": [
       "text"
@@ -9091,9 +9091,9 @@
     "headings": [
       "Emergency Care"
     ],
-    "page": 176,
+    "page": 175,
     "pages": [
-      176
+      175
     ],
     "content_types": [
       "text"
@@ -9106,9 +9106,9 @@
     "headings": [
       "Excluded Services (Exclusion)"
     ],
-    "page": 176,
+    "page": 175,
     "pages": [
-      176
+      175
     ],
     "content_types": [
       "text"
@@ -9121,9 +9121,9 @@
     "headings": [
       "Experimental and Experimental Procedures"
     ],
-    "page": 176,
+    "page": 175,
     "pages": [
-      176
+      175
     ],
     "content_types": [
       "text"
@@ -9136,9 +9136,9 @@
     "headings": [
       "Facility"
     ],
-    "page": 176,
+    "page": 175,
     "pages": [
-      176
+      175
     ],
     "content_types": [
       "text"
@@ -9151,9 +9151,9 @@
     "headings": [
       "Gender Dysphoria"
     ],
-    "page": 176,
+    "page": 175,
     "pages": [
-      176
+      175
     ],
     "content_types": [
       "text"
@@ -9166,9 +9166,9 @@
     "headings": [
       "Gender Transition"
     ],
-    "page": 176,
+    "page": 175,
     "pages": [
-      176
+      175
     ],
     "content_types": [
       "text"
@@ -9181,9 +9181,9 @@
     "headings": [
       "Generally Accepted Standards of Mental Health and Substance Use Disorder Care"
     ],
-    "page": 177,
+    "page": 176,
     "pages": [
-      177
+      176
     ],
     "content_types": [
       "text"
@@ -9196,9 +9196,9 @@
     "headings": [
       "Generic Drugs (Generic)"
     ],
-    "page": 177,
+    "page": 176,
     "pages": [
-      177
+      176
     ],
     "content_types": [
       "text"
@@ -9211,9 +9211,9 @@
     "headings": [
       "Group"
     ],
-    "page": 177,
+    "page": 176,
     "pages": [
-      177
+      176
     ],
     "content_types": [
       "text"
@@ -9226,9 +9226,9 @@
     "headings": [
       "Group Contract (Contract)"
     ],
-    "page": 177,
+    "page": 176,
     "pages": [
-      177
+      176
     ],
     "content_types": [
       "text"
@@ -9241,9 +9241,9 @@
     "headings": [
       "Home Health Care Agency"
     ],
-    "page": 177,
+    "page": 176,
     "pages": [
-      177
+      176
     ],
     "content_types": [
       "list_item",
@@ -9257,9 +9257,9 @@
     "headings": [
       "Hospice"
     ],
-    "page": 177,
+    "page": 176,
     "pages": [
-      177
+      176
     ],
     "content_types": [
       "text"
@@ -9272,9 +9272,9 @@
     "headings": [
       "Hospital"
     ],
-    "page": 177,
+    "page": 176,
     "pages": [
-      177
+      176
     ],
     "content_types": [
       "list_item",
@@ -9288,9 +9288,9 @@
     "headings": [
       "Identification Card (ID Card)"
     ],
-    "page": 178,
+    "page": 177,
     "pages": [
-      178
+      177
     ],
     "content_types": [
       "text"
@@ -9303,9 +9303,9 @@
     "headings": [
       "Infusion Therapy"
     ],
-    "page": 178,
+    "page": 177,
     "pages": [
-      178
+      177
     ],
     "content_types": [
       "text"
@@ -9318,9 +9318,9 @@
     "headings": [
       "In-Network Provider"
     ],
-    "page": 178,
+    "page": 177,
     "pages": [
-      178
+      177
     ],
     "content_types": [
       "text"
@@ -9333,9 +9333,9 @@
     "headings": [
       "Inpatient"
     ],
-    "page": 178,
+    "page": 177,
     "pages": [
-      178
+      177
     ],
     "content_types": [
       "text"
@@ -9348,9 +9348,9 @@
     "headings": [
       "Intensive In-Home Behavioral Health Program"
     ],
-    "page": 178,
+    "page": 177,
     "pages": [
-      178
+      177
     ],
     "content_types": [
       "text"
@@ -9363,9 +9363,9 @@
     "headings": [
       "Intensive Outpatient Program"
     ],
-    "page": 178,
+    "page": 177,
     "pages": [
-      178
+      177
     ],
     "content_types": [
       "text"
@@ -9378,9 +9378,9 @@
     "headings": [
       "Interchangeable Biological Product"
     ],
-    "page": 178,
+    "page": 177,
     "pages": [
-      178
+      177
     ],
     "content_types": [
       "text"
@@ -9393,9 +9393,9 @@
     "headings": [
       "Investigational and Investigational Procedures"
     ],
-    "page": 178,
+    "page": 177,
     "pages": [
-      178
+      177
     ],
     "content_types": [
       "list_item",
@@ -9409,9 +9409,9 @@
     "headings": [
       "Late Enrollees"
     ],
-    "page": 179,
+    "page": 178,
     "pages": [
-      179
+      178
     ],
     "content_types": [
       "text"
@@ -9424,9 +9424,9 @@
     "headings": [
       "Maintenance Medications"
     ],
-    "page": 179,
+    "page": 178,
     "pages": [
-      179
+      178
     ],
     "content_types": [
       "text"
@@ -9439,9 +9439,9 @@
     "headings": [
       "Maintenance Pharmacy"
     ],
-    "page": 179,
+    "page": 178,
     "pages": [
-      179
+      178
     ],
     "content_types": [
       "text"
@@ -9454,9 +9454,9 @@
     "headings": [
       "Maximum Allowed Amount"
     ],
-    "page": 179,
+    "page": 178,
     "pages": [
-      179
+      178
     ],
     "content_types": [
       "text"
@@ -9469,9 +9469,9 @@
     "headings": [
       "Medical Necessity (Medically Necessary)"
     ],
-    "page": 179,
+    "page": 178,
     "pages": [
-      179
+      178
     ],
     "content_types": [
       "list_item",
@@ -9485,9 +9485,9 @@
     "headings": [
       "Medically Necessary Orthodontic Care"
     ],
-    "page": 179,
+    "page": 178,
     "pages": [
-      179
+      178
     ],
     "content_types": [
       "text"
@@ -9500,9 +9500,9 @@
     "headings": [
       "Member"
     ],
-    "page": 180,
+    "page": 179,
     "pages": [
-      180
+      179
     ],
     "content_types": [
       "text"
@@ -9515,9 +9515,9 @@
     "headings": [
       "Mental Health and Substance Use Disorder"
     ],
-    "page": 180,
+    "page": 179,
     "pages": [
-      180
+      179
     ],
     "content_types": [
       "text"
@@ -9530,9 +9530,9 @@
     "headings": [
       "Open Enrollment"
     ],
-    "page": 180,
+    "page": 179,
     "pages": [
-      180
+      179
     ],
     "content_types": [
       "text"
@@ -9545,9 +9545,9 @@
     "headings": [
       "Other Eligible Providers"
     ],
-    "page": 180,
+    "page": 179,
     "pages": [
-      180
+      179
     ],
     "content_types": [
       "text"
@@ -9560,9 +9560,9 @@
     "headings": [
       "Out-of-Network Provider"
     ],
-    "page": 180,
+    "page": 179,
     "pages": [
-      180
+      179
     ],
     "content_types": [
       "text"
@@ -9575,9 +9575,9 @@
     "headings": [
       "Out-of-Pocket Limit"
     ],
-    "page": 180,
+    "page": 179,
     "pages": [
-      180
+      179
     ],
     "content_types": [
       "text"
@@ -9590,9 +9590,9 @@
     "headings": [
       "Partial Hospitalization Program"
     ],
-    "page": 180,
+    "page": 179,
     "pages": [
-      180
+      179
     ],
     "content_types": [
       "text"
@@ -9605,9 +9605,9 @@
     "headings": [
       "Pharmacy"
     ],
-    "page": 180,
+    "page": 179,
     "pages": [
-      180
+      179
     ],
     "content_types": [
       "text"
@@ -9620,10 +9620,10 @@
     "headings": [
       "Pharmacy and Therapeutics (P&T) Process"
     ],
-    "page": 180,
+    "page": 179,
     "pages": [
-      180,
-      181
+      179,
+      180
     ],
     "content_types": [
       "text"
@@ -9636,9 +9636,9 @@
     "headings": [
       "Pharmacy Benefits Manager (PBM)"
     ],
-    "page": 181,
+    "page": 180,
     "pages": [
-      181
+      180
     ],
     "content_types": [
       "text"
@@ -9651,9 +9651,9 @@
     "headings": [
       "Physician (Doctor)"
     ],
-    "page": 181,
+    "page": 180,
     "pages": [
-      181
+      180
     ],
     "content_types": [
       "list_item",
@@ -9667,9 +9667,9 @@
     "headings": [
       "Plan"
     ],
-    "page": 181,
+    "page": 180,
     "pages": [
-      181
+      180
     ],
     "content_types": [
       "text"
@@ -9682,9 +9682,9 @@
     "headings": [
       "Precertification"
     ],
-    "page": 181,
+    "page": 180,
     "pages": [
-      181
+      180
     ],
     "content_types": [
       "text"
@@ -9697,9 +9697,9 @@
     "headings": [
       "Premium"
     ],
-    "page": 181,
+    "page": 180,
     "pages": [
-      181
+      180
     ],
     "content_types": [
       "text"
@@ -9712,9 +9712,9 @@
     "headings": [
       "Prescription Drug (Drug)"
     ],
-    "page": 181,
+    "page": 180,
     "pages": [
-      181
+      180
     ],
     "content_types": [
       "list_item",
@@ -9728,9 +9728,9 @@
     "headings": [
       "Prescription Order"
     ],
-    "page": 181,
+    "page": 180,
     "pages": [
-      181
+      180
     ],
     "content_types": [
       "text"
@@ -9743,10 +9743,10 @@
     "headings": [
       "Primary Care Physician ('PCP')"
     ],
-    "page": 181,
+    "page": 180,
     "pages": [
-      181,
-      182
+      180,
+      181
     ],
     "content_types": [
       "text"
@@ -9759,9 +9759,9 @@
     "headings": [
       "Primary Care Provider"
     ],
-    "page": 182,
+    "page": 181,
     "pages": [
-      182
+      181
     ],
     "content_types": [
       "text"
@@ -9774,9 +9774,9 @@
     "headings": [
       "Provider"
     ],
-    "page": 182,
+    "page": 181,
     "pages": [
-      182
+      181
     ],
     "content_types": [
       "text"
@@ -9789,9 +9789,9 @@
     "headings": [
       "Psychiatric Emergency Medical Condition"
     ],
-    "page": 182,
+    "page": 181,
     "pages": [
-      182
+      181
     ],
     "content_types": [
       "list_item",
@@ -9805,9 +9805,9 @@
     "headings": [
       "Qualifying Payment Amount"
     ],
-    "page": 182,
+    "page": 181,
     "pages": [
-      182
+      181
     ],
     "content_types": [
       "text"
@@ -9820,9 +9820,9 @@
     "headings": [
       "Reasonable and Customary Value"
     ],
-    "page": 182,
+    "page": 181,
     "pages": [
-      182
+      181
     ],
     "content_types": [
       "text"
@@ -9835,9 +9835,9 @@
     "headings": [
       "Recognized Amount"
     ],
-    "page": 182,
+    "page": 181,
     "pages": [
-      182
+      181
     ],
     "content_types": [
       "list_item",
@@ -9851,9 +9851,9 @@
     "headings": [
       "Reconstructive Surgery"
     ],
-    "page": 182,
+    "page": 181,
     "pages": [
-      182
+      181
     ],
     "content_types": [
       "text"
@@ -9866,9 +9866,9 @@
     "headings": [
       "Recovery"
     ],
-    "page": 182,
+    "page": 181,
     "pages": [
-      182
+      181
     ],
     "content_types": [
       "text"
@@ -9881,9 +9881,9 @@
     "headings": [
       "Residential Treatment Center / Facility"
     ],
-    "page": 183,
+    "page": 182,
     "pages": [
-      183
+      182
     ],
     "content_types": [
       "list_item",
@@ -9897,9 +9897,9 @@
     "headings": [
       "Retail Health Clinic"
     ],
-    "page": 183,
+    "page": 182,
     "pages": [
-      183
+      182
     ],
     "content_types": [
       "text"
@@ -9912,9 +9912,9 @@
     "headings": [
       "Self-Administered Hormonal Contraceptives"
     ],
-    "page": 183,
+    "page": 182,
     "pages": [
-      183
+      182
     ],
     "content_types": [
       "list_item",
@@ -9928,9 +9928,9 @@
     "headings": [
       "Service Area"
     ],
-    "page": 183,
+    "page": 182,
     "pages": [
-      183
+      182
     ],
     "content_types": [
       "text"
@@ -9943,9 +9943,9 @@
     "headings": [
       "Site-of-Service Provider"
     ],
-    "page": 183,
+    "page": 182,
     "pages": [
-      183
+      182
     ],
     "content_types": [
       "list_item",
@@ -9959,9 +9959,9 @@
     "headings": [
       "Skilled Nursing Facility"
     ],
-    "page": 183,
+    "page": 182,
     "pages": [
-      183
+      182
     ],
     "content_types": [
       "text"
@@ -9974,9 +9974,9 @@
     "headings": [
       "Special Enrollment"
     ],
-    "page": 184,
+    "page": 183,
     "pages": [
-      184
+      183
     ],
     "content_types": [
       "text"
@@ -9989,9 +9989,9 @@
     "headings": [
       "Special Footwear"
     ],
-    "page": 184,
+    "page": 183,
     "pages": [
-      184
+      183
     ],
     "content_types": [
       "text"
@@ -10004,9 +10004,9 @@
     "headings": [
       "Specialist (Specialty Care Physician / Provider or SCP)"
     ],
-    "page": 184,
+    "page": 183,
     "pages": [
-      184
+      183
     ],
     "content_types": [
       "text"
@@ -10019,9 +10019,9 @@
     "headings": [
       "Specialty Drugs"
     ],
-    "page": 184,
+    "page": 183,
     "pages": [
-      184
+      183
     ],
     "content_types": [
       "text"
@@ -10034,9 +10034,9 @@
     "headings": [
       "Subscriber"
     ],
-    "page": 184,
+    "page": 183,
     "pages": [
-      184
+      183
     ],
     "content_types": [
       "text"
@@ -10049,9 +10049,9 @@
     "headings": [
       "Surprise Billing Claim"
     ],
-    "page": 184,
+    "page": 183,
     "pages": [
-      184
+      183
     ],
     "content_types": [
       "text"
@@ -10064,9 +10064,9 @@
     "headings": [
       "Total Disability (or Totally Disabled)"
     ],
-    "page": 184,
+    "page": 183,
     "pages": [
-      184
+      183
     ],
     "content_types": [
       "text"
@@ -10079,9 +10079,9 @@
     "headings": [
       "Urgent Care"
     ],
-    "page": 184,
+    "page": 183,
     "pages": [
-      184
+      183
     ],
     "content_types": [
       "text"
@@ -10094,9 +10094,9 @@
     "headings": [
       "Urgent Care Center"
     ],
-    "page": 184,
+    "page": 183,
     "pages": [
-      184
+      183
     ],
     "content_types": [
       "text"
@@ -10109,9 +10109,9 @@
     "headings": [
       "Utilization Review"
     ],
-    "page": 184,
+    "page": 183,
     "pages": [
-      184
+      183
     ],
     "content_types": [
       "text"
@@ -10124,9 +10124,9 @@
     "headings": [
       "Language Assistance Services"
     ],
-    "page": 185,
+    "page": 184,
     "pages": [
-      185
+      184
     ],
     "content_types": [
       "text"
@@ -10139,9 +10139,9 @@
     "headings": [
       "Spanish"
     ],
-    "page": 185,
+    "page": 184,
     "pages": [
-      185
+      184
     ],
     "content_types": [
       "text"
@@ -10154,9 +10154,9 @@
     "headings": [
       "Arabic"
     ],
-    "page": 185,
+    "page": 184,
     "pages": [
-      185
+      184
     ],
     "content_types": [
       "text"
@@ -10169,9 +10169,9 @@
     "headings": [
       "Armenian"
     ],
-    "page": 185,
+    "page": 184,
     "pages": [
-      185
+      184
     ],
     "content_types": [
       "text"
@@ -10184,9 +10184,9 @@
     "headings": [
       "Chinese"
     ],
-    "page": 185,
+    "page": 184,
     "pages": [
-      185
+      184
     ],
     "content_types": [
       "text"
@@ -10199,9 +10199,9 @@
     "headings": [
       "Farsi"
     ],
-    "page": 185,
+    "page": 184,
     "pages": [
-      185
+      184
     ],
     "content_types": [
       "text"
@@ -10214,9 +10214,9 @@
     "headings": [
       "Hindi"
     ],
-    "page": 185,
+    "page": 184,
     "pages": [
-      185
+      184
     ],
     "content_types": [
       "text"
@@ -10229,9 +10229,9 @@
     "headings": [
       "Hmong"
     ],
-    "page": 186,
+    "page": 185,
     "pages": [
-      186
+      185
     ],
     "content_types": [
       "text"
@@ -10244,9 +10244,9 @@
     "headings": [
       "Japanese"
     ],
-    "page": 186,
+    "page": 185,
     "pages": [
-      186
+      185
     ],
     "content_types": [
       "text"
@@ -10259,9 +10259,9 @@
     "headings": [
       "Khmer"
     ],
-    "page": 186,
+    "page": 185,
     "pages": [
-      186
+      185
     ],
     "content_types": [
       "text"
@@ -10274,9 +10274,9 @@
     "headings": [
       "Korean"
     ],
-    "page": 186,
+    "page": 185,
     "pages": [
-      186
+      185
     ],
     "content_types": [
       "text"
@@ -10285,13 +10285,13 @@
   },
   {
     "id": 669,
-    "text": "Hiseyao: dt gf feg usd ug Hae ?off, 3t mnf feH 7 $ eeH e 2 Hg Re 2aH pps fe R2 k kq e2 e Phuk p 'lRQ 2ak seR e eeH Pe Shuh fadaao1888-254-2721aa (TTY/TDD: 711)",
+    "text": "Hiseyao: dt gf feg usd ug Hae ?off, 3t mnf feH 7 $ eeH e 2 Hg Re 2aH pps R2 k kq e2 e Phuk p 'lRQ 2ak seR e eeH Pe Shuh fadaao1888-254-2721aa (TTY/TDD: 711)",
     "headings": [
       "Punjabi"
     ],
-    "page": 186,
+    "page": 185,
     "pages": [
-      186
+      185
     ],
     "content_types": [
       "text"
@@ -10304,9 +10304,9 @@
     "headings": [
       "Russian"
     ],
-    "page": 186,
+    "page": 185,
     "pages": [
-      186
+      185
     ],
     "content_types": [
       "text"
@@ -10319,9 +10319,9 @@
     "headings": [
       "Tagalog"
     ],
-    "page": 186,
+    "page": 185,
     "pages": [
-      186
+      185
     ],
     "content_types": [
       "text"
@@ -10334,9 +10334,9 @@
     "headings": [
       "Thai"
     ],
-    "page": 186,
+    "page": 185,
     "pages": [
-      186
+      185
     ],
     "content_types": [
       "text"
@@ -10349,9 +10349,9 @@
     "headings": [
       "Vietnamese"
     ],
-    "page": 186,
+    "page": 185,
     "pages": [
-      186
+      185
     ],
     "content_types": [
       "text"
@@ -10364,9 +10364,9 @@
     "headings": [
       "It's important we treat you fairly"
     ],
-    "page": 187,
+    "page": 186,
     "pages": [
-      187
+      186
     ],
     "content_types": [
       "text"

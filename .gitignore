@@ -7,3 +7,6 @@ venv/
 .ipynb_checkpoints/
 .DS_Store
 weaviate_data/
+data/eval_results*.csv
+data/pipeline_results*.json
+data/citation_correctness_results*.json
