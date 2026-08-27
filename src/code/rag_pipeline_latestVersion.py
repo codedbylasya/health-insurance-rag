@@ -62,6 +62,11 @@ def run_rag_pipeline(working_question: str) -> dict:
             if obj.uuid not in seen_uuids:
                 seen_uuids.add(obj.uuid)
                 merged_objects.append(obj)
+        print(f"\n========== MERGED CANDIDATE POOL ({len(merged_objects)} chunks) ==========")
+        for i, obj in enumerate(merged_objects, start=1):
+            page_preview = obj.properties.get('pages', [])
+            text_preview = (obj.properties.get('text') or "")[:70].replace("\n", " ")
+            print(f"Rank {i:2d}  page {page_preview}  '{text_preview}'")
         # ============ RERANK THE MERGED POOL ============
         docs = [obj.properties.get('text') for obj in merged_objects]
         rerank_response = cohere_client.rerank(
@@ -70,19 +75,23 @@ def run_rag_pipeline(working_question: str) -> dict:
             documents=docs,
             top_n=3
         )
-        top_context = []
+        top_5_context = []
         for r in rerank_response.results:
             obj = merged_objects[r.index]
-            top_context.append({
+            top_5_context.append({
                 "text": obj.properties.get('text'),
                 "score": r.relevance_score,
                 "pages": obj.properties.get('pages', []),   # full page range, not just first page
                 "source": obj.properties.get('source_file')
             })
+        print(f"\n========== RERANKED TOP {len(top_5_context)} (sent to LLM) ==========")
+        for i, item in enumerate(top_5_context, start=1):
+            text_preview = (item['text'] or "")[:80].replace("\n", " ")
+            print(f"Rank {i}  page {item['pages']}  score={item['score']:.4f}  '{text_preview}'")
 
     # ============ BUILD LLM CONTEXT ============
     llm_context_block = ""
-    for num, item in enumerate(top_context, start=1):
+    for num, item in enumerate(top_5_context, start=1):
         pages = item['pages']
         page_str = f"{pages[0]}-{pages[-1]}" if len(pages) > 1 else str(pages[0]) if pages else "unknown"
         llm_context_block += f"[Source: {item['source']}, Page {page_str}]\n"
@@ -112,7 +121,7 @@ def run_rag_pipeline(working_question: str) -> dict:
         answer_pii_check = pii_guardrail(user_question=None, generated_answer=answer)
         answer = answer_pii_check["redacted_answer"]
     
-    """except InferenceTimeoutError:
+    except InferenceTimeoutError:
         error = "LLM request timed out"
     except HfHubHTTPError as e:
         if "429" in str(e):
@@ -121,9 +130,8 @@ def run_rag_pipeline(working_question: str) -> dict:
             error = f"HF API error: {str(e)}"
     except Exception as e:
         error = f"Unexpected error: {str(e)}"
-    except groq.APITimeoutError:
+    """except groq.APITimeoutError:
         error = "LLM request timed out"
-        """
     except groq.RateLimitError as e:
         error = "Rate limit hit — please retry in a moment"
     except groq.APIConnectionError as e:
@@ -132,11 +140,12 @@ def run_rag_pipeline(working_question: str) -> dict:
         error = f"Groq API error {e.status_code}: {str(e)}"
     except Exception as e:
         error = f"Unexpected error: {str(e)}"
+        """
     return {
         "question": user_question,
         "answer": answer,
         "error": error,
-        "context": top_context,
+        "context": top_5_context,
         "prompt": final_prompt,
     }
 
