@@ -32,7 +32,7 @@ check).
 ### Retrieval: dual-query fusion
 
 Each question runs through Weaviate **twice**, not once:
-1. A balanced hybrid search (`alpha=0.5` — half vector similarity, half keyword match)
+1. A balanced hybrid search (`alpha=0.5` half vector similarity, half keyword match)
 2. A pure-keyword search (`alpha=0.0`)
 
 Results from both are merged and deduplicated by chunk ID before reranking,
@@ -51,7 +51,7 @@ Five checks, run against a hand-verified 20-question golden dataset:
 | Context Precision | RAGAS (LLM-judged) | Was what was retrieved relevant? |
 | Faithfulness | RAGAS (LLM-judged) | Is the answer grounded in retrieved context? |
 | Citation Correctness | Custom, deterministic | Does the cited page match the source? |
-| Threshold check | Custom, deterministic | Gates CI — fails the build if any score drops below a set baseline |
+| Threshold check | Custom, deterministic | Gates CI, fails the build if any score drops below a set baseline |
 
 **Latest scores (dual-query fusion):**
 
